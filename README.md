@@ -32,8 +32,11 @@ Detailed instructions on how to use the code:
   ```bash
   git clone https://github.com/yourusername/ToxDTIEngine.git
 
+- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the 'pathfx/' folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the 'runpathfx_scr.py' script in our 'scripts' folder to run the last version of PathFX on your operating system and re-generate the results.
+
 - The data/ folder contains both raw and processed drug-target interaction data:
   - raw_data/: Contains raw DTI data from various databases.
+    - The 'DrugToxicity_data.txt' file in the 'data/raw_data/' folder is the dataset we used for our analysis, consisting of pairs of drugs and their associated side effects obtained from drug labels. 
   - processed_data/: Contains processed DTI data ready for analysis.
 
 - To preprocess the data:
@@ -47,6 +50,8 @@ Detailed instructions on how to use the code:
 - To run predictive modeling and ranking:
   ```bash
   python scripts/Predictive_Modeling_&_Ranking.py
+
+- Make sure to update the directory paths in all scripts to match your local environment before running them.
 
 ## Citation
 
