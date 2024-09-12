@@ -30,7 +30,7 @@ Detailed instructions on how to use the code:
 
 - Clone this repository to your local machine or cluster:
   ```bash
-git clone https://github.com/yourusername/ToxDTIEngine.git
+  git clone https://github.com/yourusername/ToxDTIEngine.git
 
 - The data/ folder contains both raw and processed drug-target interaction data:
   - raw_data/: Contains raw DTI data from various databases.
@@ -38,7 +38,7 @@ git clone https://github.com/yourusername/ToxDTIEngine.git
 
 - To preprocess the raw data:
   ```bash
-python scripts/Preprocessing.py
+  python scripts/Preprocessing.py
 
 - To build the DTI pipeline:
   ```bash
@@ -49,7 +49,6 @@ python scripts/Preprocessing.py
   python scripts/Predictive_Modeling_&_Ranking.py
 
 - Folder Structure:
-  ```bash
 ToxDTIEngine/
 ├── data/
 │   ├── raw_data/
