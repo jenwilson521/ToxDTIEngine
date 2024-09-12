@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development**". The research focuses on predicting drug-induced side effects using protein-protein interactions (PPIs) by incorporating drug-target interaction (DTI) data from multiple databases. **ToxDTIEngine** uses another tool called [**PathFX**](https://github.com/jenwilson521/PathFX), which is a PPI tool, and builds a DTI pipeline employing predictive modeling to select drug targets and rank databases in predicting side effects.
+This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development**". The study focuses on predicting drug-induced side effects using protein-protein interactions (PPIs) by incorporating drug-target interaction (DTI) data from multiple databases. **ToxDTIEngine** uses another tool called [**PathFX**](https://github.com/jenwilson521/PathFX), which is a PPI tool, and builds a DTI pipeline employing predictive modeling to select drug targets and rank databases to predict side effects.
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@ Ensure you have the following prerequisites to run the code:
 - Python 3.x must be installed, along with the following Python libraries:
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
+- For setup guidance, please visit [**PathFX**](https://github.com/jenwilson521/PathFX) and follow the provided instructions.
 
 ## Usage
 
@@ -32,7 +33,7 @@ Detailed instructions on how to use the code:
   ```bash
   git clone https://github.com/yourusername/ToxDTIEngine.git
 
-- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the 'pathfx/' folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the 'runpathfx_scr.py' script in our 'scripts/' folder to run the last version of PathFX on your operating system and re-generate the results.
+- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the 'pathfx/' folder here in this GitHub repository to the same folder names (data/scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the 'runpathfx_scr.py' script in our 'scripts/' folder to run the last version of PathFX on your operating system and re-generate the results.
 
 - The data/ folder contains both raw and processed drug-target interaction data:
   - raw_data/: Contains raw DTI data from various databases.
@@ -43,11 +44,11 @@ Detailed instructions on how to use the code:
   ```bash
   python scripts/Preprocessing.py
 
-- To build the DTI pipeline:
+- To build the DTI pipeline and to evaluate:
   ```bash
   python scripts/DTI_Pipeline_Evaluation.py
 
-- To run predictive modeling and ranking:
+- To run predictive modeling and to select targets/rank databases:
   ```bash
   python scripts/Predictive_Modeling_Ranking.py
 
