@@ -1,38 +1,49 @@
-ToxDTIEngine
-Overview
-ToxDTIEngine is a Python-based tool for predicting drug-induced side effects using Drug-Target Interaction (DTI) data. The project integrates raw and processed data from multiple databases, builds a DTI pipeline, and uses predictive modeling to rank and evaluate side effect risks for drug targets.
+# ToxDTIEngine
 
-Data Structure
-data/raw_data/: Contains raw drug-target interaction data sourced from various databases.
-data/processed_data/: Contains processed drug-target interaction data.
-scripts/: Python scripts used for preprocessing, DTI pipeline building, and predictive modeling.
-Prerequisites
-Ensure you have the following dependencies installed:
+## Overview
 
-Python 3.x
-Required packages:
-bash
-Copy code
-pip install pandas numpy scikit-learn matplotlib seaborn
-Usage
-Preprocessing Data: The first step is to clean and prepare raw data for use.
+This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models**". The research focuses on predicting drug-induced side effects using Drug-Target Interaction (DTI) data from multiple databases. **ToxDTIEngine** builds a DTI pipeline and employs predictive modeling to rank drug targets based on their side effect risks.
 
-bash
-Copy code
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Citation](#citation)
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. See [Usage](#usage) for notes on how to use the code in a research context.
+
+## Prerequisites
+
+Ensure you have the following prerequisites to run the code:
+
+- **ToxDTIEngine** was developed using the Python programming language.
+- Python 3.x must be installed, along with the following Python libraries:
+  ```bash
+  pip install pandas numpy scikit-learn matplotlib seaborn
+
+## Usage
+Detailed instructions on how to use the code:
+
+Clone this repository to your local machine or cluster:
+git clone https://github.com/yourusername/ToxDTIEngine.git
+
+The data/ folder contains both raw and processed drug-target interaction data:
+raw_data/: Contains raw DTI data from various databases.
+processed_data/: Contains processed DTI data ready for analysis.
+
+To preprocess the raw data:
 python scripts/Preprocessing.py
-Building the DTI Pipeline: Next, integrate Drug-Target Interaction data across multiple databases.
 
-bash
-Copy code
+To build the DTI pipeline:
 python scripts/DTI_Pipeline.py
-Predictive Modeling and Ranking: Finally, use machine learning models to predict drug side effects and rank the targets.
 
-bash
-Copy code
+To run predictive modeling and ranking:
 python scripts/Predictive_Modeling_&_Ranking.py
-Folder Structure
-kotlin
-Copy code
+
+Folder Structure:
 ToxDTIEngine/
 ├── data/
 │   ├── raw_data/
@@ -42,7 +53,9 @@ ToxDTIEngine/
 │   ├── DTI_Pipeline.py
 │   └── Predictive_Modeling_&_Ranking.py
 └── README.md
-Citation
-If you use this code or associated research, please cite:
 
-Alidoost, Mohammadali and Wilson, L. Jennifer, "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models", Submitted (2023).
+## Citation
+
+If you use this code or associated research in your work, please cite:
+
+Alidoost, Mohammadali and Wilson, L. Jennifer, "Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development", Submitted (2024).
