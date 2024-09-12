@@ -32,7 +32,7 @@ Detailed instructions on how to use the code:
   ```bash
   git clone https://github.com/yourusername/ToxDTIEngine.git
 
-- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the 'pathfx/' folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the 'runpathfx_scr.py' script in our 'scripts' folder to run the last version of PathFX on your operating system and re-generate the results.
+- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the 'pathfx/' folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the 'runpathfx_scr.py' script in our 'scripts/' folder to run the last version of PathFX on your operating system and re-generate the results.
 
 - The data/ folder contains both raw and processed drug-target interaction data:
   - raw_data/: Contains raw DTI data from various databases.
