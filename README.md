@@ -25,25 +25,31 @@ Ensure you have the following prerequisites to run the code:
   pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Usage
+
 Detailed instructions on how to use the code:
 
 - Clone this repository to your local machine or cluster:
+  ```bash
 git clone https://github.com/yourusername/ToxDTIEngine.git
 
 - The data/ folder contains both raw and processed drug-target interaction data:
--- raw_data/: Contains raw DTI data from various databases.
--- processed_data/: Contains processed DTI data ready for analysis.
+  - raw_data/: Contains raw DTI data from various databases.
+  - processed_data/: Contains processed DTI data ready for analysis.
 
 - To preprocess the raw data:
+  ```bash
 python scripts/Preprocessing.py
 
 - To build the DTI pipeline:
-python scripts/DTI_Pipeline.py
+  ```bash
+  python scripts/DTI_Pipeline.py
 
 - To run predictive modeling and ranking:
-python scripts/Predictive_Modeling_&_Ranking.py
+  ```bash
+  python scripts/Predictive_Modeling_&_Ranking.py
 
 - Folder Structure:
+  ```bash
 ToxDTIEngine/
 ├── data/
 │   ├── raw_data/
