@@ -45,11 +45,11 @@ Detailed instructions on how to use the code:
 
 - To build the DTI pipeline:
   ```bash
-  python scripts/DTI_Pipeline.py
+  python scripts/DTI_Pipeline_Evaluation.py
 
 - To run predictive modeling and ranking:
   ```bash
-  python scripts/Predictive_Modeling_&_Ranking.py
+  python scripts/Predictive_Modeling_Ranking.py
 
 - Make sure to update the directory paths in all scripts to match your local environment before running them.
 
