@@ -1,0 +1,22 @@
+node_name	node_type	
+pemetrexed_New_DrugBank	drug	
+TYMS	drug_target	
+ABCG2	drug_target	
+SLC22A11	drug_target	
+SLC22A8	drug_target	
+SLC29A1	drug_target	
+ALB	drug_target	
+GART	drug_target	
+DCK	drug_target	
+ABCC5	drug_target	
+DHFR	drug_target	
+SLC22A6	drug_target	
+ATIC	drug_target	
+phen_sig_knockout_noFP_Sig_pancreatitis	phenotype	
+thrombocytopenia 5	phenotype	
+genetic hypertension	phenotype	
+phen_sig_tp_noFP_Sig_pancreatitis	phenotype	
+oral dyskinesia	phenotype	
+brain ischemia	phenotype	
+phen_noise_pancreatitis	phenotype	
+neuropathy	phenotype	
