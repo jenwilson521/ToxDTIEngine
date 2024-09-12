@@ -36,7 +36,7 @@ Detailed instructions on how to use the code:
   - raw_data/: Contains raw DTI data from various databases.
   - processed_data/: Contains processed DTI data ready for analysis.
 
-- To preprocess the raw data:
+- To preprocess the data:
   ```bash
   python scripts/Preprocessing.py
 
@@ -47,17 +47,6 @@ Detailed instructions on how to use the code:
 - To run predictive modeling and ranking:
   ```bash
   python scripts/Predictive_Modeling_&_Ranking.py
-
-- Folder Structure:
-ToxDTIEngine/
-├── data/
-│   ├── raw_data/
-│   └── processed_data/
-├── scripts/
-│   ├── Preprocessing.py
-│   ├── DTI_Pipeline.py
-│   └── Predictive_Modeling_&_Ranking.py
-└── README.md
 
 ## Citation
 
