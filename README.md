@@ -38,7 +38,7 @@ Detailed instructions on how to use the code:
 - The data/ folder contains both raw and processed drug-target interaction data:
   - raw_data/: Contains raw DTI data from various databases.
   - processed_data/: Contains processed DTI data that is ready for analysis.
-  - The 'DrugToxicity_data.txt' file in the 'data/raw_data/' folder is the dataset we used for our analysis, consisting of pairs of drugs and their associated side effects obtained from drug labels. 
+  - The 'DrugToxicity_data.txt' file in the 'data/' folder is the dataset we used for our analysis, consisting of pairs of drugs and their associated side effects obtained from drug labels. 
 
 - To preprocess the data:
   ```bash
