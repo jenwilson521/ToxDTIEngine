@@ -1,0 +1,929 @@
+Drug,Phenotype,Ranked Targets,Common Targets,Overall Percentage,New_DrugBank Total Targets,ChEMBL Total Targets,PubChem Total Targets,STITCH Total Targets,TTD Total Targets,Pocket_Features Total Targets,New_DrugBank Identified Targets,ChEMBL Identified Targets,PubChem Identified Targets,STITCH Identified Targets,TTD Identified Targets,Pocket_Features Identified Targets,New_DrugBank Percentage,ChEMBL Percentage,PubChem Percentage,STITCH Percentage,TTD Percentage,Pocket_Features Percentage
+trimethoprim,hypertension,6,1,16.67,5,1,22,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+trimethoprim,prehypertension,22,8,36.36,5,1,22,2,1,41,1,0,2,0,0,7,20.0,0.0,9.09,0.0,0.0,17.07
+trimethoprim,hypertensive disease,17,5,29.41,5,1,22,2,1,41,2,0,2,0,0,3,40.0,0.0,9.09,0.0,0.0,7.32
+trimethoprim,genetic hypertension,9,2,22.22,5,1,22,2,1,41,0,0,1,0,0,1,0.0,0.0,4.55,0.0,0.0,2.44
+trimethoprim,pulmonary hypertension,12,4,33.33,5,1,22,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+trimethoprim,essential hypertension,9,4,44.44,5,1,22,2,1,41,1,0,1,0,0,3,20.0,0.0,4.55,0.0,0.0,7.32
+trimethoprim,"hypertension, renovascular",12,5,41.67,5,1,22,2,1,41,1,0,2,0,0,4,20.0,0.0,9.09,0.0,0.0,9.76
+trimethoprim,idiopathic pulmonary hypertension,12,4,33.33,5,1,22,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+trimethoprim,renal hypertension,8,3,37.5,5,1,22,2,1,41,1,0,1,0,0,2,20.0,0.0,4.55,0.0,0.0,4.88
+trimethoprim,ocular hypertension,12,4,33.33,5,1,22,2,1,41,2,0,3,0,0,2,40.0,0.0,13.64,0.0,0.0,4.88
+trimethoprim,"hypertension, portal",3,0,0.0,5,1,22,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+trimethoprim,phen_tp_hypertension,10,4,40.0,5,1,22,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+trimethoprim,phen_sig_tp_noFP_Dis_hypertension,10,5,50.0,5,1,22,2,1,41,0,0,2,0,0,4,0.0,0.0,9.09,0.0,0.0,9.76
+trimethoprim,phen_sig_tp_noFP_Sig_hypertension,15,4,26.67,5,1,22,2,1,41,1,0,2,0,0,3,20.0,0.0,9.09,0.0,0.0,7.32
+trimethoprim,pancreatitis,5,1,20.0,5,1,22,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+trimethoprim,acute pancreatitis,12,3,25.0,5,1,22,2,1,41,1,0,1,0,0,2,20.0,0.0,4.55,0.0,0.0,4.88
+trimethoprim,pancreatitis idiopathic,6,2,33.33,5,1,22,2,1,41,1,0,2,0,0,1,20.0,0.0,9.09,0.0,0.0,2.44
+trimethoprim,adenocarcinoma of pancreas,8,3,37.5,5,1,22,2,1,41,1,0,1,0,0,2,20.0,0.0,4.55,0.0,0.0,4.88
+trimethoprim,phen_tp_pancreatitis,7,4,57.14,5,1,22,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+trimethoprim,phen_sig_tp_noFP_Dis_pancreatitis,8,3,37.5,5,1,22,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+trimethoprim,phen_sig_tp_noFP_Sig_pancreatitis,18,4,22.22,5,1,22,2,1,41,1,0,2,0,0,3,20.0,0.0,9.09,0.0,0.0,7.32
+trimethoprim,thrombocytopenia 5,1,0,0.0,5,1,22,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+trimethoprim,thrombocytopenia 6,19,3,15.79,5,1,22,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+trimethoprim,macrothrombocytopenia,6,2,33.33,5,1,22,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+trimethoprim,idiopathic thrombocytopenia,17,4,23.53,5,1,22,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+trimethoprim,thrombocytopenia due to platelet alloimmunization,16,3,18.75,5,1,22,2,1,41,0,0,1,0,0,3,0.0,0.0,4.55,0.0,0.0,7.32
+trimethoprim,phen_tp_thrombocytopenia,8,2,25.0,5,1,22,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+trimethoprim,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,5,1,22,2,1,41,1,0,1,0,0,2,20.0,0.0,4.55,0.0,0.0,4.88
+trimethoprim,myocardial infarction,4,2,50.0,5,1,22,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+trimethoprim,old myocardial infarction,13,6,46.15,5,1,22,2,1,41,2,0,2,0,0,4,40.0,0.0,9.09,0.0,0.0,9.76
+trimethoprim,acute myocardial infarction,8,2,25.0,5,1,22,2,1,41,1,0,1,0,0,1,20.0,0.0,4.55,0.0,0.0,2.44
+trimethoprim,phen_sig_tp_noFP_Sig_myocardial infarction,17,6,35.29,5,1,22,2,1,41,1,0,2,0,0,5,20.0,0.0,9.09,0.0,0.0,12.2
+donepezil,hypertension,6,0,0.0,10,1,26,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+donepezil,prehypertension,22,10,45.45,10,1,26,2,1,39,3,0,3,1,0,7,30.0,0.0,11.54,50.0,0.0,17.95
+donepezil,hypertensive disease,17,5,29.41,10,1,26,2,1,39,2,0,2,1,0,3,20.0,0.0,7.69,50.0,0.0,7.69
+donepezil,genetic hypertension,9,1,11.11,10,1,26,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+donepezil,pulmonary hypertension,12,2,16.67,10,1,26,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+donepezil,essential hypertension,9,7,77.78,10,1,26,2,1,39,2,0,2,1,0,5,20.0,0.0,7.69,50.0,0.0,12.82
+donepezil,"hypertension, renovascular",12,5,41.67,10,1,26,2,1,39,2,0,2,0,0,3,20.0,0.0,7.69,0.0,0.0,7.69
+donepezil,idiopathic pulmonary hypertension,12,3,25.0,10,1,26,2,1,39,1,0,1,1,0,2,10.0,0.0,3.85,50.0,0.0,5.13
+donepezil,renal hypertension,8,2,25.0,10,1,26,2,1,39,1,0,1,0,0,1,10.0,0.0,3.85,0.0,0.0,2.56
+donepezil,ocular hypertension,12,6,50.0,10,1,26,2,1,39,3,0,3,1,0,3,30.0,0.0,11.54,50.0,0.0,7.69
+donepezil,"hypertension, portal",3,0,0.0,10,1,26,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+donepezil,phen_tp_hypertension,10,2,20.0,10,1,26,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+donepezil,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,10,1,26,2,1,39,1,0,1,0,0,1,10.0,0.0,3.85,0.0,0.0,2.56
+donepezil,phen_sig_tp_noFP_Sig_hypertension,15,8,53.33,10,1,26,2,1,39,3,0,3,1,0,5,30.0,0.0,11.54,50.0,0.0,12.82
+donepezil,pancreatitis,5,1,20.0,10,1,26,2,1,39,1,0,1,0,0,0,10.0,0.0,3.85,0.0,0.0,0.0
+donepezil,acute pancreatitis,12,3,25.0,10,1,26,2,1,39,2,0,2,1,0,1,20.0,0.0,7.69,50.0,0.0,2.56
+donepezil,pancreatitis idiopathic,6,4,66.67,10,1,26,2,1,39,3,0,3,1,0,1,30.0,0.0,11.54,50.0,0.0,2.56
+donepezil,adenocarcinoma of pancreas,8,2,25.0,10,1,26,2,1,39,1,0,1,0,0,1,10.0,0.0,3.85,0.0,0.0,2.56
+donepezil,phen_tp_pancreatitis,7,1,14.29,10,1,26,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+donepezil,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,10,1,26,2,1,39,0,0,1,0,0,1,0.0,0.0,3.85,0.0,0.0,2.56
+donepezil,phen_sig_tp_noFP_Sig_pancreatitis,18,7,38.89,10,1,26,2,1,39,2,0,2,1,0,5,20.0,0.0,7.69,50.0,0.0,12.82
+donepezil,thrombocytopenia 5,1,0,0.0,10,1,26,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+donepezil,thrombocytopenia 6,19,9,47.37,10,1,26,2,1,39,2,0,2,1,0,7,20.0,0.0,7.69,50.0,0.0,17.95
+donepezil,macrothrombocytopenia,6,0,0.0,10,1,26,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+donepezil,idiopathic thrombocytopenia,17,5,29.41,10,1,26,2,1,39,2,0,2,1,0,3,20.0,0.0,7.69,50.0,0.0,7.69
+donepezil,thrombocytopenia due to platelet alloimmunization,16,7,43.75,10,1,26,2,1,39,2,0,2,1,0,5,20.0,0.0,7.69,50.0,0.0,12.82
+donepezil,phen_tp_thrombocytopenia,8,3,37.5,10,1,26,2,1,39,1,0,1,0,0,2,10.0,0.0,3.85,0.0,0.0,5.13
+donepezil,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,10,1,26,2,1,39,1,0,1,0,0,2,10.0,0.0,3.85,0.0,0.0,5.13
+donepezil,myocardial infarction,4,1,25.0,10,1,26,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+donepezil,old myocardial infarction,13,7,53.85,10,1,26,2,1,39,2,0,2,1,0,5,20.0,0.0,7.69,50.0,0.0,12.82
+donepezil,acute myocardial infarction,8,4,50.0,10,1,26,2,1,39,2,0,2,1,0,2,20.0,0.0,7.69,50.0,0.0,5.13
+donepezil,phen_sig_tp_noFP_Sig_myocardial infarction,17,10,58.82,10,1,26,2,1,39,5,0,5,1,0,5,50.0,0.0,19.23,50.0,0.0,12.82
+diphenhydramine,hypertension,6,2,33.33,7,1,37,4,2,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+diphenhydramine,prehypertension,22,13,59.09,7,1,37,4,2,36,1,0,3,0,0,10,14.29,0.0,8.11,0.0,0.0,27.78
+diphenhydramine,hypertensive disease,17,9,52.94,7,1,37,4,2,36,1,0,3,0,0,6,14.29,0.0,8.11,0.0,0.0,16.67
+diphenhydramine,genetic hypertension,9,2,22.22,7,1,37,4,2,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+diphenhydramine,pulmonary hypertension,12,6,50.0,7,1,37,4,2,36,0,0,0,0,0,6,0.0,0.0,0.0,0.0,0.0,16.67
+diphenhydramine,essential hypertension,9,5,55.56,7,1,37,4,2,36,0,0,3,0,0,2,0.0,0.0,8.11,0.0,0.0,5.56
+diphenhydramine,"hypertension, renovascular",12,11,91.67,7,1,37,4,2,36,1,0,3,0,0,8,14.29,0.0,8.11,0.0,0.0,22.22
+diphenhydramine,idiopathic pulmonary hypertension,12,6,50.0,7,1,37,4,2,36,0,0,1,0,0,5,0.0,0.0,2.7,0.0,0.0,13.89
+diphenhydramine,renal hypertension,8,2,25.0,7,1,37,4,2,36,0,0,1,0,0,1,0.0,0.0,2.7,0.0,0.0,2.78
+diphenhydramine,ocular hypertension,12,10,83.33,7,1,37,4,2,36,2,0,4,0,0,6,28.57,0.0,10.81,0.0,0.0,16.67
+diphenhydramine,"hypertension, portal",3,0,0.0,7,1,37,4,2,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diphenhydramine,phen_tp_hypertension,10,4,40.0,7,1,37,4,2,36,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.11
+diphenhydramine,phen_sig_tp_noFP_Dis_hypertension,10,4,40.0,7,1,37,4,2,36,1,0,1,0,0,3,14.29,0.0,2.7,0.0,0.0,8.33
+diphenhydramine,phen_sig_tp_noFP_Sig_hypertension,15,12,80.0,7,1,37,4,2,36,1,0,4,0,0,8,14.29,0.0,10.81,0.0,0.0,22.22
+diphenhydramine,pancreatitis,5,4,80.0,7,1,37,4,2,36,0,0,1,0,0,3,0.0,0.0,2.7,0.0,0.0,8.33
+diphenhydramine,acute pancreatitis,12,8,66.67,7,1,37,4,2,36,0,0,3,0,0,5,0.0,0.0,8.11,0.0,0.0,13.89
+diphenhydramine,pancreatitis idiopathic,6,6,100.0,7,1,37,4,2,36,2,0,3,0,0,3,28.57,0.0,8.11,0.0,0.0,8.33
+diphenhydramine,adenocarcinoma of pancreas,8,2,25.0,7,1,37,4,2,36,0,0,1,0,0,1,0.0,0.0,2.7,0.0,0.0,2.78
+diphenhydramine,phen_tp_pancreatitis,7,1,14.29,7,1,37,4,2,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+diphenhydramine,phen_sig_tp_noFP_Dis_pancreatitis,8,1,12.5,7,1,37,4,2,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+diphenhydramine,phen_sig_tp_noFP_Sig_pancreatitis,18,9,50.0,7,1,37,4,2,36,1,0,3,0,0,6,14.29,0.0,8.11,0.0,0.0,16.67
+diphenhydramine,thrombocytopenia 5,1,0,0.0,7,1,37,4,2,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diphenhydramine,thrombocytopenia 6,19,9,47.37,7,1,37,4,2,36,0,0,1,0,0,8,0.0,0.0,2.7,0.0,0.0,22.22
+diphenhydramine,macrothrombocytopenia,6,1,16.67,7,1,37,4,2,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+diphenhydramine,idiopathic thrombocytopenia,17,8,47.06,7,1,37,4,2,36,0,0,2,0,0,6,0.0,0.0,5.41,0.0,0.0,16.67
+diphenhydramine,thrombocytopenia due to platelet alloimmunization,16,9,56.25,7,1,37,4,2,36,1,0,2,0,0,7,14.29,0.0,5.41,0.0,0.0,19.44
+diphenhydramine,phen_tp_thrombocytopenia,8,2,25.0,7,1,37,4,2,36,0,0,1,0,0,1,0.0,0.0,2.7,0.0,0.0,2.78
+diphenhydramine,phen_sig_tp_noFP_Sig_thrombocytopenia,7,4,57.14,7,1,37,4,2,36,0,0,2,0,0,2,0.0,0.0,5.41,0.0,0.0,5.56
+diphenhydramine,myocardial infarction,4,2,50.0,7,1,37,4,2,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+diphenhydramine,old myocardial infarction,13,10,76.92,7,1,37,4,2,36,0,0,3,0,0,7,0.0,0.0,8.11,0.0,0.0,19.44
+diphenhydramine,acute myocardial infarction,8,5,62.5,7,1,37,4,2,36,0,0,2,0,0,3,0.0,0.0,5.41,0.0,0.0,8.33
+diphenhydramine,phen_sig_tp_noFP_Sig_myocardial infarction,17,10,58.82,7,1,37,4,2,36,2,0,4,0,0,6,28.57,0.0,10.81,0.0,0.0,16.67
+triamterene,hypertension,6,1,16.67,5,3,30,1,1,40,0,0,1,0,0,0,0.0,0.0,3.33,0.0,0.0,0.0
+triamterene,prehypertension,22,8,36.36,5,3,30,1,1,40,1,0,3,0,0,6,20.0,0.0,10.0,0.0,0.0,15.0
+triamterene,hypertensive disease,17,5,29.41,5,3,30,1,1,40,1,0,2,0,0,4,20.0,0.0,6.67,0.0,0.0,10.0
+triamterene,genetic hypertension,9,3,33.33,5,3,30,1,1,40,0,0,1,0,0,2,0.0,0.0,3.33,0.0,0.0,5.0
+triamterene,pulmonary hypertension,12,4,33.33,5,3,30,1,1,40,0,0,2,0,0,3,0.0,0.0,6.67,0.0,0.0,7.5
+triamterene,essential hypertension,9,2,22.22,5,3,30,1,1,40,1,0,1,0,0,1,20.0,0.0,3.33,0.0,0.0,2.5
+triamterene,"hypertension, renovascular",12,4,33.33,5,3,30,1,1,40,1,0,3,0,0,2,20.0,0.0,10.0,0.0,0.0,5.0
+triamterene,idiopathic pulmonary hypertension,12,5,41.67,5,3,30,1,1,40,0,0,1,0,0,4,0.0,0.0,3.33,0.0,0.0,10.0
+triamterene,renal hypertension,8,2,25.0,5,3,30,1,1,40,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.0
+triamterene,ocular hypertension,12,3,25.0,5,3,30,1,1,40,1,0,3,0,0,1,20.0,0.0,10.0,0.0,0.0,2.5
+triamterene,"hypertension, portal",3,0,0.0,5,3,30,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+triamterene,phen_tp_hypertension,10,6,60.0,5,3,30,1,1,40,0,0,1,0,0,5,0.0,0.0,3.33,0.0,0.0,12.5
+triamterene,phen_sig_tp_noFP_Dis_hypertension,10,5,50.0,5,3,30,1,1,40,0,0,1,0,0,4,0.0,0.0,3.33,0.0,0.0,10.0
+triamterene,phen_sig_tp_noFP_Sig_hypertension,15,5,33.33,5,3,30,1,1,40,1,0,2,0,0,4,20.0,0.0,6.67,0.0,0.0,10.0
+triamterene,pancreatitis,5,0,0.0,5,3,30,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+triamterene,acute pancreatitis,12,4,33.33,5,3,30,1,1,40,1,0,2,0,0,2,20.0,0.0,6.67,0.0,0.0,5.0
+triamterene,pancreatitis idiopathic,6,0,0.0,5,3,30,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+triamterene,adenocarcinoma of pancreas,8,2,25.0,5,3,30,1,1,40,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.0
+triamterene,phen_tp_pancreatitis,7,1,14.29,5,3,30,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+triamterene,phen_sig_tp_noFP_Dis_pancreatitis,8,1,12.5,5,3,30,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+triamterene,phen_sig_tp_noFP_Sig_pancreatitis,18,7,38.89,5,3,30,1,1,40,1,0,2,0,0,5,20.0,0.0,6.67,0.0,0.0,12.5
+triamterene,thrombocytopenia 5,1,0,0.0,5,3,30,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+triamterene,thrombocytopenia 6,19,6,31.58,5,3,30,1,1,40,0,0,3,0,0,4,0.0,0.0,10.0,0.0,0.0,10.0
+triamterene,macrothrombocytopenia,6,1,16.67,5,3,30,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+triamterene,idiopathic thrombocytopenia,17,4,23.53,5,3,30,1,1,40,0,0,1,0,0,4,0.0,0.0,3.33,0.0,0.0,10.0
+triamterene,thrombocytopenia due to platelet alloimmunization,16,3,18.75,5,3,30,1,1,40,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.5
+triamterene,phen_tp_thrombocytopenia,8,2,25.0,5,3,30,1,1,40,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.0
+triamterene,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,5,3,30,1,1,40,1,0,3,0,0,1,20.0,0.0,10.0,0.0,0.0,2.5
+triamterene,myocardial infarction,4,1,25.0,5,3,30,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+triamterene,old myocardial infarction,13,5,38.46,5,3,30,1,1,40,1,0,2,0,0,4,20.0,0.0,6.67,0.0,0.0,10.0
+triamterene,acute myocardial infarction,8,0,0.0,5,3,30,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+triamterene,phen_sig_tp_noFP_Sig_myocardial infarction,17,6,35.29,5,3,30,1,1,40,0,0,3,0,0,4,0.0,0.0,10.0,0.0,0.0,10.0
+pemetrexed,hypertension,6,0,0.0,12,4,50,2,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pemetrexed,prehypertension,22,6,27.27,12,4,50,2,1,38,2,0,0,0,0,4,16.67,0.0,0.0,0.0,0.0,10.53
+pemetrexed,hypertensive disease,17,4,23.53,12,4,50,2,1,38,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,10.53
+pemetrexed,genetic hypertension,9,3,33.33,12,4,50,2,1,38,1,0,0,0,0,2,8.33,0.0,0.0,0.0,0.0,5.26
+pemetrexed,pulmonary hypertension,12,3,25.0,12,4,50,2,1,38,1,0,0,0,0,2,8.33,0.0,0.0,0.0,0.0,5.26
+pemetrexed,essential hypertension,9,3,33.33,12,4,50,2,1,38,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.89
+pemetrexed,"hypertension, renovascular",12,2,16.67,12,4,50,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+pemetrexed,idiopathic pulmonary hypertension,12,3,25.0,12,4,50,2,1,38,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.89
+pemetrexed,renal hypertension,8,2,25.0,12,4,50,2,1,38,1,0,0,0,0,1,8.33,0.0,0.0,0.0,0.0,2.63
+pemetrexed,ocular hypertension,12,3,25.0,12,4,50,2,1,38,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.89
+pemetrexed,"hypertension, portal",3,1,33.33,12,4,50,2,1,38,1,0,0,0,0,0,8.33,0.0,0.0,0.0,0.0,0.0
+pemetrexed,phen_tp_hypertension,10,4,40.0,12,4,50,2,1,38,1,0,0,0,0,3,8.33,0.0,0.0,0.0,0.0,7.89
+pemetrexed,phen_sig_tp_noFP_Dis_hypertension,10,3,30.0,12,4,50,2,1,38,1,0,0,0,0,2,8.33,0.0,0.0,0.0,0.0,5.26
+pemetrexed,phen_sig_tp_noFP_Sig_hypertension,15,5,33.33,12,4,50,2,1,38,1,0,0,0,0,4,8.33,0.0,0.0,0.0,0.0,10.53
+pemetrexed,pancreatitis,5,1,20.0,12,4,50,2,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+pemetrexed,acute pancreatitis,12,4,33.33,12,4,50,2,1,38,1,0,1,0,0,2,8.33,0.0,2.0,0.0,0.0,5.26
+pemetrexed,pancreatitis idiopathic,6,2,33.33,12,4,50,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+pemetrexed,adenocarcinoma of pancreas,8,2,25.0,12,4,50,2,1,38,1,0,0,0,0,1,8.33,0.0,0.0,0.0,0.0,2.63
+pemetrexed,phen_tp_pancreatitis,7,3,42.86,12,4,50,2,1,38,0,0,1,0,0,2,0.0,0.0,2.0,0.0,0.0,5.26
+pemetrexed,phen_sig_tp_noFP_Dis_pancreatitis,8,3,37.5,12,4,50,2,1,38,0,0,1,0,0,2,0.0,0.0,2.0,0.0,0.0,5.26
+pemetrexed,phen_sig_tp_noFP_Sig_pancreatitis,18,5,27.78,12,4,50,2,1,38,1,0,1,0,0,3,8.33,0.0,2.0,0.0,0.0,7.89
+pemetrexed,thrombocytopenia 5,1,1,100.0,12,4,50,2,1,38,1,0,0,0,0,0,8.33,0.0,0.0,0.0,0.0,0.0
+pemetrexed,thrombocytopenia 6,19,5,26.32,12,4,50,2,1,38,2,0,0,0,0,3,16.67,0.0,0.0,0.0,0.0,7.89
+pemetrexed,macrothrombocytopenia,6,1,16.67,12,4,50,2,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+pemetrexed,idiopathic thrombocytopenia,17,4,23.53,12,4,50,2,1,38,1,0,1,0,0,2,8.33,0.0,2.0,0.0,0.0,5.26
+pemetrexed,thrombocytopenia due to platelet alloimmunization,16,3,18.75,12,4,50,2,1,38,1,0,0,0,0,2,8.33,0.0,0.0,0.0,0.0,5.26
+pemetrexed,phen_tp_thrombocytopenia,8,3,37.5,12,4,50,2,1,38,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.89
+pemetrexed,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,12,4,50,2,1,38,1,0,0,0,0,1,8.33,0.0,0.0,0.0,0.0,2.63
+pemetrexed,myocardial infarction,4,0,0.0,12,4,50,2,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pemetrexed,old myocardial infarction,13,3,23.08,12,4,50,2,1,38,1,0,0,0,0,2,8.33,0.0,0.0,0.0,0.0,5.26
+pemetrexed,acute myocardial infarction,8,2,25.0,12,4,50,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+pemetrexed,phen_sig_tp_noFP_Sig_myocardial infarction,17,8,47.06,12,4,50,2,1,38,2,0,0,0,0,6,16.67,0.0,0.0,0.0,0.0,15.79
+enalapril,hypertension,6,6,100.0,7,1,27,2,1,34,1,1,1,1,1,6,14.29,100.0,3.7,50.0,100.0,17.65
+enalapril,prehypertension,22,10,45.45,7,1,27,2,1,34,1,0,2,0,0,8,14.29,0.0,7.41,0.0,0.0,23.53
+enalapril,hypertensive disease,17,12,70.59,7,1,27,2,1,34,0,0,1,1,0,10,0.0,0.0,3.7,50.0,0.0,29.41
+enalapril,genetic hypertension,9,8,88.89,7,1,27,2,1,34,2,1,3,1,1,6,28.57,100.0,11.11,50.0,100.0,17.65
+enalapril,pulmonary hypertension,12,10,83.33,7,1,27,2,1,34,2,1,2,1,1,9,28.57,100.0,7.41,50.0,100.0,26.47
+enalapril,essential hypertension,9,2,22.22,7,1,27,2,1,34,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.88
+enalapril,"hypertension, renovascular",12,7,58.33,7,1,27,2,1,34,1,1,1,1,1,7,14.29,100.0,3.7,50.0,100.0,20.59
+enalapril,idiopathic pulmonary hypertension,12,6,50.0,7,1,27,2,1,34,1,1,1,1,1,6,14.29,100.0,3.7,50.0,100.0,17.65
+enalapril,renal hypertension,8,3,37.5,7,1,27,2,1,34,1,0,2,0,0,1,14.29,0.0,7.41,0.0,0.0,2.94
+enalapril,ocular hypertension,12,6,50.0,7,1,27,2,1,34,1,1,2,1,1,5,14.29,100.0,7.41,50.0,100.0,14.71
+enalapril,"hypertension, portal",3,1,33.33,7,1,27,2,1,34,1,0,1,0,0,0,14.29,0.0,3.7,0.0,0.0,0.0
+enalapril,phen_tp_hypertension,10,9,90.0,7,1,27,2,1,34,2,1,3,1,1,7,28.57,100.0,11.11,50.0,100.0,20.59
+enalapril,phen_sig_tp_noFP_Dis_hypertension,10,8,80.0,7,1,27,2,1,34,2,1,2,1,1,7,28.57,100.0,7.41,50.0,100.0,20.59
+enalapril,phen_sig_tp_noFP_Sig_hypertension,15,7,46.67,7,1,27,2,1,34,1,0,1,0,0,6,14.29,0.0,3.7,0.0,0.0,17.65
+enalapril,pancreatitis,5,3,60.0,7,1,27,2,1,34,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.82
+enalapril,acute pancreatitis,12,7,58.33,7,1,27,2,1,34,2,1,2,1,1,6,28.57,100.0,7.41,50.0,100.0,17.65
+enalapril,pancreatitis idiopathic,6,2,33.33,7,1,27,2,1,34,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.88
+enalapril,adenocarcinoma of pancreas,8,4,50.0,7,1,27,2,1,34,1,0,2,1,0,1,14.29,0.0,7.41,50.0,0.0,2.94
+enalapril,phen_tp_pancreatitis,7,2,28.57,7,1,27,2,1,34,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.88
+enalapril,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,7,1,27,2,1,34,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.88
+enalapril,phen_sig_tp_noFP_Sig_pancreatitis,18,7,38.89,7,1,27,2,1,34,2,1,2,1,1,6,28.57,100.0,7.41,50.0,100.0,17.65
+enalapril,thrombocytopenia 5,1,1,100.0,7,1,27,2,1,34,1,0,1,0,0,0,14.29,0.0,3.7,0.0,0.0,0.0
+enalapril,thrombocytopenia 6,19,11,57.89,7,1,27,2,1,34,2,1,3,1,1,9,28.57,100.0,11.11,50.0,100.0,26.47
+enalapril,macrothrombocytopenia,6,4,66.67,7,1,27,2,1,34,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.76
+enalapril,idiopathic thrombocytopenia,17,11,64.71,7,1,27,2,1,34,1,0,3,0,0,8,14.29,0.0,11.11,0.0,0.0,23.53
+enalapril,thrombocytopenia due to platelet alloimmunization,16,8,50.0,7,1,27,2,1,34,1,0,2,1,0,5,14.29,0.0,7.41,50.0,0.0,14.71
+enalapril,phen_tp_thrombocytopenia,8,1,12.5,7,1,27,2,1,34,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.94
+enalapril,phen_sig_tp_noFP_Sig_thrombocytopenia,7,5,71.43,7,1,27,2,1,34,2,1,2,1,1,4,28.57,100.0,7.41,50.0,100.0,11.76
+enalapril,myocardial infarction,4,2,50.0,7,1,27,2,1,34,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.88
+enalapril,old myocardial infarction,13,7,53.85,7,1,27,2,1,34,1,0,2,0,0,5,14.29,0.0,7.41,0.0,0.0,14.71
+enalapril,acute myocardial infarction,8,5,62.5,7,1,27,2,1,34,0,0,1,0,0,4,0.0,0.0,3.7,0.0,0.0,11.76
+enalapril,phen_sig_tp_noFP_Sig_myocardial infarction,17,9,52.94,7,1,27,2,1,34,2,1,2,1,1,8,28.57,100.0,7.41,50.0,100.0,23.53
+methazolamide,hypertension,6,2,33.33,6,4,25,4,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+methazolamide,prehypertension,22,3,13.64,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,hypertensive disease,17,3,17.65,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,genetic hypertension,9,3,33.33,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,pulmonary hypertension,12,5,41.67,6,4,25,4,1,39,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.82
+methazolamide,essential hypertension,9,1,11.11,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,"hypertension, renovascular",12,3,25.0,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,idiopathic pulmonary hypertension,12,3,25.0,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,renal hypertension,8,5,62.5,6,4,25,4,1,39,2,2,2,1,0,4,33.33,50.0,8.0,25.0,0.0,10.26
+methazolamide,ocular hypertension,12,2,16.67,6,4,25,4,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+methazolamide,"hypertension, portal",3,2,66.67,6,4,25,4,1,39,1,1,1,0,0,2,16.67,25.0,4.0,0.0,0.0,5.13
+methazolamide,phen_tp_hypertension,10,6,60.0,6,4,25,4,1,39,0,0,0,0,0,6,0.0,0.0,0.0,0.0,0.0,15.38
+methazolamide,phen_sig_tp_noFP_Dis_hypertension,10,5,50.0,6,4,25,4,1,39,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.82
+methazolamide,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,6,4,25,4,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+methazolamide,pancreatitis,5,2,40.0,6,4,25,4,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+methazolamide,acute pancreatitis,12,5,41.67,6,4,25,4,1,39,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.82
+methazolamide,pancreatitis idiopathic,6,1,16.67,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,adenocarcinoma of pancreas,8,5,62.5,6,4,25,4,1,39,2,2,2,1,0,4,33.33,50.0,8.0,25.0,0.0,10.26
+methazolamide,phen_tp_pancreatitis,7,1,14.29,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,phen_sig_tp_noFP_Dis_pancreatitis,8,1,12.5,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,phen_sig_tp_noFP_Sig_pancreatitis,18,5,27.78,6,4,25,4,1,39,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.82
+methazolamide,thrombocytopenia 5,1,0,0.0,6,4,25,4,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+methazolamide,thrombocytopenia 6,19,5,26.32,6,4,25,4,1,39,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.82
+methazolamide,macrothrombocytopenia,6,1,16.67,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,idiopathic thrombocytopenia,17,6,35.29,6,4,25,4,1,39,0,0,0,0,0,6,0.0,0.0,0.0,0.0,0.0,15.38
+methazolamide,thrombocytopenia due to platelet alloimmunization,16,3,18.75,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,phen_tp_thrombocytopenia,8,5,62.5,6,4,25,4,1,39,2,2,2,1,0,4,33.33,50.0,8.0,25.0,0.0,10.26
+methazolamide,phen_sig_tp_noFP_Sig_thrombocytopenia,7,1,14.29,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,myocardial infarction,4,4,100.0,6,4,25,4,1,39,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,10.26
+methazolamide,old myocardial infarction,13,3,23.08,6,4,25,4,1,39,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.69
+methazolamide,acute myocardial infarction,8,1,12.5,6,4,25,4,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+methazolamide,phen_sig_tp_noFP_Sig_myocardial infarction,17,5,29.41,6,4,25,4,1,39,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.82
+acarbose,hypertension,6,0,0.0,4,2,4,3,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+acarbose,prehypertension,22,3,13.64,4,2,4,3,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+acarbose,hypertensive disease,17,1,5.88,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,genetic hypertension,9,1,11.11,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,pulmonary hypertension,12,1,8.33,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,essential hypertension,9,3,33.33,4,2,4,3,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+acarbose,"hypertension, renovascular",12,1,8.33,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,idiopathic pulmonary hypertension,12,7,58.33,4,2,4,3,1,37,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,18.92
+acarbose,renal hypertension,8,3,37.5,4,2,4,3,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+acarbose,ocular hypertension,12,1,8.33,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,"hypertension, portal",3,0,0.0,4,2,4,3,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+acarbose,phen_tp_hypertension,10,2,20.0,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,phen_sig_tp_noFP_Dis_hypertension,10,1,10.0,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,pancreatitis,5,0,0.0,4,2,4,3,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+acarbose,acute pancreatitis,12,1,8.33,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,pancreatitis idiopathic,6,0,0.0,4,2,4,3,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+acarbose,adenocarcinoma of pancreas,8,3,37.5,4,2,4,3,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+acarbose,phen_tp_pancreatitis,7,2,28.57,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,phen_sig_tp_noFP_Sig_pancreatitis,18,2,11.11,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,thrombocytopenia 5,1,0,0.0,4,2,4,3,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+acarbose,thrombocytopenia 6,19,3,15.79,4,2,4,3,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+acarbose,macrothrombocytopenia,6,1,16.67,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,idiopathic thrombocytopenia,17,1,5.88,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,thrombocytopenia due to platelet alloimmunization,16,1,6.25,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,phen_tp_thrombocytopenia,8,2,25.0,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,phen_sig_tp_noFP_Sig_thrombocytopenia,7,1,14.29,4,2,4,3,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+acarbose,myocardial infarction,4,0,0.0,4,2,4,3,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+acarbose,old myocardial infarction,13,2,15.38,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,acute myocardial infarction,8,2,25.0,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+acarbose,phen_sig_tp_noFP_Sig_myocardial infarction,17,2,11.76,4,2,4,3,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+edrophonium,hypertension,6,1,16.67,2,1,3,2,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+edrophonium,prehypertension,22,3,13.64,2,1,3,2,1,36,1,0,1,1,0,2,50.0,0.0,33.33,50.0,0.0,5.56
+edrophonium,hypertensive disease,17,3,17.65,2,1,3,2,1,36,1,0,1,1,0,2,50.0,0.0,33.33,50.0,0.0,5.56
+edrophonium,genetic hypertension,9,1,11.11,2,1,3,2,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+edrophonium,pulmonary hypertension,12,0,0.0,2,1,3,2,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+edrophonium,essential hypertension,9,7,77.78,2,1,3,2,1,36,1,0,1,1,0,6,50.0,0.0,33.33,50.0,0.0,16.67
+edrophonium,"hypertension, renovascular",12,2,16.67,2,1,3,2,1,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+edrophonium,idiopathic pulmonary hypertension,12,4,33.33,2,1,3,2,1,36,1,0,1,1,0,3,50.0,0.0,33.33,50.0,0.0,8.33
+edrophonium,renal hypertension,8,2,25.0,2,1,3,2,1,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+edrophonium,ocular hypertension,12,3,25.0,2,1,3,2,1,36,1,0,1,1,0,2,50.0,0.0,33.33,50.0,0.0,5.56
+edrophonium,"hypertension, portal",3,0,0.0,2,1,3,2,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+edrophonium,phen_tp_hypertension,10,1,10.0,2,1,3,2,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+edrophonium,phen_sig_tp_noFP_Dis_hypertension,10,1,10.0,2,1,3,2,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+edrophonium,phen_sig_tp_noFP_Sig_hypertension,15,3,20.0,2,1,3,2,1,36,1,0,1,1,0,2,50.0,0.0,33.33,50.0,0.0,5.56
+edrophonium,pancreatitis,5,0,0.0,2,1,3,2,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+edrophonium,acute pancreatitis,12,2,16.67,2,1,3,2,1,36,1,0,1,1,0,1,50.0,0.0,33.33,50.0,0.0,2.78
+edrophonium,pancreatitis idiopathic,6,2,33.33,2,1,3,2,1,36,1,0,1,1,0,1,50.0,0.0,33.33,50.0,0.0,2.78
+edrophonium,adenocarcinoma of pancreas,8,3,37.5,2,1,3,2,1,36,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.33
+edrophonium,phen_tp_pancreatitis,7,2,28.57,2,1,3,2,1,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+edrophonium,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,2,1,3,2,1,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+edrophonium,phen_sig_tp_noFP_Sig_pancreatitis,18,4,22.22,2,1,3,2,1,36,1,0,1,1,0,3,50.0,0.0,33.33,50.0,0.0,8.33
+edrophonium,thrombocytopenia 5,1,0,0.0,2,1,3,2,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+edrophonium,thrombocytopenia 6,19,4,21.05,2,1,3,2,1,36,1,0,1,1,0,3,50.0,0.0,33.33,50.0,0.0,8.33
+edrophonium,macrothrombocytopenia,6,3,50.0,2,1,3,2,1,36,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.33
+edrophonium,idiopathic thrombocytopenia,17,1,5.88,2,1,3,2,1,36,1,0,1,1,0,0,50.0,0.0,33.33,50.0,0.0,0.0
+edrophonium,thrombocytopenia due to platelet alloimmunization,16,6,37.5,2,1,3,2,1,36,1,0,1,1,0,5,50.0,0.0,33.33,50.0,0.0,13.89
+edrophonium,phen_tp_thrombocytopenia,8,3,37.5,2,1,3,2,1,36,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.33
+edrophonium,phen_sig_tp_noFP_Sig_thrombocytopenia,7,0,0.0,2,1,3,2,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+edrophonium,myocardial infarction,4,1,25.0,2,1,3,2,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+edrophonium,old myocardial infarction,13,3,23.08,2,1,3,2,1,36,1,0,1,1,0,2,50.0,0.0,33.33,50.0,0.0,5.56
+edrophonium,acute myocardial infarction,8,2,25.0,2,1,3,2,1,36,1,0,1,1,0,1,50.0,0.0,33.33,50.0,0.0,2.78
+edrophonium,phen_sig_tp_noFP_Sig_myocardial infarction,17,2,11.76,2,1,3,2,1,36,1,0,1,1,0,1,50.0,0.0,33.33,50.0,0.0,2.78
+dorzolamide,hypertension,6,1,16.67,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,prehypertension,22,3,13.64,6,1,19,2,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+dorzolamide,hypertensive disease,17,5,29.41,6,1,19,2,1,37,1,0,1,0,0,4,16.67,0.0,5.26,0.0,0.0,10.81
+dorzolamide,genetic hypertension,9,2,22.22,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,pulmonary hypertension,12,2,16.67,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,essential hypertension,9,1,11.11,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,"hypertension, renovascular",12,2,16.67,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,idiopathic pulmonary hypertension,12,3,25.0,6,1,19,2,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+dorzolamide,renal hypertension,8,5,62.5,6,1,19,2,1,37,2,1,3,1,0,3,33.33,100.0,15.79,50.0,0.0,8.11
+dorzolamide,ocular hypertension,12,2,16.67,6,1,19,2,1,37,1,0,1,0,0,1,16.67,0.0,5.26,0.0,0.0,2.7
+dorzolamide,"hypertension, portal",3,1,33.33,6,1,19,2,1,37,1,0,1,0,0,1,16.67,0.0,5.26,0.0,0.0,2.7
+dorzolamide,phen_tp_hypertension,10,3,30.0,6,1,19,2,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+dorzolamide,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,pancreatitis,5,1,20.0,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,acute pancreatitis,12,1,8.33,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,pancreatitis idiopathic,6,1,16.67,6,1,19,2,1,37,1,0,1,0,0,0,16.67,0.0,5.26,0.0,0.0,0.0
+dorzolamide,adenocarcinoma of pancreas,8,6,75.0,6,1,19,2,1,37,2,1,3,1,0,4,33.33,100.0,15.79,50.0,0.0,10.81
+dorzolamide,phen_tp_pancreatitis,7,1,14.29,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,phen_sig_tp_noFP_Dis_pancreatitis,8,1,12.5,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,phen_sig_tp_noFP_Sig_pancreatitis,18,2,11.11,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,thrombocytopenia 5,1,0,0.0,6,1,19,2,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+dorzolamide,thrombocytopenia 6,19,4,21.05,6,1,19,2,1,37,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,10.81
+dorzolamide,macrothrombocytopenia,6,1,16.67,6,1,19,2,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+dorzolamide,idiopathic thrombocytopenia,17,3,17.65,6,1,19,2,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+dorzolamide,thrombocytopenia due to platelet alloimmunization,16,3,18.75,6,1,19,2,1,37,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.11
+dorzolamide,phen_tp_thrombocytopenia,8,4,50.0,6,1,19,2,1,37,2,1,2,1,0,3,33.33,100.0,10.53,50.0,0.0,8.11
+dorzolamide,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,6,1,19,2,1,37,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.41
+dorzolamide,myocardial infarction,4,0,0.0,6,1,19,2,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+dorzolamide,old myocardial infarction,13,3,23.08,6,1,19,2,1,37,0,0,1,0,0,2,0.0,0.0,5.26,0.0,0.0,5.41
+dorzolamide,acute myocardial infarction,8,1,12.5,6,1,19,2,1,37,0,0,1,0,0,0,0.0,0.0,5.26,0.0,0.0,0.0
+dorzolamide,phen_sig_tp_noFP_Sig_myocardial infarction,17,3,17.65,6,1,19,2,1,37,1,0,1,0,0,2,16.67,0.0,5.26,0.0,0.0,5.41
+indapamide,hypertension,6,0,0.0,3,1,30,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+indapamide,prehypertension,22,5,22.73,3,1,30,1,1,35,1,0,1,0,0,4,33.33,0.0,3.33,0.0,0.0,11.43
+indapamide,hypertensive disease,17,2,11.76,3,1,30,1,1,35,0,0,1,0,0,2,0.0,0.0,3.33,0.0,0.0,5.71
+indapamide,genetic hypertension,9,3,33.33,3,1,30,1,1,35,1,0,1,0,0,2,33.33,0.0,3.33,0.0,0.0,5.71
+indapamide,pulmonary hypertension,12,2,16.67,3,1,30,1,1,35,1,0,1,0,0,1,33.33,0.0,3.33,0.0,0.0,2.86
+indapamide,essential hypertension,9,1,11.11,3,1,30,1,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+indapamide,"hypertension, renovascular",12,1,8.33,3,1,30,1,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+indapamide,idiopathic pulmonary hypertension,12,3,25.0,3,1,30,1,1,35,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.57
+indapamide,renal hypertension,8,6,75.0,3,1,30,1,1,35,2,0,4,1,0,3,66.67,0.0,13.33,100.0,0.0,8.57
+indapamide,ocular hypertension,12,0,0.0,3,1,30,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+indapamide,"hypertension, portal",3,3,100.0,3,1,30,1,1,35,1,0,2,0,0,2,33.33,0.0,6.67,0.0,0.0,5.71
+indapamide,phen_tp_hypertension,10,3,30.0,3,1,30,1,1,35,1,0,1,0,0,2,33.33,0.0,3.33,0.0,0.0,5.71
+indapamide,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,3,1,30,1,1,35,1,0,1,0,0,1,33.33,0.0,3.33,0.0,0.0,2.86
+indapamide,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,3,1,30,1,1,35,1,0,1,0,0,1,33.33,0.0,3.33,0.0,0.0,2.86
+indapamide,pancreatitis,5,2,40.0,3,1,30,1,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+indapamide,acute pancreatitis,12,3,25.0,3,1,30,1,1,35,1,0,1,0,0,2,33.33,0.0,3.33,0.0,0.0,5.71
+indapamide,pancreatitis idiopathic,6,0,0.0,3,1,30,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+indapamide,adenocarcinoma of pancreas,8,6,75.0,3,1,30,1,1,35,2,0,5,1,0,3,66.67,0.0,16.67,100.0,0.0,8.57
+indapamide,phen_tp_pancreatitis,7,0,0.0,3,1,30,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+indapamide,phen_sig_tp_noFP_Dis_pancreatitis,8,0,0.0,3,1,30,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+indapamide,phen_sig_tp_noFP_Sig_pancreatitis,18,3,16.67,3,1,30,1,1,35,1,0,1,0,0,2,33.33,0.0,3.33,0.0,0.0,5.71
+indapamide,thrombocytopenia 5,1,1,100.0,3,1,30,1,1,35,1,0,1,0,0,0,33.33,0.0,3.33,0.0,0.0,0.0
+indapamide,thrombocytopenia 6,19,5,26.32,3,1,30,1,1,35,1,0,1,0,0,4,33.33,0.0,3.33,0.0,0.0,11.43
+indapamide,macrothrombocytopenia,6,1,16.67,3,1,30,1,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+indapamide,idiopathic thrombocytopenia,17,3,17.65,3,1,30,1,1,35,1,0,1,0,0,2,33.33,0.0,3.33,0.0,0.0,5.71
+indapamide,thrombocytopenia due to platelet alloimmunization,16,6,37.5,3,1,30,1,1,35,1,0,2,0,0,5,33.33,0.0,6.67,0.0,0.0,14.29
+indapamide,phen_tp_thrombocytopenia,8,4,50.0,3,1,30,1,1,35,0,0,2,1,0,3,0.0,0.0,6.67,100.0,0.0,8.57
+indapamide,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,3,1,30,1,1,35,1,0,1,0,0,1,33.33,0.0,3.33,0.0,0.0,2.86
+indapamide,myocardial infarction,4,1,25.0,3,1,30,1,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+indapamide,old myocardial infarction,13,4,30.77,3,1,30,1,1,35,2,0,2,0,0,2,66.67,0.0,6.67,0.0,0.0,5.71
+indapamide,acute myocardial infarction,8,1,12.5,3,1,30,1,1,35,1,0,1,0,0,0,33.33,0.0,3.33,0.0,0.0,0.0
+indapamide,phen_sig_tp_noFP_Sig_myocardial infarction,17,3,17.65,3,1,30,1,1,35,1,0,1,0,0,2,33.33,0.0,3.33,0.0,0.0,5.71
+trandolapril,hypertension,6,5,83.33,4,1,16,1,1,35,1,1,2,1,1,5,25.0,100.0,12.5,100.0,100.0,14.29
+trandolapril,prehypertension,22,9,40.91,4,1,16,1,1,35,0,0,1,0,0,8,0.0,0.0,6.25,0.0,0.0,22.86
+trandolapril,hypertensive disease,17,11,64.71,4,1,16,1,1,35,0,0,2,0,0,9,0.0,0.0,12.5,0.0,0.0,25.71
+trandolapril,genetic hypertension,9,6,66.67,4,1,16,1,1,35,1,1,2,1,1,5,25.0,100.0,12.5,100.0,100.0,14.29
+trandolapril,pulmonary hypertension,12,10,83.33,4,1,16,1,1,35,1,1,1,1,1,10,25.0,100.0,6.25,100.0,100.0,28.57
+trandolapril,essential hypertension,9,3,33.33,4,1,16,1,1,35,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.57
+trandolapril,"hypertension, renovascular",12,7,58.33,4,1,16,1,1,35,1,1,1,1,1,7,25.0,100.0,6.25,100.0,100.0,20.0
+trandolapril,idiopathic pulmonary hypertension,12,5,41.67,4,1,16,1,1,35,1,1,1,1,1,5,25.0,100.0,6.25,100.0,100.0,14.29
+trandolapril,renal hypertension,8,1,12.5,4,1,16,1,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+trandolapril,ocular hypertension,12,7,58.33,4,1,16,1,1,35,1,1,2,1,1,6,25.0,100.0,12.5,100.0,100.0,17.14
+trandolapril,"hypertension, portal",3,0,0.0,4,1,16,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+trandolapril,phen_tp_hypertension,10,9,90.0,4,1,16,1,1,35,1,1,2,1,1,8,25.0,100.0,12.5,100.0,100.0,22.86
+trandolapril,phen_sig_tp_noFP_Dis_hypertension,10,7,70.0,4,1,16,1,1,35,1,1,1,1,1,7,25.0,100.0,6.25,100.0,100.0,20.0
+trandolapril,phen_sig_tp_noFP_Sig_hypertension,15,7,46.67,4,1,16,1,1,35,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,20.0
+trandolapril,pancreatitis,5,2,40.0,4,1,16,1,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+trandolapril,acute pancreatitis,12,6,50.0,4,1,16,1,1,35,1,1,1,1,1,6,25.0,100.0,6.25,100.0,100.0,17.14
+trandolapril,pancreatitis idiopathic,6,3,50.0,4,1,16,1,1,35,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.57
+trandolapril,adenocarcinoma of pancreas,8,2,25.0,4,1,16,1,1,35,0,0,1,0,0,1,0.0,0.0,6.25,0.0,0.0,2.86
+trandolapril,phen_tp_pancreatitis,7,2,28.57,4,1,16,1,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+trandolapril,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,4,1,16,1,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+trandolapril,phen_sig_tp_noFP_Sig_pancreatitis,18,9,50.0,4,1,16,1,1,35,1,1,1,1,1,9,25.0,100.0,6.25,100.0,100.0,25.71
+trandolapril,thrombocytopenia 5,1,0,0.0,4,1,16,1,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+trandolapril,thrombocytopenia 6,19,10,52.63,4,1,16,1,1,35,1,1,2,1,1,9,25.0,100.0,12.5,100.0,100.0,25.71
+trandolapril,macrothrombocytopenia,6,2,33.33,4,1,16,1,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+trandolapril,idiopathic thrombocytopenia,17,12,70.59,4,1,16,1,1,35,0,0,1,0,0,11,0.0,0.0,6.25,0.0,0.0,31.43
+trandolapril,thrombocytopenia due to platelet alloimmunization,16,7,43.75,4,1,16,1,1,35,0,0,2,0,0,5,0.0,0.0,12.5,0.0,0.0,14.29
+trandolapril,phen_tp_thrombocytopenia,8,1,12.5,4,1,16,1,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+trandolapril,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,4,1,16,1,1,35,1,1,1,1,1,3,25.0,100.0,6.25,100.0,100.0,8.57
+trandolapril,myocardial infarction,4,2,50.0,4,1,16,1,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+trandolapril,old myocardial infarction,13,5,38.46,4,1,16,1,1,35,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,14.29
+trandolapril,acute myocardial infarction,8,4,50.0,4,1,16,1,1,35,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.43
+trandolapril,phen_sig_tp_noFP_Sig_myocardial infarction,17,8,47.06,4,1,16,1,1,35,1,1,1,1,1,8,25.0,100.0,6.25,100.0,100.0,22.86
+pentostatin,hypertension,6,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,prehypertension,22,4,18.18,1,1,2,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+pentostatin,hypertensive disease,17,3,17.65,1,1,2,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+pentostatin,genetic hypertension,9,1,11.11,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,pulmonary hypertension,12,2,16.67,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,essential hypertension,9,1,11.11,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,"hypertension, renovascular",12,1,8.33,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,idiopathic pulmonary hypertension,12,4,33.33,1,1,2,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+pentostatin,renal hypertension,8,1,12.5,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,ocular hypertension,12,1,8.33,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,"hypertension, portal",3,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,phen_tp_hypertension,10,3,30.0,1,1,2,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+pentostatin,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,phen_sig_tp_noFP_Sig_hypertension,15,4,26.67,1,1,2,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+pentostatin,pancreatitis,5,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,acute pancreatitis,12,1,8.33,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,pancreatitis idiopathic,6,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,adenocarcinoma of pancreas,8,1,12.5,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,phen_tp_pancreatitis,7,2,28.57,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,phen_sig_tp_noFP_Sig_pancreatitis,18,2,11.11,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,thrombocytopenia 5,1,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,thrombocytopenia 6,19,3,15.79,1,1,2,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+pentostatin,macrothrombocytopenia,6,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,idiopathic thrombocytopenia,17,2,11.76,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,thrombocytopenia due to platelet alloimmunization,16,3,18.75,1,1,2,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+pentostatin,phen_tp_thrombocytopenia,8,2,25.0,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,1,1,2,2,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+pentostatin,myocardial infarction,4,0,0.0,1,1,2,2,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+pentostatin,old myocardial infarction,13,4,30.77,1,1,2,2,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+pentostatin,acute myocardial infarction,8,1,12.5,1,1,2,2,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+pentostatin,phen_sig_tp_noFP_Sig_myocardial infarction,17,3,17.65,1,1,2,2,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+galantamine,hypertension,6,1,16.67,6,1,15,2,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+galantamine,prehypertension,22,7,31.82,6,1,15,2,1,38,2,0,2,1,0,5,33.33,0.0,13.33,50.0,0.0,13.16
+galantamine,hypertensive disease,17,6,35.29,6,1,15,2,1,38,1,0,1,1,0,5,16.67,0.0,6.67,50.0,0.0,13.16
+galantamine,genetic hypertension,9,1,11.11,6,1,15,2,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+galantamine,pulmonary hypertension,12,2,16.67,6,1,15,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+galantamine,essential hypertension,9,7,77.78,6,1,15,2,1,38,1,0,1,1,0,6,16.67,0.0,6.67,50.0,0.0,15.79
+galantamine,"hypertension, renovascular",12,4,33.33,6,1,15,2,1,38,1,0,1,0,0,3,16.67,0.0,6.67,0.0,0.0,7.89
+galantamine,idiopathic pulmonary hypertension,12,4,33.33,6,1,15,2,1,38,1,0,1,1,0,3,16.67,0.0,6.67,50.0,0.0,7.89
+galantamine,renal hypertension,8,3,37.5,6,1,15,2,1,38,1,0,1,0,0,2,16.67,0.0,6.67,0.0,0.0,5.26
+galantamine,ocular hypertension,12,5,41.67,6,1,15,2,1,38,2,0,2,1,0,3,33.33,0.0,13.33,50.0,0.0,7.89
+galantamine,"hypertension, portal",3,0,0.0,6,1,15,2,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+galantamine,phen_tp_hypertension,10,2,20.0,6,1,15,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+galantamine,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,6,1,15,2,1,38,1,0,1,0,0,1,16.67,0.0,6.67,0.0,0.0,2.63
+galantamine,phen_sig_tp_noFP_Sig_hypertension,15,7,46.67,6,1,15,2,1,38,2,0,2,1,0,5,33.33,0.0,13.33,50.0,0.0,13.16
+galantamine,pancreatitis,5,0,0.0,6,1,15,2,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+galantamine,acute pancreatitis,12,2,16.67,6,1,15,2,1,38,1,0,1,1,0,1,16.67,0.0,6.67,50.0,0.0,2.63
+galantamine,pancreatitis idiopathic,6,3,50.0,6,1,15,2,1,38,2,0,2,1,0,1,33.33,0.0,13.33,50.0,0.0,2.63
+galantamine,adenocarcinoma of pancreas,8,4,50.0,6,1,15,2,1,38,1,0,1,0,0,3,16.67,0.0,6.67,0.0,0.0,7.89
+galantamine,phen_tp_pancreatitis,7,1,14.29,6,1,15,2,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+galantamine,phen_sig_tp_noFP_Dis_pancreatitis,8,0,0.0,6,1,15,2,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+galantamine,phen_sig_tp_noFP_Sig_pancreatitis,18,5,27.78,6,1,15,2,1,38,2,0,2,1,0,3,33.33,0.0,13.33,50.0,0.0,7.89
+galantamine,thrombocytopenia 5,1,0,0.0,6,1,15,2,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+galantamine,thrombocytopenia 6,19,7,36.84,6,1,15,2,1,38,1,0,1,1,0,6,16.67,0.0,6.67,50.0,0.0,15.79
+galantamine,macrothrombocytopenia,6,2,33.33,6,1,15,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+galantamine,idiopathic thrombocytopenia,17,2,11.76,6,1,15,2,1,38,1,0,1,1,0,1,16.67,0.0,6.67,50.0,0.0,2.63
+galantamine,thrombocytopenia due to platelet alloimmunization,16,8,50.0,6,1,15,2,1,38,2,0,2,1,0,6,33.33,0.0,13.33,50.0,0.0,15.79
+galantamine,phen_tp_thrombocytopenia,8,2,25.0,6,1,15,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+galantamine,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,6,1,15,2,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+galantamine,myocardial infarction,4,1,25.0,6,1,15,2,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+galantamine,old myocardial infarction,13,6,46.15,6,1,15,2,1,38,2,0,2,1,0,4,33.33,0.0,13.33,50.0,0.0,10.53
+galantamine,acute myocardial infarction,8,4,50.0,6,1,15,2,1,38,2,0,2,1,0,2,33.33,0.0,13.33,50.0,0.0,5.26
+galantamine,phen_sig_tp_noFP_Sig_myocardial infarction,17,6,35.29,6,1,15,2,1,38,2,0,2,1,0,4,33.33,0.0,13.33,50.0,0.0,10.53
+rosuvastatin,hypertension,6,0,0.0,14,1,23,4,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+rosuvastatin,prehypertension,22,5,22.73,14,1,23,4,1,40,2,0,2,0,0,3,14.29,0.0,8.7,0.0,0.0,7.5
+rosuvastatin,hypertensive disease,17,3,17.65,14,1,23,4,1,40,1,0,1,0,0,2,7.14,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,genetic hypertension,9,3,33.33,14,1,23,4,1,40,1,0,1,0,0,2,7.14,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,pulmonary hypertension,12,3,25.0,14,1,23,4,1,40,1,0,1,0,0,2,7.14,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,essential hypertension,9,1,11.11,14,1,23,4,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+rosuvastatin,"hypertension, renovascular",12,1,8.33,14,1,23,4,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+rosuvastatin,idiopathic pulmonary hypertension,12,3,25.0,14,1,23,4,1,40,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.5
+rosuvastatin,renal hypertension,8,3,37.5,14,1,23,4,1,40,1,0,1,0,0,2,7.14,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,ocular hypertension,12,2,16.67,14,1,23,4,1,40,1,0,1,0,0,1,7.14,0.0,4.35,0.0,0.0,2.5
+rosuvastatin,"hypertension, portal",3,1,33.33,14,1,23,4,1,40,1,0,1,0,0,0,7.14,0.0,4.35,0.0,0.0,0.0
+rosuvastatin,phen_tp_hypertension,10,4,40.0,14,1,23,4,1,40,1,0,1,0,0,3,7.14,0.0,4.35,0.0,0.0,7.5
+rosuvastatin,phen_sig_tp_noFP_Dis_hypertension,10,4,40.0,14,1,23,4,1,40,1,0,1,0,0,3,7.14,0.0,4.35,0.0,0.0,7.5
+rosuvastatin,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,14,1,23,4,1,40,1,0,1,0,0,1,7.14,0.0,4.35,0.0,0.0,2.5
+rosuvastatin,pancreatitis,5,0,0.0,14,1,23,4,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+rosuvastatin,acute pancreatitis,12,2,16.67,14,1,23,4,1,40,1,0,1,0,0,1,7.14,0.0,4.35,0.0,0.0,2.5
+rosuvastatin,pancreatitis idiopathic,6,1,16.67,14,1,23,4,1,40,1,0,1,0,0,0,7.14,0.0,4.35,0.0,0.0,0.0
+rosuvastatin,adenocarcinoma of pancreas,8,3,37.5,14,1,23,4,1,40,1,0,1,0,0,2,7.14,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,phen_tp_pancreatitis,7,2,28.57,14,1,23,4,1,40,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.0
+rosuvastatin,phen_sig_tp_noFP_Dis_pancreatitis,8,3,37.5,14,1,23,4,1,40,0,0,1,0,0,2,0.0,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,phen_sig_tp_noFP_Sig_pancreatitis,18,5,27.78,14,1,23,4,1,40,1,0,1,0,0,4,7.14,0.0,4.35,0.0,0.0,10.0
+rosuvastatin,thrombocytopenia 5,1,1,100.0,14,1,23,4,1,40,1,0,1,0,0,0,7.14,0.0,4.35,0.0,0.0,0.0
+rosuvastatin,thrombocytopenia 6,19,6,31.58,14,1,23,4,1,40,2,0,2,0,0,4,14.29,0.0,8.7,0.0,0.0,10.0
+rosuvastatin,macrothrombocytopenia,6,1,16.67,14,1,23,4,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+rosuvastatin,idiopathic thrombocytopenia,17,5,29.41,14,1,23,4,1,40,1,0,1,0,0,4,7.14,0.0,4.35,0.0,0.0,10.0
+rosuvastatin,thrombocytopenia due to platelet alloimmunization,16,2,12.5,14,1,23,4,1,40,1,0,1,0,0,1,7.14,0.0,4.35,0.0,0.0,2.5
+rosuvastatin,phen_tp_thrombocytopenia,8,2,25.0,14,1,23,4,1,40,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.0
+rosuvastatin,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,14,1,23,4,1,40,1,0,1,0,0,1,7.14,0.0,4.35,0.0,0.0,2.5
+rosuvastatin,myocardial infarction,4,0,0.0,14,1,23,4,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+rosuvastatin,old myocardial infarction,13,3,23.08,14,1,23,4,1,40,1,0,1,0,0,2,7.14,0.0,4.35,0.0,0.0,5.0
+rosuvastatin,acute myocardial infarction,8,1,12.5,14,1,23,4,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+rosuvastatin,phen_sig_tp_noFP_Sig_myocardial infarction,17,4,23.53,14,1,23,4,1,40,3,0,3,0,0,1,21.43,0.0,13.04,0.0,0.0,2.5
+saxagliptin,hypertension,6,2,33.33,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,prehypertension,22,5,22.73,5,1,23,1,1,41,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.2
+saxagliptin,hypertensive disease,17,4,23.53,5,1,23,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+saxagliptin,genetic hypertension,9,3,33.33,5,1,23,1,1,41,0,0,1,0,0,2,0.0,0.0,4.35,0.0,0.0,4.88
+saxagliptin,pulmonary hypertension,12,5,41.67,5,1,23,1,1,41,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.2
+saxagliptin,essential hypertension,9,2,22.22,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,"hypertension, renovascular",12,5,41.67,5,1,23,1,1,41,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.2
+saxagliptin,idiopathic pulmonary hypertension,12,3,25.0,5,1,23,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+saxagliptin,renal hypertension,8,2,25.0,5,1,23,1,1,41,1,0,1,0,0,1,20.0,0.0,4.35,0.0,0.0,2.44
+saxagliptin,ocular hypertension,12,4,33.33,5,1,23,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+saxagliptin,"hypertension, portal",3,0,0.0,5,1,23,1,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+saxagliptin,phen_tp_hypertension,10,4,40.0,5,1,23,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+saxagliptin,phen_sig_tp_noFP_Dis_hypertension,10,4,40.0,5,1,23,1,1,41,0,0,1,0,0,3,0.0,0.0,4.35,0.0,0.0,7.32
+saxagliptin,phen_sig_tp_noFP_Sig_hypertension,15,4,26.67,5,1,23,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+saxagliptin,pancreatitis,5,2,40.0,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,acute pancreatitis,12,6,50.0,5,1,23,1,1,41,0,0,1,0,0,5,0.0,0.0,4.35,0.0,0.0,12.2
+saxagliptin,pancreatitis idiopathic,6,1,16.67,5,1,23,1,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+saxagliptin,adenocarcinoma of pancreas,8,2,25.0,5,1,23,1,1,41,1,0,1,0,0,1,20.0,0.0,4.35,0.0,0.0,2.44
+saxagliptin,phen_tp_pancreatitis,7,6,85.71,5,1,23,1,1,41,0,0,1,0,0,5,0.0,0.0,4.35,0.0,0.0,12.2
+saxagliptin,phen_sig_tp_noFP_Dis_pancreatitis,8,7,87.5,5,1,23,1,1,41,1,0,2,0,0,5,20.0,0.0,8.7,0.0,0.0,12.2
+saxagliptin,phen_sig_tp_noFP_Sig_pancreatitis,18,4,22.22,5,1,23,1,1,41,0,0,1,0,0,3,0.0,0.0,4.35,0.0,0.0,7.32
+saxagliptin,thrombocytopenia 5,1,0,0.0,5,1,23,1,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+saxagliptin,thrombocytopenia 6,19,5,26.32,5,1,23,1,1,41,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,12.2
+saxagliptin,macrothrombocytopenia,6,3,50.0,5,1,23,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+saxagliptin,idiopathic thrombocytopenia,17,5,29.41,5,1,23,1,1,41,0,0,1,0,0,4,0.0,0.0,4.35,0.0,0.0,9.76
+saxagliptin,thrombocytopenia due to platelet alloimmunization,16,2,12.5,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,phen_tp_thrombocytopenia,8,2,25.0,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,myocardial infarction,4,2,50.0,5,1,23,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+saxagliptin,old myocardial infarction,13,6,46.15,5,1,23,1,1,41,1,0,1,0,0,5,20.0,0.0,4.35,0.0,0.0,12.2
+saxagliptin,acute myocardial infarction,8,2,25.0,5,1,23,1,1,41,1,0,1,0,0,1,20.0,0.0,4.35,0.0,0.0,2.44
+saxagliptin,phen_sig_tp_noFP_Sig_myocardial infarction,17,7,41.18,5,1,23,1,1,41,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,17.07
+miglustat,hypertension,6,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,prehypertension,22,2,9.09,1,1,10,3,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+miglustat,hypertensive disease,17,2,11.76,1,1,10,3,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+miglustat,genetic hypertension,9,1,11.11,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+miglustat,pulmonary hypertension,12,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,essential hypertension,9,2,22.22,1,1,10,3,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+miglustat,"hypertension, renovascular",12,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,idiopathic pulmonary hypertension,12,1,8.33,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+miglustat,renal hypertension,8,1,12.5,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+miglustat,ocular hypertension,12,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,"hypertension, portal",3,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,phen_tp_hypertension,10,4,40.0,1,1,10,3,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+miglustat,phen_sig_tp_noFP_Dis_hypertension,10,3,30.0,1,1,10,3,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+miglustat,phen_sig_tp_noFP_Sig_hypertension,15,1,6.67,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+miglustat,pancreatitis,5,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,acute pancreatitis,12,2,16.67,1,1,10,3,1,41,0,0,1,0,0,1,0.0,0.0,10.0,0.0,0.0,2.44
+miglustat,pancreatitis idiopathic,6,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,adenocarcinoma of pancreas,8,1,12.5,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+miglustat,phen_tp_pancreatitis,7,4,57.14,1,1,10,3,1,41,0,0,1,0,0,3,0.0,0.0,10.0,0.0,0.0,7.32
+miglustat,phen_sig_tp_noFP_Dis_pancreatitis,8,4,50.0,1,1,10,3,1,41,0,0,1,0,0,3,0.0,0.0,10.0,0.0,0.0,7.32
+miglustat,phen_sig_tp_noFP_Sig_pancreatitis,18,5,27.78,1,1,10,3,1,41,0,0,1,0,0,4,0.0,0.0,10.0,0.0,0.0,9.76
+miglustat,thrombocytopenia 5,1,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,thrombocytopenia 6,19,2,10.53,1,1,10,3,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+miglustat,macrothrombocytopenia,6,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,idiopathic thrombocytopenia,17,3,17.65,1,1,10,3,1,41,0,0,1,0,0,2,0.0,0.0,10.0,0.0,0.0,4.88
+miglustat,thrombocytopenia due to platelet alloimmunization,16,2,12.5,1,1,10,3,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+miglustat,phen_tp_thrombocytopenia,8,4,50.0,1,1,10,3,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+miglustat,phen_sig_tp_noFP_Sig_thrombocytopenia,7,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,myocardial infarction,4,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,old myocardial infarction,13,1,7.69,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+miglustat,acute myocardial infarction,8,0,0.0,1,1,10,3,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+miglustat,phen_sig_tp_noFP_Sig_myocardial infarction,17,1,5.88,1,1,10,3,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+tranexamic acid,hypertension,6,1,16.67,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,prehypertension,22,2,9.09,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+tranexamic acid,hypertensive disease,17,1,5.88,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,genetic hypertension,9,2,22.22,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+tranexamic acid,pulmonary hypertension,12,1,8.33,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,essential hypertension,9,1,11.11,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,"hypertension, renovascular",12,1,8.33,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,idiopathic pulmonary hypertension,12,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,renal hypertension,8,1,12.5,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,ocular hypertension,12,1,8.33,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,"hypertension, portal",3,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,phen_tp_hypertension,10,1,10.0,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,phen_sig_tp_noFP_Dis_hypertension,10,1,10.0,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+tranexamic acid,pancreatitis,5,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,acute pancreatitis,12,2,16.67,1,1,10,2,1,39,0,0,1,0,0,1,0.0,0.0,10.0,0.0,0.0,2.56
+tranexamic acid,pancreatitis idiopathic,6,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,adenocarcinoma of pancreas,8,1,12.5,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,phen_tp_pancreatitis,7,2,28.57,1,1,10,2,1,39,0,0,1,0,0,1,0.0,0.0,10.0,0.0,0.0,2.56
+tranexamic acid,phen_sig_tp_noFP_Dis_pancreatitis,8,1,12.5,1,1,10,2,1,39,0,0,1,0,0,0,0.0,0.0,10.0,0.0,0.0,0.0
+tranexamic acid,phen_sig_tp_noFP_Sig_pancreatitis,18,3,16.67,1,1,10,2,1,39,0,0,1,0,0,2,0.0,0.0,10.0,0.0,0.0,5.13
+tranexamic acid,thrombocytopenia 5,1,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,thrombocytopenia 6,19,1,5.26,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,macrothrombocytopenia,6,2,33.33,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+tranexamic acid,idiopathic thrombocytopenia,17,2,11.76,1,1,10,2,1,39,0,0,1,0,0,1,0.0,0.0,10.0,0.0,0.0,2.56
+tranexamic acid,thrombocytopenia due to platelet alloimmunization,16,2,12.5,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+tranexamic acid,phen_tp_thrombocytopenia,8,1,12.5,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,phen_sig_tp_noFP_Sig_thrombocytopenia,7,1,14.29,1,1,10,2,1,39,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.56
+tranexamic acid,myocardial infarction,4,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,old myocardial infarction,13,2,15.38,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+tranexamic acid,acute myocardial infarction,8,0,0.0,1,1,10,2,1,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+tranexamic acid,phen_sig_tp_noFP_Sig_myocardial infarction,17,2,11.76,1,1,10,2,1,39,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.13
+chlorthalidone,hypertension,6,1,16.67,3,1,24,1,1,38,0,0,1,0,0,0,0.0,0.0,4.17,0.0,0.0,0.0
+chlorthalidone,prehypertension,22,5,22.73,3,1,24,1,1,38,1,0,2,0,0,3,33.33,0.0,8.33,0.0,0.0,7.89
+chlorthalidone,hypertensive disease,17,6,35.29,3,1,24,1,1,38,0,0,2,0,0,5,0.0,0.0,8.33,0.0,0.0,13.16
+chlorthalidone,genetic hypertension,9,5,55.56,3,1,24,1,1,38,1,0,3,0,0,2,33.33,0.0,12.5,0.0,0.0,5.26
+chlorthalidone,pulmonary hypertension,12,6,50.0,3,1,24,1,1,38,1,0,2,0,0,4,33.33,0.0,8.33,0.0,0.0,10.53
+chlorthalidone,essential hypertension,9,3,33.33,3,1,24,1,1,38,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.89
+chlorthalidone,"hypertension, renovascular",12,4,33.33,3,1,24,1,1,38,0,0,1,0,0,3,0.0,0.0,4.17,0.0,0.0,7.89
+chlorthalidone,idiopathic pulmonary hypertension,12,3,25.0,3,1,24,1,1,38,0,0,1,0,0,2,0.0,0.0,4.17,0.0,0.0,5.26
+chlorthalidone,renal hypertension,8,6,75.0,3,1,24,1,1,38,2,0,3,1,0,4,66.67,0.0,12.5,100.0,0.0,10.53
+chlorthalidone,ocular hypertension,12,5,41.67,3,1,24,1,1,38,0,0,2,0,0,3,0.0,0.0,8.33,0.0,0.0,7.89
+chlorthalidone,"hypertension, portal",3,3,100.0,3,1,24,1,1,38,2,0,2,0,0,2,66.67,0.0,8.33,0.0,0.0,5.26
+chlorthalidone,phen_tp_hypertension,10,6,60.0,3,1,24,1,1,38,1,0,3,0,0,3,33.33,0.0,12.5,0.0,0.0,7.89
+chlorthalidone,phen_sig_tp_noFP_Dis_hypertension,10,5,50.0,3,1,24,1,1,38,1,0,2,0,0,3,33.33,0.0,8.33,0.0,0.0,7.89
+chlorthalidone,phen_sig_tp_noFP_Sig_hypertension,15,4,26.67,3,1,24,1,1,38,1,0,1,0,0,3,33.33,0.0,4.17,0.0,0.0,7.89
+chlorthalidone,pancreatitis,5,2,40.0,3,1,24,1,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+chlorthalidone,acute pancreatitis,12,5,41.67,3,1,24,1,1,38,1,0,2,0,0,3,33.33,0.0,8.33,0.0,0.0,7.89
+chlorthalidone,pancreatitis idiopathic,6,2,33.33,3,1,24,1,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+chlorthalidone,adenocarcinoma of pancreas,8,6,75.0,3,1,24,1,1,38,2,0,4,1,0,4,66.67,0.0,16.67,100.0,0.0,10.53
+chlorthalidone,phen_tp_pancreatitis,7,0,0.0,3,1,24,1,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+chlorthalidone,phen_sig_tp_noFP_Dis_pancreatitis,8,0,0.0,3,1,24,1,1,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+chlorthalidone,phen_sig_tp_noFP_Sig_pancreatitis,18,6,33.33,3,1,24,1,1,38,1,0,2,0,0,4,33.33,0.0,8.33,0.0,0.0,10.53
+chlorthalidone,thrombocytopenia 5,1,1,100.0,3,1,24,1,1,38,1,0,1,0,0,0,33.33,0.0,4.17,0.0,0.0,0.0
+chlorthalidone,thrombocytopenia 6,19,7,36.84,3,1,24,1,1,38,1,0,3,0,0,4,33.33,0.0,12.5,0.0,0.0,10.53
+chlorthalidone,macrothrombocytopenia,6,1,16.67,3,1,24,1,1,38,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.63
+chlorthalidone,idiopathic thrombocytopenia,17,7,41.18,3,1,24,1,1,38,1,0,2,0,0,5,33.33,0.0,8.33,0.0,0.0,13.16
+chlorthalidone,thrombocytopenia due to platelet alloimmunization,16,6,37.5,3,1,24,1,1,38,1,0,3,0,0,4,33.33,0.0,12.5,0.0,0.0,10.53
+chlorthalidone,phen_tp_thrombocytopenia,8,4,50.0,3,1,24,1,1,38,1,0,2,1,0,3,33.33,0.0,8.33,100.0,0.0,7.89
+chlorthalidone,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,3,1,24,1,1,38,1,0,2,0,0,1,33.33,0.0,8.33,0.0,0.0,2.63
+chlorthalidone,myocardial infarction,4,2,50.0,3,1,24,1,1,38,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.26
+chlorthalidone,old myocardial infarction,13,4,30.77,3,1,24,1,1,38,1,0,1,0,0,3,33.33,0.0,4.17,0.0,0.0,7.89
+chlorthalidone,acute myocardial infarction,8,3,37.5,3,1,24,1,1,38,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.89
+chlorthalidone,phen_sig_tp_noFP_Sig_myocardial infarction,17,5,29.41,3,1,24,1,1,38,1,0,2,0,0,3,33.33,0.0,8.33,0.0,0.0,7.89
+ramipril,hypertension,6,5,83.33,5,1,36,2,1,30,1,1,1,1,1,5,20.0,100.0,2.78,50.0,100.0,16.67
+ramipril,prehypertension,22,10,45.45,5,1,36,2,1,30,1,0,2,0,0,8,20.0,0.0,5.56,0.0,0.0,26.67
+ramipril,hypertensive disease,17,11,64.71,5,1,36,2,1,30,1,0,3,1,0,8,20.0,0.0,8.33,50.0,0.0,26.67
+ramipril,genetic hypertension,9,6,66.67,5,1,36,2,1,30,1,1,2,1,1,5,20.0,100.0,5.56,50.0,100.0,16.67
+ramipril,pulmonary hypertension,12,9,75.0,5,1,36,2,1,30,1,1,1,1,1,9,20.0,100.0,2.78,50.0,100.0,30.0
+ramipril,essential hypertension,9,3,33.33,5,1,36,2,1,30,1,0,1,0,0,2,20.0,0.0,2.78,0.0,0.0,6.67
+ramipril,"hypertension, renovascular",12,8,66.67,5,1,36,2,1,30,1,1,1,1,1,8,20.0,100.0,2.78,50.0,100.0,26.67
+ramipril,idiopathic pulmonary hypertension,12,6,50.0,5,1,36,2,1,30,2,1,2,1,1,5,40.0,100.0,5.56,50.0,100.0,16.67
+ramipril,renal hypertension,8,1,12.5,5,1,36,2,1,30,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.33
+ramipril,ocular hypertension,12,8,66.67,5,1,36,2,1,30,2,1,3,1,1,6,40.0,100.0,8.33,50.0,100.0,20.0
+ramipril,"hypertension, portal",3,0,0.0,5,1,36,2,1,30,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+ramipril,phen_tp_hypertension,10,7,70.0,5,1,36,2,1,30,1,1,2,1,1,6,20.0,100.0,5.56,50.0,100.0,20.0
+ramipril,phen_sig_tp_noFP_Dis_hypertension,10,5,50.0,5,1,36,2,1,30,1,1,1,1,1,5,20.0,100.0,2.78,50.0,100.0,16.67
+ramipril,phen_sig_tp_noFP_Sig_hypertension,15,8,53.33,5,1,36,2,1,30,1,0,1,0,0,7,20.0,0.0,2.78,0.0,0.0,23.33
+ramipril,pancreatitis,5,3,60.0,5,1,36,2,1,30,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,10.0
+ramipril,acute pancreatitis,12,8,66.67,5,1,36,2,1,30,2,1,3,1,1,6,40.0,100.0,8.33,50.0,100.0,20.0
+ramipril,pancreatitis idiopathic,6,4,66.67,5,1,36,2,1,30,1,0,1,0,0,3,20.0,0.0,2.78,0.0,0.0,10.0
+ramipril,adenocarcinoma of pancreas,8,2,25.0,5,1,36,2,1,30,0,0,1,1,0,1,0.0,0.0,2.78,50.0,0.0,3.33
+ramipril,phen_tp_pancreatitis,7,3,42.86,5,1,36,2,1,30,0,0,1,0,0,2,0.0,0.0,2.78,0.0,0.0,6.67
+ramipril,phen_sig_tp_noFP_Dis_pancreatitis,8,3,37.5,5,1,36,2,1,30,0,0,1,0,0,2,0.0,0.0,2.78,0.0,0.0,6.67
+ramipril,phen_sig_tp_noFP_Sig_pancreatitis,18,9,50.0,5,1,36,2,1,30,2,1,3,1,1,7,40.0,100.0,8.33,50.0,100.0,23.33
+ramipril,thrombocytopenia 5,1,0,0.0,5,1,36,2,1,30,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+ramipril,thrombocytopenia 6,19,11,57.89,5,1,36,2,1,30,2,1,3,1,1,9,40.0,100.0,8.33,50.0,100.0,30.0
+ramipril,macrothrombocytopenia,6,4,66.67,5,1,36,2,1,30,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,13.33
+ramipril,idiopathic thrombocytopenia,17,12,70.59,5,1,36,2,1,30,1,0,3,0,0,9,20.0,0.0,8.33,0.0,0.0,30.0
+ramipril,thrombocytopenia due to platelet alloimmunization,16,9,56.25,5,1,36,2,1,30,1,0,3,1,0,6,20.0,0.0,8.33,50.0,0.0,20.0
+ramipril,phen_tp_thrombocytopenia,8,1,12.5,5,1,36,2,1,30,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.33
+ramipril,phen_sig_tp_noFP_Sig_thrombocytopenia,7,4,57.14,5,1,36,2,1,30,1,1,1,1,1,4,20.0,100.0,2.78,50.0,100.0,13.33
+ramipril,myocardial infarction,4,2,50.0,5,1,36,2,1,30,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,6.67
+ramipril,old myocardial infarction,13,6,46.15,5,1,36,2,1,30,1,0,1,0,0,5,20.0,0.0,2.78,0.0,0.0,16.67
+ramipril,acute myocardial infarction,8,5,62.5,5,1,36,2,1,30,1,0,1,0,0,4,20.0,0.0,2.78,0.0,0.0,13.33
+ramipril,phen_sig_tp_noFP_Sig_myocardial infarction,17,8,47.06,5,1,36,2,1,30,2,1,2,1,1,7,40.0,100.0,5.56,50.0,100.0,23.33
+sulfamethoxazole,hypertension,6,0,0.0,4,1,26,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sulfamethoxazole,prehypertension,22,2,9.09,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,hypertensive disease,17,3,17.65,4,1,26,1,1,40,1,0,1,1,0,2,25.0,0.0,3.85,100.0,0.0,5.0
+sulfamethoxazole,genetic hypertension,9,3,33.33,4,1,26,1,1,40,1,0,2,0,0,1,25.0,0.0,7.69,0.0,0.0,2.5
+sulfamethoxazole,pulmonary hypertension,12,2,16.67,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,essential hypertension,9,1,11.11,4,1,26,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+sulfamethoxazole,"hypertension, renovascular",12,1,8.33,4,1,26,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+sulfamethoxazole,idiopathic pulmonary hypertension,12,0,0.0,4,1,26,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sulfamethoxazole,renal hypertension,8,3,37.5,4,1,26,1,1,40,2,0,2,0,0,1,50.0,0.0,7.69,0.0,0.0,2.5
+sulfamethoxazole,ocular hypertension,12,2,16.67,4,1,26,1,1,40,1,0,1,1,0,1,25.0,0.0,3.85,100.0,0.0,2.5
+sulfamethoxazole,"hypertension, portal",3,1,33.33,4,1,26,1,1,40,1,0,1,0,0,0,25.0,0.0,3.85,0.0,0.0,0.0
+sulfamethoxazole,phen_tp_hypertension,10,2,20.0,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,phen_sig_tp_noFP_Dis_hypertension,10,3,30.0,4,1,26,1,1,40,1,0,2,0,0,1,25.0,0.0,7.69,0.0,0.0,2.5
+sulfamethoxazole,phen_sig_tp_noFP_Sig_hypertension,15,2,13.33,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,pancreatitis,5,0,0.0,4,1,26,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sulfamethoxazole,acute pancreatitis,12,2,16.67,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,pancreatitis idiopathic,6,1,16.67,4,1,26,1,1,40,1,0,1,1,0,0,25.0,0.0,3.85,100.0,0.0,0.0
+sulfamethoxazole,adenocarcinoma of pancreas,8,3,37.5,4,1,26,1,1,40,2,0,2,0,0,1,50.0,0.0,7.69,0.0,0.0,2.5
+sulfamethoxazole,phen_tp_pancreatitis,7,1,14.29,4,1,26,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+sulfamethoxazole,phen_sig_tp_noFP_Dis_pancreatitis,8,1,12.5,4,1,26,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+sulfamethoxazole,phen_sig_tp_noFP_Sig_pancreatitis,18,2,11.11,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,thrombocytopenia 5,1,1,100.0,4,1,26,1,1,40,1,0,1,0,0,0,25.0,0.0,3.85,0.0,0.0,0.0
+sulfamethoxazole,thrombocytopenia 6,19,2,10.53,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,macrothrombocytopenia,6,0,0.0,4,1,26,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sulfamethoxazole,idiopathic thrombocytopenia,17,2,11.76,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,thrombocytopenia due to platelet alloimmunization,16,2,12.5,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,phen_tp_thrombocytopenia,8,1,12.5,4,1,26,1,1,40,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.5
+sulfamethoxazole,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,4,1,26,1,1,40,1,0,1,0,0,1,25.0,0.0,3.85,0.0,0.0,2.5
+sulfamethoxazole,myocardial infarction,4,0,0.0,4,1,26,1,1,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sulfamethoxazole,old myocardial infarction,13,4,30.77,4,1,26,1,1,40,2,0,2,0,0,2,50.0,0.0,7.69,0.0,0.0,5.0
+sulfamethoxazole,acute myocardial infarction,8,1,12.5,4,1,26,1,1,40,1,0,1,0,0,0,25.0,0.0,3.85,0.0,0.0,0.0
+sulfamethoxazole,phen_sig_tp_noFP_Sig_myocardial infarction,17,3,17.65,4,1,26,1,1,40,2,0,2,1,0,1,50.0,0.0,7.69,100.0,0.0,2.5
+diflunisal,hypertension,6,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,prehypertension,22,4,18.18,6,2,24,1,1,37,1,0,1,1,0,3,16.67,0.0,4.17,100.0,0.0,8.11
+diflunisal,hypertensive disease,17,1,5.88,6,2,24,1,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+diflunisal,genetic hypertension,9,2,22.22,6,2,24,1,1,37,1,0,1,1,0,1,16.67,0.0,4.17,100.0,0.0,2.7
+diflunisal,pulmonary hypertension,12,4,33.33,6,2,24,1,1,37,1,0,1,1,0,3,16.67,0.0,4.17,100.0,0.0,8.11
+diflunisal,essential hypertension,9,2,22.22,6,2,24,1,1,37,0,0,1,0,0,1,0.0,0.0,4.17,0.0,0.0,2.7
+diflunisal,"hypertension, renovascular",12,2,16.67,6,2,24,1,1,37,0,0,1,0,0,1,0.0,0.0,4.17,0.0,0.0,2.7
+diflunisal,idiopathic pulmonary hypertension,12,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,renal hypertension,8,5,62.5,6,2,24,1,1,37,1,0,3,1,0,2,16.67,0.0,12.5,100.0,0.0,5.41
+diflunisal,ocular hypertension,12,1,8.33,6,2,24,1,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+diflunisal,"hypertension, portal",3,3,100.0,6,2,24,1,1,37,1,0,2,1,0,1,16.67,0.0,8.33,100.0,0.0,2.7
+diflunisal,phen_tp_hypertension,10,3,30.0,6,2,24,1,1,37,1,0,1,1,0,2,16.67,0.0,4.17,100.0,0.0,5.41
+diflunisal,phen_sig_tp_noFP_Dis_hypertension,10,3,30.0,6,2,24,1,1,37,1,0,1,1,0,2,16.67,0.0,4.17,100.0,0.0,5.41
+diflunisal,phen_sig_tp_noFP_Sig_hypertension,15,3,20.0,6,2,24,1,1,37,1,0,2,1,0,1,16.67,0.0,8.33,100.0,0.0,2.7
+diflunisal,pancreatitis,5,2,40.0,6,2,24,1,1,37,0,0,1,0,0,1,0.0,0.0,4.17,0.0,0.0,2.7
+diflunisal,acute pancreatitis,12,4,33.33,6,2,24,1,1,37,1,0,2,1,0,2,16.67,0.0,8.33,100.0,0.0,5.41
+diflunisal,pancreatitis idiopathic,6,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,adenocarcinoma of pancreas,8,4,50.0,6,2,24,1,1,37,1,0,3,1,0,1,16.67,0.0,12.5,100.0,0.0,2.7
+diflunisal,phen_tp_pancreatitis,7,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,phen_sig_tp_noFP_Dis_pancreatitis,8,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,phen_sig_tp_noFP_Sig_pancreatitis,18,4,22.22,6,2,24,1,1,37,1,0,1,1,0,3,16.67,0.0,4.17,100.0,0.0,8.11
+diflunisal,thrombocytopenia 5,1,1,100.0,6,2,24,1,1,37,1,0,1,1,0,0,16.67,0.0,4.17,100.0,0.0,0.0
+diflunisal,thrombocytopenia 6,19,3,15.79,6,2,24,1,1,37,1,0,1,1,0,2,16.67,0.0,4.17,100.0,0.0,5.41
+diflunisal,macrothrombocytopenia,6,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,idiopathic thrombocytopenia,17,5,29.41,6,2,24,1,1,37,1,0,2,1,0,3,16.67,0.0,8.33,100.0,0.0,8.11
+diflunisal,thrombocytopenia due to platelet alloimmunization,16,3,18.75,6,2,24,1,1,37,1,0,1,1,0,2,16.67,0.0,4.17,100.0,0.0,5.41
+diflunisal,phen_tp_thrombocytopenia,8,6,75.0,6,2,24,1,1,37,0,0,3,0,0,3,0.0,0.0,12.5,0.0,0.0,8.11
+diflunisal,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,6,2,24,1,1,37,1,0,2,1,0,1,16.67,0.0,8.33,100.0,0.0,2.7
+diflunisal,myocardial infarction,4,1,25.0,6,2,24,1,1,37,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.7
+diflunisal,old myocardial infarction,13,4,30.77,6,2,24,1,1,37,1,0,1,1,0,3,16.67,0.0,4.17,100.0,0.0,8.11
+diflunisal,acute myocardial infarction,8,0,0.0,6,2,24,1,1,37,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+diflunisal,phen_sig_tp_noFP_Sig_myocardial infarction,17,4,23.53,6,2,24,1,1,37,1,0,2,1,0,2,16.67,0.0,8.33,100.0,0.0,5.41
+rasagiline,hypertension,6,0,0.0,3,1,5,3,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+rasagiline,prehypertension,22,6,27.27,3,1,5,3,1,35,1,0,1,0,0,5,33.33,0.0,20.0,0.0,0.0,14.29
+rasagiline,hypertensive disease,17,4,23.53,3,1,5,3,1,35,1,0,1,0,0,3,33.33,0.0,20.0,0.0,0.0,8.57
+rasagiline,genetic hypertension,9,1,11.11,3,1,5,3,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+rasagiline,pulmonary hypertension,12,4,33.33,3,1,5,3,1,35,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.43
+rasagiline,essential hypertension,9,4,44.44,3,1,5,3,1,35,1,0,1,0,0,3,33.33,0.0,20.0,0.0,0.0,8.57
+rasagiline,"hypertension, renovascular",12,5,41.67,3,1,5,3,1,35,1,0,1,0,0,4,33.33,0.0,20.0,0.0,0.0,11.43
+rasagiline,idiopathic pulmonary hypertension,12,2,16.67,3,1,5,3,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+rasagiline,renal hypertension,8,2,25.0,3,1,5,3,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+rasagiline,ocular hypertension,12,5,41.67,3,1,5,3,1,35,1,0,1,0,0,4,33.33,0.0,20.0,0.0,0.0,11.43
+rasagiline,"hypertension, portal",3,1,33.33,3,1,5,3,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+rasagiline,phen_tp_hypertension,10,3,30.0,3,1,5,3,1,35,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,8.57
+rasagiline,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,3,1,5,3,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+rasagiline,phen_sig_tp_noFP_Sig_hypertension,15,6,40.0,3,1,5,3,1,35,1,0,1,0,0,5,33.33,0.0,20.0,0.0,0.0,14.29
+rasagiline,pancreatitis,5,2,40.0,3,1,5,3,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+rasagiline,acute pancreatitis,12,6,50.0,3,1,5,3,1,35,2,0,2,0,0,4,66.67,0.0,40.0,0.0,0.0,11.43
+rasagiline,pancreatitis idiopathic,6,2,33.33,3,1,5,3,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+rasagiline,adenocarcinoma of pancreas,8,1,12.5,3,1,5,3,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+rasagiline,phen_tp_pancreatitis,7,4,57.14,3,1,5,3,1,35,1,0,1,0,0,3,33.33,0.0,20.0,0.0,0.0,8.57
+rasagiline,phen_sig_tp_noFP_Dis_pancreatitis,8,3,37.5,3,1,5,3,1,35,1,0,1,0,0,2,33.33,0.0,20.0,0.0,0.0,5.71
+rasagiline,phen_sig_tp_noFP_Sig_pancreatitis,18,7,38.89,3,1,5,3,1,35,2,0,2,0,0,5,66.67,0.0,40.0,0.0,0.0,14.29
+rasagiline,thrombocytopenia 5,1,0,0.0,3,1,5,3,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+rasagiline,thrombocytopenia 6,19,5,26.32,3,1,5,3,1,35,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,14.29
+rasagiline,macrothrombocytopenia,6,1,16.67,3,1,5,3,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+rasagiline,idiopathic thrombocytopenia,17,6,35.29,3,1,5,3,1,35,1,0,1,0,0,5,33.33,0.0,20.0,0.0,0.0,14.29
+rasagiline,thrombocytopenia due to platelet alloimmunization,16,4,25.0,3,1,5,3,1,35,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.43
+rasagiline,phen_tp_thrombocytopenia,8,2,25.0,3,1,5,3,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+rasagiline,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,3,1,5,3,1,35,1,0,1,0,0,1,33.33,0.0,20.0,0.0,0.0,2.86
+rasagiline,myocardial infarction,4,4,100.0,3,1,5,3,1,35,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.43
+rasagiline,old myocardial infarction,13,7,53.85,3,1,5,3,1,35,1,0,1,0,0,6,33.33,0.0,20.0,0.0,0.0,17.14
+rasagiline,acute myocardial infarction,8,1,12.5,3,1,5,3,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+rasagiline,phen_sig_tp_noFP_Sig_myocardial infarction,17,7,41.18,3,1,5,3,1,35,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,20.0
+mexiletine,hypertension,6,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,prehypertension,22,3,13.64,7,10,9,2,1,28,2,0,2,0,0,1,28.57,0.0,22.22,0.0,0.0,3.57
+mexiletine,hypertensive disease,17,1,5.88,7,10,9,2,1,28,1,0,1,0,0,0,14.29,0.0,11.11,0.0,0.0,0.0
+mexiletine,genetic hypertension,9,2,22.22,7,10,9,2,1,28,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,7.14
+mexiletine,pulmonary hypertension,12,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,essential hypertension,9,3,33.33,7,10,9,2,1,28,1,0,1,0,0,2,14.29,0.0,11.11,0.0,0.0,7.14
+mexiletine,"hypertension, renovascular",12,2,16.67,7,10,9,2,1,28,2,0,2,0,0,0,28.57,0.0,22.22,0.0,0.0,0.0
+mexiletine,idiopathic pulmonary hypertension,12,1,8.33,7,10,9,2,1,28,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.57
+mexiletine,renal hypertension,8,4,50.0,7,10,9,2,1,28,1,0,1,0,0,3,14.29,0.0,11.11,0.0,0.0,10.71
+mexiletine,ocular hypertension,12,2,16.67,7,10,9,2,1,28,2,0,2,0,0,0,28.57,0.0,22.22,0.0,0.0,0.0
+mexiletine,"hypertension, portal",3,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,phen_tp_hypertension,10,1,10.0,7,10,9,2,1,28,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.57
+mexiletine,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,7,10,9,2,1,28,1,0,1,0,0,1,14.29,0.0,11.11,0.0,0.0,3.57
+mexiletine,phen_sig_tp_noFP_Sig_hypertension,15,3,20.0,7,10,9,2,1,28,2,0,2,0,0,1,28.57,0.0,22.22,0.0,0.0,3.57
+mexiletine,pancreatitis,5,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,acute pancreatitis,12,2,16.67,7,10,9,2,1,28,1,0,1,0,0,1,14.29,0.0,11.11,0.0,0.0,3.57
+mexiletine,pancreatitis idiopathic,6,1,16.67,7,10,9,2,1,28,1,0,1,0,0,0,14.29,0.0,11.11,0.0,0.0,0.0
+mexiletine,adenocarcinoma of pancreas,8,4,50.0,7,10,9,2,1,28,1,0,1,0,0,3,14.29,0.0,11.11,0.0,0.0,10.71
+mexiletine,phen_tp_pancreatitis,7,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,phen_sig_tp_noFP_Dis_pancreatitis,8,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,phen_sig_tp_noFP_Sig_pancreatitis,18,4,22.22,7,10,9,2,1,28,2,0,2,0,0,2,28.57,0.0,22.22,0.0,0.0,7.14
+mexiletine,thrombocytopenia 5,1,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,thrombocytopenia 6,19,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,macrothrombocytopenia,6,2,33.33,7,10,9,2,1,28,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,7.14
+mexiletine,idiopathic thrombocytopenia,17,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,thrombocytopenia due to platelet alloimmunization,16,3,18.75,7,10,9,2,1,28,1,0,1,0,0,2,14.29,0.0,11.11,0.0,0.0,7.14
+mexiletine,phen_tp_thrombocytopenia,8,1,12.5,7,10,9,2,1,28,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.57
+mexiletine,phen_sig_tp_noFP_Sig_thrombocytopenia,7,1,14.29,7,10,9,2,1,28,1,0,1,0,0,0,14.29,0.0,11.11,0.0,0.0,0.0
+mexiletine,myocardial infarction,4,0,0.0,7,10,9,2,1,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+mexiletine,old myocardial infarction,13,3,23.08,7,10,9,2,1,28,2,0,2,0,0,1,28.57,0.0,22.22,0.0,0.0,3.57
+mexiletine,acute myocardial infarction,8,2,25.0,7,10,9,2,1,28,1,0,1,0,0,1,14.29,0.0,11.11,0.0,0.0,3.57
+mexiletine,phen_sig_tp_noFP_Sig_myocardial infarction,17,2,11.76,7,10,9,2,1,28,1,0,1,0,0,1,14.29,0.0,11.11,0.0,0.0,3.57
+lisinopril,hypertension,6,6,100.0,4,1,27,2,1,35,1,1,2,1,1,6,25.0,100.0,7.41,50.0,100.0,17.14
+lisinopril,prehypertension,22,8,36.36,4,1,27,2,1,35,0,0,1,0,0,7,0.0,0.0,3.7,0.0,0.0,20.0
+lisinopril,hypertensive disease,17,10,58.82,4,1,27,2,1,35,1,0,2,1,0,8,25.0,0.0,7.41,50.0,0.0,22.86
+lisinopril,genetic hypertension,9,7,77.78,4,1,27,2,1,35,1,1,3,1,1,5,25.0,100.0,11.11,50.0,100.0,14.29
+lisinopril,pulmonary hypertension,12,9,75.0,4,1,27,2,1,35,1,1,1,1,1,9,25.0,100.0,3.7,50.0,100.0,25.71
+lisinopril,essential hypertension,9,1,11.11,4,1,27,2,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+lisinopril,"hypertension, renovascular",12,6,50.0,4,1,27,2,1,35,1,1,1,1,1,6,25.0,100.0,3.7,50.0,100.0,17.14
+lisinopril,idiopathic pulmonary hypertension,12,6,50.0,4,1,27,2,1,35,1,1,1,1,1,6,25.0,100.0,3.7,50.0,100.0,17.14
+lisinopril,renal hypertension,8,1,12.5,4,1,27,2,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+lisinopril,ocular hypertension,12,6,50.0,4,1,27,2,1,35,1,1,2,1,1,5,25.0,100.0,7.41,50.0,100.0,14.29
+lisinopril,"hypertension, portal",3,0,0.0,4,1,27,2,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+lisinopril,phen_tp_hypertension,10,7,70.0,4,1,27,2,1,35,1,1,2,1,1,6,25.0,100.0,7.41,50.0,100.0,17.14
+lisinopril,phen_sig_tp_noFP_Dis_hypertension,10,6,60.0,4,1,27,2,1,35,1,1,2,1,1,5,25.0,100.0,7.41,50.0,100.0,14.29
+lisinopril,phen_sig_tp_noFP_Sig_hypertension,15,6,40.0,4,1,27,2,1,35,0,0,0,0,0,6,0.0,0.0,0.0,0.0,0.0,17.14
+lisinopril,pancreatitis,5,2,40.0,4,1,27,2,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+lisinopril,acute pancreatitis,12,7,58.33,4,1,27,2,1,35,1,1,2,1,1,6,25.0,100.0,7.41,50.0,100.0,17.14
+lisinopril,pancreatitis idiopathic,6,2,33.33,4,1,27,2,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+lisinopril,adenocarcinoma of pancreas,8,2,25.0,4,1,27,2,1,35,1,0,1,1,0,1,25.0,0.0,3.7,50.0,0.0,2.86
+lisinopril,phen_tp_pancreatitis,7,5,71.43,4,1,27,2,1,35,0,0,1,0,0,4,0.0,0.0,3.7,0.0,0.0,11.43
+lisinopril,phen_sig_tp_noFP_Dis_pancreatitis,8,5,62.5,4,1,27,2,1,35,0,0,1,0,0,4,0.0,0.0,3.7,0.0,0.0,11.43
+lisinopril,phen_sig_tp_noFP_Sig_pancreatitis,18,6,33.33,4,1,27,2,1,35,1,1,2,1,1,5,25.0,100.0,7.41,50.0,100.0,14.29
+lisinopril,thrombocytopenia 5,1,0,0.0,4,1,27,2,1,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+lisinopril,thrombocytopenia 6,19,10,52.63,4,1,27,2,1,35,1,1,2,1,1,9,25.0,100.0,7.41,50.0,100.0,25.71
+lisinopril,macrothrombocytopenia,6,4,66.67,4,1,27,2,1,35,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.43
+lisinopril,idiopathic thrombocytopenia,17,10,58.82,4,1,27,2,1,35,0,0,2,0,0,8,0.0,0.0,7.41,0.0,0.0,22.86
+lisinopril,thrombocytopenia due to platelet alloimmunization,16,6,37.5,4,1,27,2,1,35,1,0,2,1,0,4,25.0,0.0,7.41,50.0,0.0,11.43
+lisinopril,phen_tp_thrombocytopenia,8,1,12.5,4,1,27,2,1,35,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.86
+lisinopril,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,4,1,27,2,1,35,1,1,1,1,1,3,25.0,100.0,3.7,50.0,100.0,8.57
+lisinopril,myocardial infarction,4,2,50.0,4,1,27,2,1,35,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.71
+lisinopril,old myocardial infarction,13,5,38.46,4,1,27,2,1,35,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,14.29
+lisinopril,acute myocardial infarction,8,4,50.0,4,1,27,2,1,35,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,11.43
+lisinopril,phen_sig_tp_noFP_Sig_myocardial infarction,17,7,41.18,4,1,27,2,1,35,1,1,1,1,1,7,25.0,100.0,3.7,50.0,100.0,20.0
+vardenafil,hypertension,6,1,16.67,6,1,18,1,1,29,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.45
+vardenafil,prehypertension,22,5,22.73,6,1,18,1,1,29,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,17.24
+vardenafil,hypertensive disease,17,2,11.76,6,1,18,1,1,29,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,6.9
+vardenafil,genetic hypertension,9,2,22.22,6,1,18,1,1,29,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,6.9
+vardenafil,pulmonary hypertension,12,3,25.0,6,1,18,1,1,29,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,10.34
+vardenafil,essential hypertension,9,4,44.44,6,1,18,1,1,29,0,0,2,0,0,2,0.0,0.0,11.11,0.0,0.0,6.9
+vardenafil,"hypertension, renovascular",12,5,41.67,6,1,18,1,1,29,0,0,1,0,0,4,0.0,0.0,5.56,0.0,0.0,13.79
+vardenafil,idiopathic pulmonary hypertension,12,4,33.33,6,1,18,1,1,29,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,13.79
+vardenafil,renal hypertension,8,2,25.0,6,1,18,1,1,29,1,0,0,0,0,1,16.67,0.0,0.0,0.0,0.0,3.45
+vardenafil,ocular hypertension,12,3,25.0,6,1,18,1,1,29,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,10.34
+vardenafil,"hypertension, portal",3,0,0.0,6,1,18,1,1,29,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+vardenafil,phen_tp_hypertension,10,2,20.0,6,1,18,1,1,29,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,6.9
+vardenafil,phen_sig_tp_noFP_Dis_hypertension,10,1,10.0,6,1,18,1,1,29,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3.45
+vardenafil,phen_sig_tp_noFP_Sig_hypertension,15,6,40.0,6,1,18,1,1,29,0,0,1,0,0,5,0.0,0.0,5.56,0.0,0.0,17.24
+vardenafil,pancreatitis,5,1,20.0,6,1,18,1,1,29,0,0,1,0,0,0,0.0,0.0,5.56,0.0,0.0,0.0
+vardenafil,acute pancreatitis,12,4,33.33,6,1,18,1,1,29,0,0,1,0,0,3,0.0,0.0,5.56,0.0,0.0,10.34
+vardenafil,pancreatitis idiopathic,6,2,33.33,6,1,18,1,1,29,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,6.9
+vardenafil,adenocarcinoma of pancreas,8,2,25.0,6,1,18,1,1,29,1,0,0,0,0,1,16.67,0.0,0.0,0.0,0.0,3.45
+vardenafil,phen_tp_pancreatitis,7,3,42.86,6,1,18,1,1,29,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,10.34
+vardenafil,phen_sig_tp_noFP_Dis_pancreatitis,8,4,50.0,6,1,18,1,1,29,1,0,1,0,0,3,16.67,0.0,5.56,0.0,0.0,10.34
+vardenafil,phen_sig_tp_noFP_Sig_pancreatitis,18,3,16.67,6,1,18,1,1,29,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,10.34
+vardenafil,thrombocytopenia 5,1,0,0.0,6,1,18,1,1,29,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+vardenafil,thrombocytopenia 6,19,4,21.05,6,1,18,1,1,29,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,13.79
+vardenafil,macrothrombocytopenia,6,0,0.0,6,1,18,1,1,29,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+vardenafil,idiopathic thrombocytopenia,17,4,23.53,6,1,18,1,1,29,0,0,1,0,0,3,0.0,0.0,5.56,0.0,0.0,10.34
+vardenafil,thrombocytopenia due to platelet alloimmunization,16,4,25.0,6,1,18,1,1,29,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,13.79
+vardenafil,phen_tp_thrombocytopenia,8,2,25.0,6,1,18,1,1,29,0,0,1,0,0,1,0.0,0.0,5.56,0.0,0.0,3.45
+vardenafil,phen_sig_tp_noFP_Sig_thrombocytopenia,7,2,28.57,6,1,18,1,1,29,0,0,1,0,0,1,0.0,0.0,5.56,0.0,0.0,3.45
+vardenafil,myocardial infarction,4,2,50.0,6,1,18,1,1,29,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,6.9
+vardenafil,old myocardial infarction,13,5,38.46,6,1,18,1,1,29,1,0,0,0,0,4,16.67,0.0,0.0,0.0,0.0,13.79
+vardenafil,acute myocardial infarction,8,2,25.0,6,1,18,1,1,29,1,0,0,0,0,1,16.67,0.0,0.0,0.0,0.0,3.45
+vardenafil,phen_sig_tp_noFP_Sig_myocardial infarction,17,5,29.41,6,1,18,1,1,29,0,0,2,0,0,3,0.0,0.0,11.11,0.0,0.0,10.34
+sitagliptin,hypertension,6,1,16.67,5,1,12,1,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+sitagliptin,prehypertension,22,7,31.82,5,1,12,1,1,41,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,17.07
+sitagliptin,hypertensive disease,17,3,17.65,5,1,12,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+sitagliptin,genetic hypertension,9,4,44.44,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,pulmonary hypertension,12,4,33.33,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,essential hypertension,9,3,33.33,5,1,12,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+sitagliptin,"hypertension, renovascular",12,6,50.0,5,1,12,1,1,41,0,0,0,0,0,6,0.0,0.0,0.0,0.0,0.0,14.63
+sitagliptin,idiopathic pulmonary hypertension,12,4,33.33,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,renal hypertension,8,2,25.0,5,1,12,1,1,41,1,0,1,0,0,1,20.0,0.0,8.33,0.0,0.0,2.44
+sitagliptin,ocular hypertension,12,3,25.0,5,1,12,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+sitagliptin,"hypertension, portal",3,0,0.0,5,1,12,1,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sitagliptin,phen_tp_hypertension,10,3,30.0,5,1,12,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+sitagliptin,phen_sig_tp_noFP_Dis_hypertension,10,2,20.0,5,1,12,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+sitagliptin,phen_sig_tp_noFP_Sig_hypertension,15,4,26.67,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,pancreatitis,5,2,40.0,5,1,12,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+sitagliptin,acute pancreatitis,12,4,33.33,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,pancreatitis idiopathic,6,0,0.0,5,1,12,1,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sitagliptin,adenocarcinoma of pancreas,8,2,25.0,5,1,12,1,1,41,1,0,1,0,0,1,20.0,0.0,8.33,0.0,0.0,2.44
+sitagliptin,phen_tp_pancreatitis,7,4,57.14,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,phen_sig_tp_noFP_Dis_pancreatitis,8,3,37.5,5,1,12,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+sitagliptin,phen_sig_tp_noFP_Sig_pancreatitis,18,4,22.22,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,thrombocytopenia 5,1,0,0.0,5,1,12,1,1,41,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sitagliptin,thrombocytopenia 6,19,8,42.11,5,1,12,1,1,41,0,0,0,0,0,8,0.0,0.0,0.0,0.0,0.0,19.51
+sitagliptin,macrothrombocytopenia,6,4,66.67,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,idiopathic thrombocytopenia,17,4,23.53,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,thrombocytopenia due to platelet alloimmunization,16,4,25.0,5,1,12,1,1,41,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,9.76
+sitagliptin,phen_tp_thrombocytopenia,8,2,25.0,5,1,12,1,1,41,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,4.88
+sitagliptin,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,5,1,12,1,1,41,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,7.32
+sitagliptin,myocardial infarction,4,1,25.0,5,1,12,1,1,41,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.44
+sitagliptin,old myocardial infarction,13,5,38.46,5,1,12,1,1,41,1,0,1,0,0,4,20.0,0.0,8.33,0.0,0.0,9.76
+sitagliptin,acute myocardial infarction,8,1,12.5,5,1,12,1,1,41,1,0,1,0,0,0,20.0,0.0,8.33,0.0,0.0,0.0
+sitagliptin,phen_sig_tp_noFP_Sig_myocardial infarction,17,7,41.18,5,1,12,1,1,41,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,17.07
+raloxifene,hypertension,6,0,0.0,18,1,47,3,1,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+raloxifene,prehypertension,22,6,27.27,18,1,47,3,1,15,2,0,4,0,0,2,11.11,0.0,8.51,0.0,0.0,13.33
+raloxifene,hypertensive disease,17,3,17.65,18,1,47,3,1,15,0,0,1,0,0,2,0.0,0.0,2.13,0.0,0.0,13.33
+raloxifene,genetic hypertension,9,2,22.22,18,1,47,3,1,15,1,0,1,0,0,1,5.56,0.0,2.13,0.0,0.0,6.67
+raloxifene,pulmonary hypertension,12,3,25.0,18,1,47,3,1,15,1,0,1,0,0,2,5.56,0.0,2.13,0.0,0.0,13.33
+raloxifene,essential hypertension,9,4,44.44,18,1,47,3,1,15,0,0,2,0,0,2,0.0,0.0,4.26,0.0,0.0,13.33
+raloxifene,"hypertension, renovascular",12,6,50.0,18,1,47,3,1,15,0,0,3,0,0,3,0.0,0.0,6.38,0.0,0.0,20.0
+raloxifene,idiopathic pulmonary hypertension,12,1,8.33,18,1,47,3,1,15,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,6.67
+raloxifene,renal hypertension,8,3,37.5,18,1,47,3,1,15,2,0,2,0,0,1,11.11,0.0,4.26,0.0,0.0,6.67
+raloxifene,ocular hypertension,12,5,41.67,18,1,47,3,1,15,0,0,2,0,0,3,0.0,0.0,4.26,0.0,0.0,20.0
+raloxifene,"hypertension, portal",3,1,33.33,18,1,47,3,1,15,1,0,1,0,0,0,5.56,0.0,2.13,0.0,0.0,0.0
+raloxifene,phen_tp_hypertension,10,4,40.0,18,1,47,3,1,15,1,0,1,0,0,3,5.56,0.0,2.13,0.0,0.0,20.0
+raloxifene,phen_sig_tp_noFP_Dis_hypertension,10,4,40.0,18,1,47,3,1,15,1,0,2,0,0,2,5.56,0.0,4.26,0.0,0.0,13.33
+raloxifene,phen_sig_tp_noFP_Sig_hypertension,15,8,53.33,18,1,47,3,1,15,1,0,4,0,0,4,5.56,0.0,8.51,0.0,0.0,26.67
+raloxifene,pancreatitis,5,2,40.0,18,1,47,3,1,15,0,0,1,0,0,1,0.0,0.0,2.13,0.0,0.0,6.67
+raloxifene,acute pancreatitis,12,5,41.67,18,1,47,3,1,15,1,0,3,0,0,2,5.56,0.0,6.38,0.0,0.0,13.33
+raloxifene,pancreatitis idiopathic,6,3,50.0,18,1,47,3,1,15,0,0,1,0,0,2,0.0,0.0,2.13,0.0,0.0,13.33
+raloxifene,adenocarcinoma of pancreas,8,3,37.5,18,1,47,3,1,15,2,0,2,0,0,1,11.11,0.0,4.26,0.0,0.0,6.67
+raloxifene,phen_tp_pancreatitis,7,0,0.0,18,1,47,3,1,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+raloxifene,phen_sig_tp_noFP_Dis_pancreatitis,8,0,0.0,18,1,47,3,1,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+raloxifene,phen_sig_tp_noFP_Sig_pancreatitis,18,5,27.78,18,1,47,3,1,15,1,0,3,0,0,2,5.56,0.0,6.38,0.0,0.0,13.33
+raloxifene,thrombocytopenia 5,1,1,100.0,18,1,47,3,1,15,1,0,1,0,0,0,5.56,0.0,2.13,0.0,0.0,0.0
+raloxifene,thrombocytopenia 6,19,4,21.05,18,1,47,3,1,15,2,0,2,0,0,2,11.11,0.0,4.26,0.0,0.0,13.33
+raloxifene,macrothrombocytopenia,6,0,0.0,18,1,47,3,1,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+raloxifene,idiopathic thrombocytopenia,17,4,23.53,18,1,47,3,1,15,1,0,2,0,0,2,5.56,0.0,4.26,0.0,0.0,13.33
+raloxifene,thrombocytopenia due to platelet alloimmunization,16,4,25.0,18,1,47,3,1,15,1,0,2,0,0,2,5.56,0.0,4.26,0.0,0.0,13.33
+raloxifene,phen_tp_thrombocytopenia,8,2,25.0,18,1,47,3,1,15,0,0,1,0,0,1,0.0,0.0,2.13,0.0,0.0,6.67
+raloxifene,phen_sig_tp_noFP_Sig_thrombocytopenia,7,4,57.14,18,1,47,3,1,15,1,0,3,0,0,1,5.56,0.0,6.38,0.0,0.0,6.67
+raloxifene,myocardial infarction,4,1,25.0,18,1,47,3,1,15,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,6.67
+raloxifene,old myocardial infarction,13,5,38.46,18,1,47,3,1,15,2,0,3,0,0,2,11.11,0.0,6.38,0.0,0.0,13.33
+raloxifene,acute myocardial infarction,8,2,25.0,18,1,47,3,1,15,1,0,1,0,0,1,5.56,0.0,2.13,0.0,0.0,6.67
+raloxifene,phen_sig_tp_noFP_Sig_myocardial infarction,17,7,41.18,18,1,47,3,1,15,2,0,4,0,0,3,11.11,0.0,8.51,0.0,0.0,20.0
+sertraline,hypertension,6,4,66.67,14,1,32,3,1,36,0,0,2,0,0,2,0.0,0.0,6.25,0.0,0.0,5.56
+sertraline,prehypertension,22,6,27.27,14,1,32,3,1,36,2,0,2,0,0,4,14.29,0.0,6.25,0.0,0.0,11.11
+sertraline,hypertensive disease,17,6,35.29,14,1,32,3,1,36,1,0,2,0,0,4,7.14,0.0,6.25,0.0,0.0,11.11
+sertraline,genetic hypertension,9,5,55.56,14,1,32,3,1,36,1,0,2,0,0,3,7.14,0.0,6.25,0.0,0.0,8.33
+sertraline,pulmonary hypertension,12,5,41.67,14,1,32,3,1,36,1,0,2,0,0,3,7.14,0.0,6.25,0.0,0.0,8.33
+sertraline,essential hypertension,9,2,22.22,14,1,32,3,1,36,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,5.56
+sertraline,"hypertension, renovascular",12,5,41.67,14,1,32,3,1,36,1,0,2,0,0,3,7.14,0.0,6.25,0.0,0.0,8.33
+sertraline,idiopathic pulmonary hypertension,12,5,41.67,14,1,32,3,1,36,0,0,1,0,0,4,0.0,0.0,3.12,0.0,0.0,11.11
+sertraline,renal hypertension,8,3,37.5,14,1,32,3,1,36,2,0,2,0,0,1,14.29,0.0,6.25,0.0,0.0,2.78
+sertraline,ocular hypertension,12,6,50.0,14,1,32,3,1,36,2,0,3,0,0,3,14.29,0.0,9.38,0.0,0.0,8.33
+sertraline,"hypertension, portal",3,1,33.33,14,1,32,3,1,36,1,0,1,0,0,0,7.14,0.0,3.12,0.0,0.0,0.0
+sertraline,phen_tp_hypertension,10,6,60.0,14,1,32,3,1,36,1,0,2,0,0,4,7.14,0.0,6.25,0.0,0.0,11.11
+sertraline,phen_sig_tp_noFP_Dis_hypertension,10,7,70.0,14,1,32,3,1,36,2,0,3,0,0,4,14.29,0.0,9.38,0.0,0.0,11.11
+sertraline,phen_sig_tp_noFP_Sig_hypertension,15,7,46.67,14,1,32,3,1,36,2,0,2,0,0,5,14.29,0.0,6.25,0.0,0.0,13.89
+sertraline,pancreatitis,5,0,0.0,14,1,32,3,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sertraline,acute pancreatitis,12,4,33.33,14,1,32,3,1,36,1,0,2,0,0,2,7.14,0.0,6.25,0.0,0.0,5.56
+sertraline,pancreatitis idiopathic,6,4,66.67,14,1,32,3,1,36,2,0,2,0,0,2,14.29,0.0,6.25,0.0,0.0,5.56
+sertraline,adenocarcinoma of pancreas,8,3,37.5,14,1,32,3,1,36,2,0,2,0,0,1,14.29,0.0,6.25,0.0,0.0,2.78
+sertraline,phen_tp_pancreatitis,7,1,14.29,14,1,32,3,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+sertraline,phen_sig_tp_noFP_Dis_pancreatitis,8,2,25.0,14,1,32,3,1,36,0,0,1,0,0,1,0.0,0.0,3.12,0.0,0.0,2.78
+sertraline,phen_sig_tp_noFP_Sig_pancreatitis,18,7,38.89,14,1,32,3,1,36,2,0,3,0,0,4,14.29,0.0,9.38,0.0,0.0,11.11
+sertraline,thrombocytopenia 5,1,1,100.0,14,1,32,3,1,36,1,0,1,0,0,0,7.14,0.0,3.12,0.0,0.0,0.0
+sertraline,thrombocytopenia 6,19,5,26.32,14,1,32,3,1,36,1,0,2,0,0,3,7.14,0.0,6.25,0.0,0.0,8.33
+sertraline,macrothrombocytopenia,6,0,0.0,14,1,32,3,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+sertraline,idiopathic thrombocytopenia,17,3,17.65,14,1,32,3,1,36,1,0,1,0,0,2,7.14,0.0,3.12,0.0,0.0,5.56
+sertraline,thrombocytopenia due to platelet alloimmunization,16,6,37.5,14,1,32,3,1,36,2,0,2,0,0,4,14.29,0.0,6.25,0.0,0.0,11.11
+sertraline,phen_tp_thrombocytopenia,8,1,12.5,14,1,32,3,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+sertraline,phen_sig_tp_noFP_Sig_thrombocytopenia,7,3,42.86,14,1,32,3,1,36,1,0,2,0,0,1,7.14,0.0,6.25,0.0,0.0,2.78
+sertraline,myocardial infarction,4,1,25.0,14,1,32,3,1,36,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2.78
+sertraline,old myocardial infarction,13,5,38.46,14,1,32,3,1,36,2,0,2,0,0,3,14.29,0.0,6.25,0.0,0.0,8.33
+sertraline,acute myocardial infarction,8,2,25.0,14,1,32,3,1,36,1,0,1,0,0,1,7.14,0.0,3.12,0.0,0.0,2.78
+sertraline,phen_sig_tp_noFP_Sig_myocardial infarction,17,6,35.29,14,1,32,3,1,36,3,0,4,0,0,2,21.43,0.0,12.5,0.0,0.0,5.56

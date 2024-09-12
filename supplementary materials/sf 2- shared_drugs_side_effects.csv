@@ -1,0 +1,30 @@
+Drug,Side Effects,Side Effect Count
+chlorthalidone,"['Myocardial infarction', 'Pancreatitis', 'Cardiac arrest', 'Delirium', 'Thrombocytopenia', 'Agranulocytosis']",6
+diflunisal,"['Myocardial infarction', 'Hypertension', 'Hemorrhage', 'Thrombocytopenia', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Edema', 'Anaphylactic reaction', 'Proteinuria', 'Hepatic necrosis']",11
+saxagliptin,"['Thrombocytopenia', 'Edema', 'Anaphylactic reaction']",3
+ramipril,"['Myocardial infarction', 'Pancreatitis', 'Thrombocytopenia', 'Peripheral neuropathy', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Edema', 'Proteinuria', 'Hepatic necrosis']",10
+vardenafil,"['Myocardial infarction', 'Hypertension', 'Hyperlipidemia', 'Hemorrhage', 'Anaphylactic reaction', 'Sleep disorder', 'QT Prolongation']",7
+sulfamethoxazole,"['Pancreatitis', 'Hemorrhage', 'Delirium', 'Thrombocytopenia', 'Peripheral neuropathy', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Ventricular tachycardia', 'Anaphylactic reaction', 'Hepatic necrosis', 'QT Prolongation']",12
+pentostatin,"['Hypertension', 'Sepsis', 'Cardiac arrest', 'Deep vein thrombosis', 'Peripheral neuropathy', 'Pneumonia']",6
+edrophonium,['Cardiac arrest'],1
+galantamine,"['Myocardial infarction', 'Hypertension', 'Hemorrhage', 'Delirium', 'Thrombocytopenia', 'Stevens-Johnson Syndrome', 'Ventricular tachycardia', 'Completed suicide']",8
+trimethoprim,"['Pancreatitis', 'Hemorrhage', 'Delirium', 'Thrombocytopenia', 'Peripheral neuropathy', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Ventricular tachycardia', 'Edema', 'Anaphylactic reaction', 'Hepatic necrosis', 'QT Prolongation']",13
+miglustat,"['Hemorrhage', 'Thrombocytopenia', 'Peripheral neuropathy']",3
+pemetrexed,"['Hypertension', 'Pancreatitis', 'Sepsis', 'Interstitial lung disease', 'Thrombocytopenia', 'Peripheral neuropathy', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Ventricular tachycardia', 'Edema']",10
+sitagliptin,"['Sepsis', 'Stevens-Johnson Syndrome', 'Anaphylactic reaction']",3
+triamterene,"['Pancreatitis', 'Pulmonary edema', 'Thrombocytopenia', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Anaphylactic reaction']",7
+donepezil,"['Myocardial infarction', 'Hypertension', 'Pancreatitis', 'Hyperlipidemia', 'Sepsis', 'Cerebral infarction', 'Hemorrhage', 'Deep vein thrombosis', 'Thrombocytopenia', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Neuroleptic malignant syndrome', 'Gastric ulcer', 'Edema', 'Generalized tonic-clonic seizure', 'Pneumonia', 'Sleep apnea syndrome']",18
+diphenhydramine,"['Myocardial infarction', 'Hypertension', 'Hemorrhage', 'Thrombocytopenia', 'Hemolytic anemia', 'Agranulocytosis', 'Gastric ulcer', 'Edema']",8
+sertraline,"['Myocardial infarction', 'Hypertension', 'Pancreatitis', 'Hemorrhage', 'Delirium', 'Thrombocytopenia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Serotonin syndrome', 'Neuroleptic malignant syndrome', 'Ventricular tachycardia', 'Edema', 'Anaphylactic reaction', 'Completed suicide', 'QT Prolongation']",15
+dorzolamide,"['Myocardial infarction', 'Hypertension', 'Cardiac arrest', 'Pulmonary edema', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Edema', 'Anaphylactic reaction', 'Hepatic necrosis']",9
+enalapril,"['Myocardial infarction', 'Pancreatitis', 'Cardiac arrest', 'Pulmonary edema', 'Thrombocytopenia', 'Peripheral neuropathy', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Anaphylactic reaction', 'Pneumonia', 'Hepatic necrosis']",11
+lisinopril,"['Myocardial infarction', 'Pancreatitis', 'Cardiac arrest', 'Pulmonary edema', 'Thrombocytopenia', 'Peripheral neuropathy', 'Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Ventricular tachycardia', 'Edema', 'Anaphylactic reaction', 'Pneumonia', 'Hepatic necrosis']",13
+methazolamide,"['Hemolytic anemia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Anaphylactic reaction', 'Hepatic necrosis']",5
+raloxifene,"['Hypertension', 'Hemorrhage', 'Deep vein thrombosis', 'Pneumonia']",4
+trandolapril,"['Myocardial infarction', 'Pancreatitis', 'Pulmonary edema', 'Thrombocytopenia', 'Stevens-Johnson Syndrome', 'Edema', 'Proteinuria', 'Myopathy', 'Hepatic necrosis']",9
+mexiletine,"['Myocardial infarction', 'Hypertension', 'Pancreatitis', 'Cardiac arrest', 'Thrombocytopenia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Edema', 'Hepatic necrosis']",9
+rasagiline,"['Myocardial infarction', 'Hypertension', 'Hemorrhage', 'Delirium', 'Interstitial lung disease', 'Deep vein thrombosis', 'Peripheral neuropathy', 'Serotonin syndrome', 'Neuroleptic malignant syndrome', 'Gastric ulcer', 'Ventricular tachycardia', 'Sleep disorder']",12
+indapamide,"['Pancreatitis', 'Thrombocytopenia', 'Stevens-Johnson Syndrome', 'Agranulocytosis', 'Anaphylactic reaction']",5
+acarbose,"['Thrombocytopenia', 'Edema']",2
+rosuvastatin,"['Pancreatitis', 'Sepsis', 'Interstitial lung disease', 'Thrombocytopenia', 'Peripheral neuropathy', 'Proteinuria', 'Myopathy', 'Sleep disorder']",8
+tranexamic acid,"['Myocardial infarction', 'Cerebral infarction', 'Deep vein thrombosis']",3
