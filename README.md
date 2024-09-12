@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development**". The research focuses on predicting drug-induced side effects using Drug-Target Interaction (DTI) data from multiple databases. **ToxDTIEngine** builds a DTI pipeline and employs predictive modeling to select drug targets and rank databases.
+This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development**". The research focuses on predicting drug-induced side effects using protein-protein interactions (PPIs) by incorporating Drug-Target Interaction (DTI) data from multiple databases. **ToxDTIEngine** uses another tool called [**PathFX**](https://github.com/jenwilson521/PathFX), which is a PPI tool, and builds a DTI pipeline employing predictive modeling to select drug targets and rank databases in predicting drug side effects.
 
 ## Table of Contents
 
