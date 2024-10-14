@@ -44,7 +44,8 @@ Detailed instructions on how to use the code:
     - ChEMBL: We used the drugs/clinical candidates with their proposed therapeutic targets from the data stored in the drug mechanisms table. You can find the information on the interface here: https://www.ebi.ac.uk/chembl/g/#browse/mechanisms_of_action. ChEMBL targets were all associated with a unique target ChEMBL_ID. We also used UniProt accessions as our primary identifier for protein targets. Refer to the "code_chembl.py" file in the raw_data/ folder where we provided the SQL queries to extract and filter the complementary data.
     - PubChem: We downloaded the small molecule drugs in the PubChem compound database, the FDA Orange Book records: https://pubchem.ncbi.nlm.nih.gov/classification/#hid=72 (open up the “Information Sources” submenu, then click the count next to the FDA Orange Book). Afterward, you can loop over your list of drugs (with PubChem CID). You can run the file in the raw_data/ folder, "download_pubchem.sh", to download the compound-target interaction data.
     - STITCH: We downloaded the chemical-protein links and list of STRING proteins from these links: http://stitch.embl.de/cgi/download.pl?UserId=M1MWuGzm9DP9&sessionId=BuMJ6vly8bv4&species_text=Homo+sapiens & https://string-db.org/cgi/download?sessionId=b4gDpE1CkXQH&species_text=Homo+sapiens. To process the large data files, we developed a code that you can find in the raw_data/ folder, "code_stitch_map.py".
-    - 
+    - Therapeutic_Target_Database (TTD): We downloaded the drug, target, and DTI information from this link: https://db.idrblab.net/ttd/full-data-download.
+    - Pocket_features: 
   - processed_data/: Contains dummy processed DTI data that is ready for analysis.
   - The 'DrugToxicity_data.txt' file in the 'data/' folder is the dataset we used for our analysis, consisting of pairs of drugs and their associated side effects obtained from drug labels. 
 
