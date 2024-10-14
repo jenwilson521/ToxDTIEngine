@@ -1,0 +1,3 @@
+Drug_Database,Targets
+caffeine_New_DrugBank,"['CYP2C8', 'PRKDC', 'PIK3CB', 'ABCG2', 'CYP3A4', 'PDE4B', 'CYP2C9', 'ADORA1', 'RYR1', 'CYP2D6', 'PIK3CA', 'CYP2E1', 'CYP1A2', 'CYP1A1', 'PIK3CD', 'ATM', 'ADORA2B', 'CYP1B1', 'ADORA2A']"
+diphenhydramine_New_DrugBank,"['CHRM2', 'CYP2D6', 'HRH1', 'CYP2C19', 'SLC22A5', 'PTGS1', 'CYP2C9']"
