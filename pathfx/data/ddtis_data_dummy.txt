@@ -1,0 +1,8 @@
+name_0	drugbank_id_0	To	From	uniprot_id	name	drugbank_id
+aripiprazole	DB01238	HTR1E	P28566	P28566	aripiprazole_New_DrugBank	DB01238_DrugBank
+romidepsin	DB06176	HDAC9	Q9UKV0	Q9UKV0	romidepsin_ChEMBL	DB06176_ChEMBL
+dofetilide	DB00204	CYP3A4	P08684	P08684	dofetilide_PubChem	DB00204_PubChem
+lisinopril	DB00722	ACE	P12821	P12821	lisinopril_STITCH	DB00722_STITCH
+selegiline	DB01037	MAO-B	N/A	N/A	selegiline_TTD	DB01037_TTD
+pentoxifylline	DB00806	GSK3B	P49841	P49841	pentoxifylline_Pocket_Features	DB00806_Features
+nitric oxide	DB00435	GUCY1B2	O75343	O75343	nitric oxide_all	DB00435_all
