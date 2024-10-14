@@ -47,7 +47,7 @@ Detailed instructions on how to use the code:
     - Therapeutic_Target_Database (TTD): We downloaded the drug, target, and DTI information from this link: https://db.idrblab.net/ttd/full-data-download.
     - Pocket_features: We used the predicted drug-binding interactions generated from Liu & Altman, 2011, https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002326.
   - processed_data/: Contains dummy processed DTI data, as an example that is ready for analysis. You should make such a file for each database and combine them all to run the pipeline.
-  - The 'DrugToxicity_data.txt' file in the 'data/' folder is the dataset we used for our analysis. It consists of pairs of drugs and their associated side effects obtained from drug labels. 
+  - The 'DrugToxicity_data.txt' file in the 'data/' folder is the dataset we used for our analysis. It consists of pairs of drugs and their associated side effects obtained from drug labels. The original data is released in https://github.com/jenwilson521/Designated-Medical-Event-Pathways and published in Wilson et al., [CPT: Pharmacometrics & Systems Pharmacology, 2022](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12861).
 
 - To preprocess the data:
   ```bash
