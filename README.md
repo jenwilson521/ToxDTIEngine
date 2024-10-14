@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development**". The study focuses on predicting drug-induced side effects using protein-protein interactions (PPIs) by incorporating drug-target interaction (DTI) data from multiple databases. **ToxDTIEngine** uses another tool called [**PathFX**](https://github.com/jenwilson521/PathFX), which is a PPI tool, and builds a DTI pipeline employing predictive modeling to select drug targets and rank databases to predict side effects.
+This repository, **ToxDTIEngine**, contains the code and associated resources for the research presented in the manuscript "**Evaluating the Contribution of Drug-Binding Targets to Side Effect Prediction in Drug Development**". The study focuses on predicting drug-induced side effects using protein-protein interactions (PPIs) by incorporating drug-target interaction (DTI) data from multiple databases. **ToxDTIEngine** uses another tool called [**PathFX**](https://github.com/jenwilson521/PathFX), which is a PPI tool, and builds a DTI pipeline employing predictive modeling to select drug targets and rank databases to predict side effects.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository, **ToxDTIEngine**, contains the code and associated resources fo
 
 ## Getting Started
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. See [Usage](#usage) for notes on how to use the code in a research context.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. See [Usage](#usage) for notes on using the code in a research context.
 
 ## Prerequisites
 
@@ -38,10 +38,12 @@ Detailed instructions on how to use the code:
   ```bash
   python scripts/RunPathFX.py
   
-- The data/ folder contains both raw and processed drug-target interaction data:
-  - raw_data/: Contains raw DTI data from various databases.
-    - DrugBank: We used DrugBank (Release Version 5.1.10), referred to as “New_DrugBank” throughout our study. You can download different versions of DrygBank data here: https://go.drugbank.com/releases.
-  - processed_data/: Contains processed DTI data that is ready for analysis.
+- The data/ folder provides information about the data used in our analysis:
+  - raw_data/:
+    - DrugBank: We used DrugBank (Release Version 5.1.10), referred to as “New_DrugBank” throughout our study. You can download different versions of the DrugBank data here: https://go.drugbank.com/releases.
+    - ChEMBL: We used the drugs/clinical candidates with their proposed therapeutic targets from the data stored in the drug mechanisms table. You can find the information on the interface here: https://www.ebi.ac.uk/chembl/g/#browse/mechanisms_of_action. ChEMBL targets were all associated with a unique target ChEMBL_ID. We also used UniProt accessions as our primary identifier for protein targets. Refer to the code_chembl.py file in the raw_data/ folder where we provided the SQL queries to extract and filter the complementary data.
+    - 
+  - processed_data/: Contains dummy processed DTI data that is ready for analysis.
   - The 'DrugToxicity_data.txt' file in the 'data/' folder is the dataset we used for our analysis, consisting of pairs of drugs and their associated side effects obtained from drug labels. 
 
 - To preprocess the data:
