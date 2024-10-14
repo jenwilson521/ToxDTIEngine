@@ -38,9 +38,11 @@ Detailed instructions on how to use the code:
   ```bash
   python scripts/RunPathFX.py
   
-- The data/ folder provides information about the data used in our analysis:
+- The data/ folder contains all the datasets used in our analysis, organized as follows:
   - raw_data/:
     - DrugBank: We used DrugBank (Release Version 5.1.10), referred to as “New_DrugBank” throughout our study. You can download different versions of the DrugBank data here: https://go.drugbank.com/releases. You can parse the DrugBank data using this notebook as a guide: https://github.com/dhimmel/drugbank/blob/gh-pages/parse.ipynb.
+    - DrugBank: We utilized DrugBank (Release Version 5.1.10), referred to as "New_DrugBank" in our study. Various versions of DrugBank can be accessed here: [DrugBank Releases](https://go.drugbank.com/releases). For guidance on parsing DrugBank data, refer to this notebook: DrugBank Parsing Guide.
+    - 
     - ChEMBL: We used the drugs/clinical candidates with their proposed therapeutic targets from the data stored in the drug mechanisms table. You can find the information on the interface here: https://www.ebi.ac.uk/chembl/g/#browse/mechanisms_of_action. ChEMBL targets were all associated with a unique target ChEMBL_ID. We also used UniProt accessions as our primary identifier for protein targets. Refer to the "code_chembl.py" file in the raw_data/ folder where we provided the SQL queries to extract and filter the complementary data.
     - PubChem: We downloaded the small molecule drugs in the PubChem compound database, the FDA Orange Book records: https://pubchem.ncbi.nlm.nih.gov/classification/#hid=72 (open up the “Information Sources” submenu, then click the count next to the FDA Orange Book). Afterward, you can loop over your list of drugs (with PubChem CID). You can run the file in the raw_data/ folder, "download_pubchem.sh", to download the compound-target interaction data.
     - STITCH: We downloaded the chemical-protein links and list of STRING proteins from these links: http://stitch.embl.de/cgi/download.pl?UserId=M1MWuGzm9DP9&sessionId=BuMJ6vly8bv4&species_text=Homo+sapiens & https://string-db.org/cgi/download?sessionId=b4gDpE1CkXQH&species_text=Homo+sapiens. To process the large data files, we developed a code that you can find in the raw_data/ folder, "code_stitch_map.py".
