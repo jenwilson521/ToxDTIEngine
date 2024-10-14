@@ -1,0 +1,3 @@
+Drug,Targets
+caffeine,"['RYR1', 'CYP1B1', 'CYP2E1', 'CYP1A1', 'ABCG2', 'CYP2C8', 'ADORA2A', 'CYP3A4', 'PIK3CB', 'PRKDC', 'CYP2C9', 'CYP2D6', 'ADORA1', 'ATM', 'PIK3CA', 'PIK3CD', 'ADORA2B', 'CYP1A2', 'PDE4B']"
+diphenhydramine,"['CYP2C9', 'CYP2D6', 'PTGS1', 'SLC22A5', 'HRH1', 'CHRM2', 'CYP2C19']"
