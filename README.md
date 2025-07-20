@@ -47,12 +47,18 @@ Detailed instructions on how to use the code:
     - PubChem: We retrieved small-molecule drugs from the PubChem compound database, focusing on FDA Orange Book records. You can access this information here: [FDA Orange Book in PubChem](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=72) (Expand the "Information Sources" submenu and click the link next to the FDA Orange Book). We specifically identified CIDs ("raw_data/cid_list_pubchem.txt") that overlapped with the DTD and our baseline analysis and generated a file, "cids.txt", which is included in "data/raw_data/". To download compound-target interaction data, use the script "download_pubchem.sh" provided in the "raw_data/" folder.
  
     - STITCH: The chemicals (chemicals.v5.0.tsv), chemical-protein links (9606.protein_chemical.links.v5.0.tsv), and corresponding STRING proteins (9606.protein.info.v12.0.txt) were downloaded from these sources: [STITCH Download](http://stitch.embl.de/cgi/download.pl?UserId=M1MWuGzm9DP9&sessionId=BuMJ6vly8bv4&species_text=Homo+sapiens) & [STRING Download](https://string-db.org/cgi/download?sessionId=b4gDpE1CkXQH&species_text=Homo+sapiens). A script for processing these large datasets, code_stitch_map.py, is available in the "raw_data/" folder.
-
-      
-    - Therapeutic Target Database (TTD): We downloaded drug, target, and DTI data from the [Therapeutic Target Database](https://db.idrblab.net/ttd/full-data-download).
+ 
+    - Therapeutic Target Database (TTD): We downloaded drug IDs (i.e., “P1-03-TTD_crossmatching.txt”) and DTI (i.e., “P1-07-Drug-TargetMapping.xlsx”) data for “successful” (i.e., P2-02-TTD_uniprot_successful.txt) and “clinical” (i.e., “P2-03-TTD_uniprot_clinical.txt”) from the [Therapeutic Target Database](https://db.idrblab.net/ttd/full-data-download). We have provided our code for parsing these files in "data/raw_data/".
+ 
     - Pocket Features: Predicted drug-binding interactions were derived from Liu & Altman, 2011. You can review the study here: [Liu & Altman (2011)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002326).
+ 
+    - Pocket Features: Predicted drug-binding interactions were derived from Liu & Altman, 2011. More details about the algorithm are provided here: [Liu & Altman (2011)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002326). Although the data was published with Wilson et al. 2018, we have provided an additional copy here (/data/raw_data/drug_gene_int_scores_Pocket Features.txt) and also provided code for parsing the data in the "raw_data/" folder.
+
+
+
   - processed_data/:
     - This folder contains sample processed DTI data ready for analysis. You can use this example as a template for generating processed files from each database before combining them for the analysis pipeline.
+      
   - DrugToxicity_data.txt:
     - This file contains the dataset we used in our analysis, consisting of drug-side effect pairs sourced from drug labels. The original data can be found at [Designated Medical Event Pathways GitHub](https://github.com/jenwilson521/Designated-Medical-Event-Pathways), published in Wilson et al., [CPT: Pharmacometrics & Systems Pharmacology, 2022](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12861).
 
