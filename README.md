@@ -41,6 +41,12 @@ Detailed instructions on how to use the code:
 - The data/ folder contains all the datasets used in our analysis, organized as follows:
   - raw_data/:
     - DrugBank: We utilized DrugBank (Release Version 5.1.10), referred to as "New_DrugBank" in our study. Various versions of DrugBank can be accessed here: [DrugBank Releases](https://go.drugbank.com/releases). For guidance on parsing DrugBank data, refer to this notebook: [DrugBank Parsing Guide](https://github.com/dhimmel/drugbank/blob/gh-pages/parse.ipynb).
+   
+    - DrugBank: We utilized DrugBank (Release Version 5.1.10), referred to as "New_DrugBank" in our study. Various versions of DrugBank can be accessed here: [DrugBank Releases](https://go.drugbank.com/releases). To parse DrugBank data, we referred to the DrugBank Parsing Guide notebook: [DrugBank Parsing Guide](https://github.com/dhimmel/drugbank/blob/gh-pages/parse.ipynb). We adapted and used the following code to first extract the information (data/parse.ipynb) and later used (data/filter) to create 'DTI_NewDrugBank.csv', which is then used with "/scripts/Preprocessing.py". Importantly, this site requires registration to download the drugbank.xml.gz file.
+
+   
+      
+      
     - ChEMBL: We extracted drug candidates and their proposed therapeutic targets from the drug mechanisms table. More details can be found via the interface here: [ChEMBL Mechanisms of Action](https://www.ebi.ac.uk/chembl/g/#browse/mechanisms_of_action). All targets are linked to unique ChEMBL IDs, and we used UniProt accessions to identify protein targets. SQL queries for extracting this data are provided in the code_chembl.py file, in the raw_data/ folder.
     - PubChem: We retrieved small molecule drugs from the PubChem compound database, focusing on FDA Orange Book records. You can access this information here: [FDA Orange Book in PubChem](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=72) (Expand the "Information Sources" submenu and click the link next to the FDA Orange Book). To download compound-target interaction data, use the script download_pubchem.sh provided in the raw_data/ folder.
     - STITCH: The chemical-protein links and corresponding STRING proteins were downloaded from these sources: [STITCH Download](http://stitch.embl.de/cgi/download.pl?UserId=M1MWuGzm9DP9&sessionId=BuMJ6vly8bv4&species_text=Homo+sapiens) & [STRING Download](https://string-db.org/cgi/download?sessionId=b4gDpE1CkXQH&species_text=Homo+sapiens). A script for processing these large datasets, code_stitch_map.py, is available in the raw_data/ folder.
