@@ -1,0 +1,279 @@
+
+HUMAN|HGNC=5389|UniProtKB=P22304	IDS	Iduronate 2-sulfatase;IDS;PTN002470179;orthologs	IDURONATE 2-SULFATASE (PTHR45953:SF1)		Homo sapiens
+HUMAN|HGNC=1540|UniProtKB=P08185	SERPINA6	Corticosteroid-binding globulin;SERPINA6;PTN002479164;orthologs	CORTICOSTEROID-BINDING GLOBULIN (PTHR11461:SF34)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=896|UniProtKB=P47901	V1BR	Vasopressin V1b receptor;AVPR1B;PTN002517429;orthologs	VASOPRESSIN V1B RECEPTOR (PTHR24241:SF18)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=286|UniProtKB=P07550	ADRB2	Beta-2 adrenergic receptor;ADRB2;PTN002517629;orthologs	BETA-2 ADRENERGIC RECEPTOR (PTHR24248:SF21)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=4421|UniProtKB=P30968	GNRHR	Gonadotropin-releasing hormone receptor;GNRHR;PTN002517437;orthologs	GONADOTROPIN-RELEASING HORMONE RECEPTOR (PTHR24241:SF22)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=1606|UniProtKB=P51681	CCR5	C-C chemokine receptor type 5;CCR5;PTN002471047;orthologs	C-C CHEMOKINE RECEPTOR TYPE 5 (PTHR10489:SF686)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=4324|UniProtKB=P43220	GLP1R	Glucagon-like peptide 1 receptor;GLP1R;PTN002485768;orthologs	GLUCAGON-LIKE PEPTIDE 1 RECEPTOR (PTHR45620:SF25)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9030|UniProtKB=P04054	PLA2G1B	Phospholipase A2;PLA2G1B;PTN002482367;orthologs	PHOSPHOLIPASE A2 (PTHR11716:SF94)	phospholipase(PC00186)	Homo sapiens
+HUMAN|HGNC=60|UniProtKB=O60706	ABCC9	ATP-binding cassette sub-family C member 9;ABCC9;PTN002517150;orthologs	ATP-BINDING CASSETTE SUB-FAMILY C MEMBER 9 (PTHR24223:SF173)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=3647|UniProtKB=P22830	FECH	Ferrochelatase, mitochondrial;FECH;PTN002476565;orthologs	FERROCHELATASE, MITOCHONDRIAL (PTHR11108:SF1)	lyase(PC00144)	Homo sapiens
+HUMAN|HGNC=6307|UniProtKB=P35968	KDR	Vascular endothelial growth factor receptor 2;KDR;PTN002521309;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 2 (PTHR24416:SF45)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=100|UniProtKB=P78348	ASIC1	Acid-sensing ion channel 1;ASIC1;PTN002481907;orthologs	ACID-SENSING ION CHANNEL 1 (PTHR11690:SF170)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=7043|UniProtKB=O43451	MGAM	Maltase-glucoamylase;MGAM;PTN002503662;orthologs	MALTASE-GLUCOAMYLASE (PTHR22762:SF63)	glucosidase(PC00108)	Homo sapiens
+HUMAN|HGNC=8784|UniProtKB=O76074	PDE5A	cGMP-specific 3',5'-cyclic phosphodiesterase;PDE5A;PTN002478159;orthologs	PHOSPHODIESTERASE (PTHR11347:SF20)	phosphodiesterase(PC00185)	Homo sapiens
+HUMAN|HGNC=9071|UniProtKB=P00747	PLG	Plasminogen;PLG;PTN002517843;orthologs	PLASMINOGEN (PTHR24261:SF13)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=8153|UniProtKB=P41143	OPRD1	Delta-type opioid receptor;OPRD1;PTN002517294;orthologs	DELTA-TYPE OPIOID RECEPTOR (PTHR24229:SF2)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11796|UniProtKB=P10827	THRA	Thyroid hormone receptor alpha;THRA;PTN002515184;orthologs	THYROID HORMONE RECEPTOR ALPHA (PTHR24082:SF42)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=3392|UniProtKB=P54762	NET	Ephrin type-B receptor 1;EPHB1;PTN002521329;orthologs	EPHRIN TYPE-B RECEPTOR 1 (PTHR46877:SF17)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=336|UniProtKB=P30556	AGTR1	Type-1 angiotensin II receptor;AGTR1;PTN002517264;orthologs	TYPE-1 ANGIOTENSIN II RECEPTOR (PTHR24228:SF11)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=9171|UniProtKB=O00592	PC	Podocalyxin;PODXL;PTN002486079;orthologs	PODOCALYXIN (PTHR12067:SF5)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=23|UniProtKB=P80404	ABAT	4-aminobutyrate aminotransferase, mitochondrial;ABAT;PTN002534845;orthologs	4-AMINOBUTYRATE AMINOTRANSFERASE, MITOCHONDRIAL (PTHR43206:SF1)	transaminase(PC00216)	Homo sapiens
+HUMAN|HGNC=1659|UniProtKB=P20138	CD33	Myeloid cell surface antigen CD33;CD33;PTN002485992;orthologs	MYELOID CELL SURFACE ANTIGEN CD33 (PTHR12035:SF132)	immunoglobulin superfamily cell adhesion molecule(PC00125)	Homo sapiens
+HUMAN|HGNC=15514|UniProtKB=Q13492	CALM	Phosphatidylinositol-binding clathrin assembly protein;PICALM;PTN002505997;orthologs	PHOSPHATIDYLINOSITOL-BINDING CLATHRIN ASSEMBLY PROTEIN (PTHR22951:SF16)	vesicle coat protein(PC00235)	Homo sapiens
+HUMAN|HGNC=3467|UniProtKB=P03372	ESR	Estrogen receptor;ESR1;PTN002515280;orthologs	ESTROGEN RECEPTOR (PTHR48092:SF16)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=11926|UniProtKB=O14788	ODF	Tumor necrosis factor ligand superfamily member 11;TNFSF11;PTN002479310;orthologs	TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 11 (PTHR11471:SF3)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1133|UniProtKB=Q06187	ATK	Tyrosine-protein kinase BTK;BTK;PTN002521549;orthologs	TYROSINE-PROTEIN KINASE BTK (PTHR24418:SF92)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=1383|UniProtKB=Q16790	CA-IX	Carbonic anhydrase 9;CA9;PTN002498559;orthologs	CARBONIC ANHYDRASE 9 (PTHR18952:SF18)	dehydratase(PC00091)	Homo sapiens
+HUMAN|HGNC=2610|UniProtKB=P11509	CYP2A6	Cytochrome P450 2A6;CYP2A6;PTN002518327;orthologs	CYTOCHROME P450 2A6 (PTHR24300:SF180)	oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=8910|UniProtKB=P06401	PGR	Progesterone receptor;PGR;PTN002515275;orthologs	PROGESTERONE RECEPTOR (PTHR48092:SF6)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=4057|UniProtKB=P11413	G6PD	Glucose-6-phosphate 1-dehydrogenase;G6PD;PTN002512035;orthologs	GLUCOSE-6-PHOSPHATE 1-DEHYDROGENASE (PTHR23429:SF0)	dehydrogenase(PC00092)	Homo sapiens
+HUMAN|HGNC=5992|UniProtKB=P01584	IL1B	Interleukin-1 beta;IL1B;PTN002552415;orthologs	INTERLEUKIN-1 BETA (PTHR10078:SF30)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=1368|UniProtKB=P00915	CA-I	Carbonic anhydrase 1;CA1;PTN002498539;orthologs	CARBONIC ANHYDRASE 1 (PTHR18952:SF282)	dehydratase(PC00091)	Homo sapiens
+HUMAN|HGNC=8004|UniProtKB=O14786	NRP1	Neuropilin-1;NRP1;PTN002544699;orthologs	NEUROPILIN-1 (PTHR46806:SF4)		Homo sapiens
+HUMAN|HGNC=263|UniProtKB=P29274	ADORA2A	Adenosine receptor A2a;ADORA2A;PTN002517545;orthologs	ADENOSINE RECEPTOR A2A (PTHR24246:SF47)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=17451|UniProtKB=Q9Y271	CYSLTR1	Cysteinyl leukotriene receptor 1;CYSLTR1;PTN002517317;orthologs	CYSTEINYL LEUKOTRIENE RECEPTOR 1 (PTHR24230:SF12)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=12299|UniProtKB=P34981	TRHR	Thyrotropin-releasing hormone receptor;TRHR;PTN002517516;orthologs	THYROTROPIN-RELEASING HORMONE RECEPTOR (PTHR46061:SF2)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=3012|UniProtKB=Q12882	DPYD	Dihydropyrimidine dehydrogenase [NADP(+)];DPYD;PTN002534438;orthologs	DIHYDROPYRIMIDINE DEHYDROGENASE [NADP(+)] (PTHR43073:SF2)	dehydrogenase(PC00092)	Homo sapiens
+HUMAN|HGNC=17961|UniProtKB=Q7Z2W7	TRPM8	Transient receptor potential cation channel subfamily M member 8;TRPM8;PTN002492762;orthologs	TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL SUBFAMILY M MEMBER 8 (PTHR13800:SF9)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=11049|UniProtKB=Q01959	DAT	Sodium-dependent dopamine transporter;SLC6A3;PTN002481016;orthologs	SODIUM-DEPENDENT DOPAMINE TRANSPORTER (PTHR11616:SF38)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=1371|UniProtKB=O43570	CA-XII	Carbonic anhydrase 12;CA12;PTN002498557;orthologs	CARBONIC ANHYDRASE 12 (PTHR18952:SF19)	dehydratase(PC00091)	Homo sapiens
+HUMAN|HGNC=1804|UniProtKB=P31358	CD52	CAMPATH-1 antigen;CD52;PTN002495372;orthologs	CAMPATH-1 ANTIGEN (PTHR15029:SF0)		Homo sapiens
+HUMAN|HGNC=1953|UniProtKB=P08173	CHRM4	Muscarinic acetylcholine receptor M4;CHRM4;PTN002538170;orthologs	MUSCARINIC ACETYLCHOLINE RECEPTOR M4 (PTHR24247:SF180)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=3014|UniProtKB=Q16555	DPYSL2	Dihydropyrimidinase-related protein 2;DPYSL2;PTN002481339;orthologs	DIHYDROPYRIMIDINASE-RELATED PROTEIN 2 (PTHR11647:SF56)	hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=11334|UniProtKB=P35346	SSTR5	Somatostatin receptor type 5;SSTR5;PTN002517301;orthologs	SOMATOSTATIN RECEPTOR TYPE 5 (PTHR24229:SF20)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=12398|UniProtKB=Q9UNY4	F2	Transcription termination factor 2;TTF2;PTN002473850;orthologs	TRANSCRIPTION TERMINATION FACTOR 2 (PTHR45626:SF50)		Homo sapiens
+HUMAN|HGNC=3179|UniProtKB=P25101	EDNRA	Endothelin-1 receptor;EDNRA;PTN002517507;orthologs	ENDOTHELIN-1 RECEPTOR (PTHR46099:SF2)		Homo sapiens
+HUMAN|HGNC=11184|UniProtKB=Q00796	XDH	Sorbitol dehydrogenase;SORD;PTN002534727;orthologs	SORBITOL DEHYDROGENASE (PTHR43161:SF9)	dehydrogenase(PC00092)	Homo sapiens
+HUMAN|HGNC=11364|UniProtKB=P40763	STAT3	Signal transducer and activator of transcription 3;STAT3;PTN002483239;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 3 (PTHR11801:SF2)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=714|UniProtKB=P15848	G4S	Arylsulfatase B;ARSB;PTN002470170;orthologs	ARYLSULFATASE B (PTHR10342:SF274)		Homo sapiens
+HUMAN|HGNC=2593|UniProtKB=P05093	S17AH	Steroid 17-alpha-hydroxylase_17,20 lyase;CYP17A1;PTN002518053;orthologs	STEROID 17-ALPHA-HYDROXYLASE_17,20 LYASE (PTHR24289:SF13)		Homo sapiens
+HUMAN|HGNC=799|UniProtKB=P05023	ATP1A1	Sodium_potassium-transporting ATPase subunit alpha-1;ATP1A1;PTN002535060;orthologs	SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-1 (PTHR43294:SF9)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=277|UniProtKB=P35348	ADRA1A	Alpha-1A adrenergic receptor;ADRA1A;PTN002517624;orthologs	ALPHA-1A ADRENERGIC RECEPTOR (PTHR24248:SF16)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11795|UniProtKB=P40225	TPO	Thrombopoietin;THPO;PTN002471592;orthologs	THROMBOPOIETIN (PTHR10560:SF0)		Homo sapiens
+HUMAN|HGNC=1966|UniProtKB=Q04844	AChE	Acetylcholine receptor subunit epsilon;CHRNE;PTN002498472;orthologs	ACETYLCHOLINE RECEPTOR SUBUNIT EPSILON (PTHR18945:SF59)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=10910|UniProtKB=Q13621	SLC12A1	Solute carrier family 12 member 1;SLC12A1;PTN002483569;orthologs	SOLUTE CARRIER FAMILY 12 MEMBER 1 (PTHR11827:SF93)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=11329|UniProtKB=P61278	SST	Somatostatin;SST;PTN002471586;orthologs	SOMATOSTATIN (PTHR10558:SF2)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=2883|UniProtKB=P49895	DIO1	Type I iodothyronine deiodinase;DIO1;PTN002483049;orthologs	TYPE I IODOTHYRONINE DEIODINASE (PTHR11781:SF22)	metabolite interconversion enzyme(PC00262)	Homo sapiens
+HUMAN|HGNC=9232|UniProtKB=Q07869	PPARA	Peroxisome proliferator-activated receptor alpha;PPARA;PTN002515156;orthologs	PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR ALPHA (PTHR24082:SF197)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=6294|UniProtKB=P51787	KCNQ1	Potassium voltage-gated channel subfamily KQT member 1;KCNQ1;PTN002479946;orthologs	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY KQT MEMBER 1 (PTHR11537:SF274)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=6769|UniProtKB=P84022	SMAD3	Mothers against decapentaplegic homolog 3;SMAD3;PTN002492186;orthologs	MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 3 (PTHR13703:SF53)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=1394|UniProtKB=O43497	CACNA1G	Voltage-dependent T-type calcium channel subunit alpha-1G;CACNA1G;PTN002467501;orthologs	VOLTAGE-DEPENDENT T-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1G (PTHR45628:SF33)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=11892|UniProtKB=P01375	TNF	Tumor necrosis factor;TNF;PTN002479303;orthologs	TUMOR NECROSIS FACTOR (PTHR11471:SF23)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=9602|UniProtKB=P43119	PTGIR	Prostacyclin receptor;PTGIR;PTN002484065;orthologs	PROSTACYCLIN RECEPTOR (PTHR11866:SF7)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=6192|UniProtKB=O60674	JAK-2	Tyrosine-protein kinase JAK2;JAK2;PTN002521572;orthologs	TYROSINE-PROTEIN KINASE JAK2 (PTHR45807:SF1)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=7979|UniProtKB=P08235	MR	Mineralocorticoid receptor;NR3C2;PTN002515279;orthologs	MINERALOCORTICOID RECEPTOR (PTHR48092:SF19)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=497|UniProtKB=O75762	TRPA1	Transient receptor potential cation channel subfamily A member 1;TRPA1;PTN002516736;orthologs	TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL SUBFAMILY A MEMBER 1 (PTHR24123:SF124)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=3528|UniProtKB=P00742	F10	Coagulation factor X;F10;PTN002542618;orthologs	COAGULATION FACTOR X (PTHR24278:SF28)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=4579|UniProtKB=P39086	GRIK1	Glutamate receptor ionotropic, kainate 1;GRIK1;PTN002498664;orthologs	GLUTAMATE RECEPTOR IONOTROPIC, KAINATE 1 (PTHR18966:SF36)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6677|UniProtKB=P06858	LPL	Lipoprotein lipase;LPL;PTN002480890;orthologs	LIPOPROTEIN LIPASE (PTHR11610:SF3)	lipase(PC00143)	Homo sapiens
+HUMAN|HGNC=897|UniProtKB=P30518	V2R	Vasopressin V2 receptor;AVPR2;PTN002517432;orthologs	VASOPRESSIN V2 RECEPTOR (PTHR24241:SF20)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=3471|UniProtKB=P11474	ESRRA	Steroid hormone receptor ERR1;ESRRA;PTN002515286;orthologs	STEROID HORMONE RECEPTOR ERR1 (PTHR48092:SF15)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=3325|UniProtKB=P41970	NET	ETS domain-containing protein Elk-3;ELK3;PTN002483893;orthologs	ETS DOMAIN-CONTAINING PROTEIN ELK-3 (PTHR11849:SF172)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=5293|UniProtKB=P28223	HTR2A	5-hydroxytryptamine receptor 2A;HTR2A;PTN002517601;orthologs	5-HYDROXYTRYPTAMINE RECEPTOR 2A (PTHR24247:SF30)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=5433|UniProtKB=P48551	IFNAR2	Interferon alpha_beta receptor 2;IFNAR2;PTN002500974;orthologs	INTERFERON ALPHA_BETA RECEPTOR 2 (PTHR20859:SF84)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=3535|UniProtKB=P00734	F2	Prothrombin;F2;PTN002517718;orthologs	PROTHROMBIN (PTHR24254:SF10)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=4035|UniProtKB=Q16570	ACKR1	Atypical chemokine receptor 1;ACKR1;PTN002494177;orthologs	ATYPICAL CHEMOKINE RECEPTOR 1 (PTHR14181:SF1)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=7898|UniProtKB=Q9UHC9	NPC1L1	NPC1-like intracellular cholesterol transporter 1;NPC1L1;PTN002473803;orthologs	NPC1-LIKE INTRACELLULAR CHOLESTEROL TRANSPORTER 1 (PTHR45727:SF3)		Homo sapiens
+HUMAN|HGNC=8154|UniProtKB=P41145	OPRK1	Kappa-type opioid receptor;OPRK1;PTN002517289;orthologs	KAPPA-TYPE OPIOID RECEPTOR (PTHR24229:SF1)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=59|UniProtKB=Q09428	ABCC8	ATP-binding cassette sub-family C member 8;ABCC8;PTN002517148;orthologs	ATP-BINDING CASSETTE SUB-FAMILY C MEMBER 8 (PTHR24223:SF187)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=5289|UniProtKB=P28221	HTR1D	5-hydroxytryptamine receptor 1D;HTR1D;PTN002517578;orthologs	5-HYDROXYTRYPTAMINE RECEPTOR 1D (PTHR24247:SF17)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=14376|UniProtKB=Q9BZG2	PPAT	Testicular acid phosphatase;ACP4;PTN002480351;orthologs	TESTICULAR ACID PHOSPHATASE (PTHR11567:SF145)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=11279|UniProtKB=Q14534	SQLE	Squalene monooxygenase;SQLE;PTN002474331;orthologs	SQUALENE MONOOXYGENASE (PTHR10835:SF0)	oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=108|UniProtKB=P22303	AChE	Acetylcholinesterase;ACHE;PTN002480196;orthologs	ACETYLCHOLINESTERASE (PTHR11559:SF370)	esterase(PC00097)	Homo sapiens
+HUMAN|HGNC=7967|UniProtKB=Q96RI1	FXR	Bile acid receptor;NR1H4;PTN002515150;orthologs	BILE ACID RECEPTOR (PTHR24082:SF155)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=9051|UniProtKB=P00750	PLAT	Tissue-type plasminogen activator;PLAT;PTN002550457;orthologs	TISSUE-TYPE PLASMINOGEN ACTIVATOR (PTHR24264:SF42)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=24615|UniProtKB=O00418	eEF-2K	Eukaryotic elongation factor 2 kinase;EEF2K;PTN002494208;orthologs	EUKARYOTIC ELONGATION FACTOR 2 KINASE (PTHR45992:SF2)		Homo sapiens
+HUMAN|HGNC=403|UniProtKB=P51648	ALDH3A2	Aldehyde dehydrogenase family 3 member A2;ALDH3A2;PTN002535760;orthologs	ALDEHYDE DEHYDROGENASE FAMILY 3 MEMBER A2 (PTHR43570:SF9)	dehydrogenase(PC00092)	Homo sapiens
+HUMAN|HGNC=16188|UniProtKB=Q9BQ89	F10	Protein FAM110A;FAM110A;PTN002495095;orthologs	PROTEIN FAM110A (PTHR14758:SF4)		Homo sapiens
+HUMAN|HGNC=11050|UniProtKB=P31645	SERT	Sodium-dependent serotonin transporter;SLC6A4;PTN002481013;orthologs	SODIUM-DEPENDENT SEROTONIN TRANSPORTER (PTHR11616:SF105)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=9582|UniProtKB=P25105	PTAFR	Platelet-activating factor receptor;PTAFR;PTN002517376;orthologs	PLATELET-ACTIVATING FACTOR RECEPTOR (PTHR24233:SF6)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=3611|UniProtKB=P30273	FCERG	High affinity immunoglobulin epsilon receptor subunit gamma;FCER1G;PTN002497667;orthologs	HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR SUBUNIT GAMMA (PTHR16803:SF0)	immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=1030|UniProtKB=P30411	BDKRB2	B2 bradykinin receptor;BDKRB2;PTN002517270;orthologs	B2 BRADYKININ RECEPTOR (PTHR24228:SF25)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=1158|UniProtKB=P30536	TSPO	Translocator protein;TSPO;PTN002467628;orthologs	TRANSLOCATOR PROTEIN (PTHR10057:SF5)		Homo sapiens
+HUMAN|HGNC=6621|UniProtKB=Q05469	LIPE	Hormone-sensitive lipase;LIPE;PTN002507006;orthologs	HORMONE-SENSITIVE LIPASE (PTHR23025:SF3)	lipase(PC00143)	Homo sapiens
+HUMAN|HGNC=4585|UniProtKB=Q12879	NMDAR2A	Glutamate receptor ionotropic, NMDA 2A;GRIN2A;PTN002540171;orthologs	GLUTAMATE RECEPTOR IONOTROPIC, NMDA 2A (PTHR18966:SF407)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=76|UniProtKB=P00519	ABL	Tyrosine-protein kinase ABL1;ABL1;PTN002521521;orthologs	TYROSINE-PROTEIN KINASE ABL1 (PTHR24418:SF438)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=9865|UniProtKB=P10826	RARB	Retinoic acid receptor beta;RARB;PTN002515164;orthologs	RETINOIC ACID RECEPTOR BETA (PTHR24082:SF286)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=12015|UniProtKB=P07202	TPO	Thyroid peroxidase;TPO;PTN002479386;orthologs	THYROID PEROXIDASE (PTHR11475:SF60)	peroxidase(PC00180)	Homo sapiens
+HUMAN|HGNC=30142|UniProtKB=Q99988	PDF	Growth_differentiation factor 15;GDF15;PTN002483794;orthologs	GROWTH_DIFFERENTIATION FACTOR 15 (PTHR11848:SF78)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=74|UniProtKB=Q9UNQ0	ABCG2	Broad substrate specificity ATP-binding cassette transporter ABCG2;ABCG2;PTN002499247;orthologs	BROAD SUBSTRATE SPECIFICITY ATP-BINDING CASSETTE TRANSPORTER ABCG2 (PTHR48041:SF92)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=9238|UniProtKB=Q06203	PPAT	Amidophosphoribosyltransferase;PPAT;PTN002484354;orthologs	AMIDOPHOSPHORIBOSYLTRANSFERASE (PTHR11907:SF20)	transferase(PC00220)	Homo sapiens
+HUMAN|HGNC=381|UniProtKB=P15121	AR,AKR1B1	Aldo-keto reductase family 1 member B1;AKR1B1;PTN002482531;orthologs	ALDO-KETO REDUCTASE FAMILY 1 MEMBER B1 (PTHR11732:SF294)	reductase(PC00198)	Homo sapiens
+HUMAN|HGNC=20566|UniProtKB=Q7L0J3	SV2A	Synaptic vesicle glycoprotein 2A;SV2A;PTN002512386;orthologs	SYNAPTIC VESICLE GLYCOPROTEIN 2A (PTHR23511:SF11)		Homo sapiens
+HUMAN|HGNC=9967|UniProtKB=P07949	RET	Proto-oncogene tyrosine-protein kinase receptor Ret;RET;PTN002521376;orthologs	PROTO-ONCOGENE TYROSINE-PROTEIN KINASE RECEPTOR RET (PTHR24416:SF485)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5295|UniProtKB=P28335	HTR2C	5-hydroxytryptamine receptor 2C;HTR2C;PTN002517600;orthologs	5-HYDROXYTRYPTAMINE RECEPTOR 2C (PTHR24247:SF32)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=1952|UniProtKB=P20309	CHRM3	Muscarinic acetylcholine receptor M3;CHRM3;PTN002538175;orthologs	MUSCARINIC ACETYLCHOLINE RECEPTOR M3 (PTHR24247:SF183)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=6026|UniProtKB=P25024	CXCR1	C-X-C chemokine receptor type 1;CXCR1;PTN002471010;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 1 (PTHR10489:SF916)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=30012|UniProtKB=Q9HBH1	PDF	Peptide deformylase, mitochondrial;PDF;PTN002470839;orthologs	PEPTIDE DEFORMYLASE, MITOCHONDRIAL (PTHR10458:SF2)	hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=5297|UniProtKB=P46098	HTR3A	5-hydroxytryptamine receptor 3A;HTR3A;PTN002498452;orthologs	5-HYDROXYTRYPTAMINE RECEPTOR 3A (PTHR18945:SF52)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=283|UniProtKB=P18825	ADRA2C	Alpha-2C adrenergic receptor;ADRA2C;PTN002517620;orthologs	ALPHA-2C ADRENERGIC RECEPTOR (PTHR24248:SF25)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=5969|UniProtKB=P29459	IL12A	Interleukin-12 subunit alpha;IL12A;PTN009232584;orthologs	INTERLEUKIN-12 SUBUNIT ALPHA (PTHR48485:SF1)		Homo sapiens
+HUMAN|HGNC=1954|UniProtKB=P08912	CHRM5	Muscarinic acetylcholine receptor M5;CHRM5;PTN002538165;orthologs	MUSCARINIC ACETYLCHOLINE RECEPTOR M5 (PTHR24247:SF209)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=12412|UniProtKB=Q13885	TUBB2	Tubulin beta-2A chain;TUBB2A;PTN002480623;orthologs	TUBULIN BETA-2A CHAIN (PTHR11588:SF100)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=21302|UniProtKB=Q693B1	REN	BTB_POZ domain-containing protein KCTD11;KCTD11;PTN002494777;orthologs	BTB_POZ DOMAIN-CONTAINING PROTEIN KCTD11 (PTHR14499:SF7)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=11330|UniProtKB=P30872	SSTR1	Somatostatin receptor type 1;SSTR1;PTN002517293;orthologs	SOMATOSTATIN RECEPTOR TYPE 1 (PTHR24229:SF38)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11526|UniProtKB=P25103	TACR1	Substance-P receptor;TACR1;PTN002538241;orthologs	SUBSTANCE-P RECEPTOR (PTHR46925:SF4)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=1372|UniProtKB=Q9ULX7	CA-XIV	Carbonic anhydrase 14;CA14;PTN002498560;orthologs	CARBONIC ANHYDRASE 14 (PTHR18952:SF84)	dehydratase(PC00091)	Homo sapiens
+HUMAN|HGNC=10261|UniProtKB=P08922	ROS1	Proto-oncogene tyrosine-protein kinase ROS;ROS1;PTN002521412;orthologs	PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ROS (PTHR24416:SF527)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=3416|UniProtKB=P19235	EPOR	Erythropoietin receptor;EPOR;PTN002507127;orthologs	ERYTHROPOIETIN RECEPTOR (PTHR23037:SF28)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4852|UniProtKB=Q13547	HDAC1	Histone deacetylase 1;HDAC1;PTN002472122;orthologs	HISTONE DEACETYLASE 1 (PTHR10625:SF49)		Homo sapiens
+HUMAN|HGNC=6833|UniProtKB=P21397	MAO-A	Amine oxidase [flavin-containing] A;MAOA;PTN002535747;orthologs	AMINE OXIDASE [FLAVIN-CONTAINING] A (PTHR43563:SF11)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=1373|UniProtKB=P00918	CA-II	Carbonic anhydrase 2;CA2;PTN002498532;orthologs	CARBONIC ANHYDRASE 2 (PTHR18952:SF120)	dehydratase(PC00091)	Homo sapiens
+HUMAN|HGNC=11331|UniProtKB=P30874	SSTR2	Somatostatin receptor type 2;SSTR2;PTN002517280;orthologs	SOMATOSTATIN RECEPTOR TYPE 2 (PTHR24229:SF6)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11923|UniProtKB=P28908	TNFRSF8	Tumor necrosis factor receptor superfamily member 8;TNFRSF8;PTN002508097;orthologs	TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 8 (PTHR47497:SF1)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5183|UniProtKB=P25021	H2R	Histamine H2 receptor;HRH2;PTN002537105;orthologs	HISTAMINE H2 RECEPTOR (PTHR24247:SF263)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=6342|UniProtKB=P10721	KIT	Mast_stem cell growth factor receptor Kit;KIT;PTN002521310;orthologs	MAST_STEM CELL GROWTH FACTOR RECEPTOR KIT (PTHR24416:SF46)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11986|UniProtKB=P11387	TOP1	DNA topoisomerase 1;TOP1;PTN002469796;orthologs	DNA TOPOISOMERASE 1 (PTHR10290:SF5)	DNA topoisomerase(PC00017)	Homo sapiens
+HUMAN|HGNC=10452|UniProtKB=P31350	RRM2	Ribonucleoside-diphosphate reductase subunit M2;RRM2;PTN002511785;orthologs	RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE SUBUNIT M2 (PTHR23409:SF20)	reductase(PC00198)	Homo sapiens
+HUMAN|HGNC=1514|UniProtKB=P41180	CASR	Extracellular calcium-sensing receptor;CASR;PTN002514306;orthologs	EXTRACELLULAR CALCIUM-SENSING RECEPTOR (PTHR24061:SF358)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=15631|UniProtKB=Q9NYK1	TLR7	Toll-like receptor 7;TLR7;PTN002546436;orthologs	TOLL-LIKE RECEPTOR 7 (PTHR47410:SF2)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=427|UniProtKB=Q9UM73	ALK	ALK tyrosine kinase receptor;ALK;PTN002521399;orthologs	ALK TYROSINE KINASE RECEPTOR (PTHR24416:SF276)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=8977|UniProtKB=O00329	PIK3CD	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform;PIK3CD;PTN002467582;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT DELTA ISOFORM (PTHR10048:SF35)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=11332|UniProtKB=P32745	SSTR3	Somatostatin receptor type 3;SSTR3;PTN002517275;orthologs	SOMATOSTATIN RECEPTOR TYPE 3 (PTHR24229:SF42)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=5182|UniProtKB=P35367	H1R	Histamine H1 receptor;HRH1;PTN002538164;orthologs	HISTAMINE H1 RECEPTOR (PTHR24247:SF223)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=10478|UniProtKB=P28702	RXRB	Retinoic acid receptor RXR-beta;RXRB;PTN002515236;orthologs	RETINOIC ACID RECEPTOR RXR-BETA (PTHR24083:SF90)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=11850|UniProtKB=O00206	TLR4	Toll-like receptor 4;TLR4;PTN002549955;orthologs	TOLL-LIKE RECEPTOR 4 (PTHR24365:SF521)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=12442|UniProtKB=P14679	TYR	Tyrosinase;TYR;PTN002479355;orthologs	TYROSINASE (PTHR11474:SF124)	oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=6752|UniProtKB=P20645	M6PR	Cation-dependent mannose-6-phosphate receptor;M6PR;PTN002495431;orthologs	CATION-DEPENDENT MANNOSE-6-PHOSPHATE RECEPTOR (PTHR15071:SF29)	membrane traffic protein(PC00150)	Homo sapiens
+HUMAN|HGNC=1700|UniProtKB=P33681	CD80	T-lymphocyte activation antigen CD80;CD80;PTN002521723;orthologs	T-LYMPHOCYTE ACTIVATION ANTIGEN CD80 (PTHR25466:SF4)	immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=6052|UniProtKB=P20839	IMPDH1	Inosine-5'-monophosphate dehydrogenase 1;IMPDH1;PTN002484456;orthologs	INOSINE-5'-MONOPHOSPHATE DEHYDROGENASE 1 (PTHR11911:SF74)	dehydrogenase(PC00092)	Homo sapiens
+HUMAN|HGNC=8109|UniProtKB=P11926	ODC1	Ornithine decarboxylase;ODC1;PTN002479486;orthologs	ORNITHINE DECARBOXYLASE (PTHR11482:SF42)	decarboxylase(PC00089)	Homo sapiens
+HUMAN|HGNC=7464|UniProtKB=P49286	MTNR1B	Melatonin receptor type 1B;MTNR1B;PTN002540267;orthologs	MELATONIN RECEPTOR TYPE 1B (PTHR24228:SF54)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=5287|UniProtKB=P28222	HTR1B	5-hydroxytryptamine receptor 1B;HTR1B;PTN002517576;orthologs	5-HYDROXYTRYPTAMINE RECEPTOR 1B (PTHR24247:SF16)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=1375|UniProtKB=P22748	CA-IV	Carbonic anhydrase 4;CA4;PTN002498547;orthologs	CARBONIC ANHYDRASE 4 (PTHR18952:SF95)	dehydratase(PC00091)	Homo sapiens
+HUMAN|HGNC=6524|UniProtKB=P06239	LCK	Tyrosine-protein kinase Lck;LCK;PTN002521537;orthologs	TYROSINE-PROTEIN KINASE LCK (PTHR24418:SF39)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=25588|UniProtKB=Q96FL8	SLC47A1	Multidrug and toxin extrusion protein 1;SLC47A1;PTN002477099;orthologs	MULTIDRUG AND TOXIN EXTRUSION PROTEIN 1 (PTHR11206:SF73)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=9866|UniProtKB=P13631	RARG	Retinoic acid receptor gamma;RARG;PTN002515162;orthologs	RETINOIC ACID RECEPTOR GAMMA (PTHR24082:SF116)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=23612|UniProtKB=Q6ZQN7	SLCO4C1	Solute carrier organic anion transporter family member 4C1;SLCO4C1;PTN002478611;orthologs	SOLUTE CARRIER ORGANIC ANION TRANSPORTER FAMILY MEMBER 4C1 (PTHR11388:SF103)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=27039|UniProtKB=Q86Y79	PTH	Peptidyl-tRNA hydrolase;PTRH1;PTN002497763;orthologs	PEPTIDYL-TRNA HYDROLASE (PTHR17224:SF1)	esterase(PC00097)	Homo sapiens
+HUMAN|HGNC=1653|UniProtKB=P10747	CD28	T-cell-specific surface glycoprotein CD28;CD28;PTN002479571;orthologs	T-CELL-SPECIFIC SURFACE GLYCOPROTEIN CD28 (PTHR11494:SF7)	immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=9401|UniProtKB=Q02156	PRKCE	Protein kinase C epsilon type;PRKCE;PTN002519419;orthologs	PROTEIN KINASE C EPSILON TYPE (PTHR24356:SF159)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=9475|UniProtKB=P07477	PRSS1	Serine protease 1;PRSS1;PTN002517850;orthologs	SERINE PROTEASE 1 (PTHR24264:SF73)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=7315|UniProtKB=P11836	CD20	B-lymphocyte antigen CD20;MS4A1;PTN002511251;orthologs	B-LYMPHOCYTE ANTIGEN CD20 (PTHR23320:SF79)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=5423|UniProtKB=P01563	IFNA2	Interferon alpha-2;IFNA2;PTN002481941;orthologs	INTERFERON ALPHA-2 (PTHR11691:SF70)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=10912|UniProtKB=P55017	SLC12A3	Solute carrier family 12 member 3;SLC12A3;PTN002483572;orthologs	SOLUTE CARRIER FAMILY 12 MEMBER 3 (PTHR11827:SF9)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=2867|UniProtKB=Q02127	DHODH	Dihydroorotate dehydrogenase (quinone), mitochondrial;DHODH;PTN002535636;orthologs	DIHYDROOROTATE DEHYDROGENASE (QUINONE), MITOCHONDRIAL (PTHR48109:SF4)	dehydrogenase(PC00092)	Homo sapiens
+HUMAN|HGNC=7978|UniProtKB=P04150	NR3C1	Glucocorticoid receptor;NR3C1;PTN002515274;orthologs	GLUCOCORTICOID RECEPTOR (PTHR48092:SF5)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=2861|UniProtKB=P00374	DHFR	Dihydrofolate reductase;DHFR;PTN002503819;orthologs	DIHYDROFOLATE REDUCTASE (PTHR48069:SF6)	reductase(PC00198)	Homo sapiens
+HUMAN|HGNC=7750|UniProtKB=Q92832	NRP1	Protein kinase C-binding protein NELL1;NELL1;PTN002513899;orthologs	PROTEIN KINASE C-BINDING PROTEIN NELL1 (PTHR24042:SF2)	calcium-binding protein(PC00060)	Homo sapiens
+HUMAN|HGNC=6224|UniProtKB=P22460	KCNA5	Potassium voltage-gated channel subfamily A member 5;KCNA5;PTN002479981;orthologs	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY A MEMBER 5 (PTHR11537:SF250)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=3236|UniProtKB=P00533	EGFR	Epidermal growth factor receptor;EGFR;PTN002521387;orthologs	EPIDERMAL GROWTH FACTOR RECEPTOR (PTHR24416:SF91)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1950|UniProtKB=P11229	CHRM1	Muscarinic acetylcholine receptor M1;CHRM1;PTN002538174;orthologs	MUSCARINIC ACETYLCHOLINE RECEPTOR M1 (PTHR24247:SF182)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=399|UniProtKB=P02768	ALB	Albumin;ALB;PTN002478564;orthologs	ALBUMIN (PTHR11385:SF15)	transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=2323|UniProtKB=P31327	CPS1	Carbamoyl-phosphate synthase [ammonia], mitochondrial;CPS1;PTN002478673;orthologs	CARBAMOYL-PHOSPHATE SYNTHASE [AMMONIA], MITOCHONDRIAL (PTHR11405:SF53)	ligase(PC00142)	Homo sapiens
+HUMAN|HGNC=8804|UniProtKB=P09619	PDGFRB	Platelet-derived growth factor receptor beta;PDGFRB;PTN002521311;orthologs	PLATELET-DERIVED GROWTH FACTOR RECEPTOR BETA (PTHR24416:SF53)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=10583|UniProtKB=Q9UI33	SCN11A	Sodium channel protein type 11 subunit alpha;SCN11A;PTN002467427;orthologs	SODIUM CHANNEL PROTEIN TYPE 11 SUBUNIT ALPHA (PTHR45628:SF28)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=5467|UniProtKB=P11717	M6PR	Cation-independent mannose-6-phosphate receptor;IGF2R;PTN002495428;orthologs	CATION-INDEPENDENT MANNOSE-6-PHOSPHATE RECEPTOR (PTHR15071:SF17)	membrane traffic protein(PC00150)	Homo sapiens
+HUMAN|HGNC=2707|UniProtKB=P12821	ACE	Angiotensin-converting enzyme;ACE;PTN002471228;orthologs	ANGIOTENSIN-CONVERTING ENZYME (PTHR10514:SF25)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=11929|UniProtKB=Q9Y275	TNFSF13B	Tumor necrosis factor ligand superfamily member 13B;TNFSF13B;PTN002495570;orthologs	TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 13B (PTHR15151:SF2)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=11283|UniProtKB=P12931	SRC	Proto-oncogene tyrosine-protein kinase Src;SRC;PTN002521485;orthologs	PROTO-ONCOGENE TYROSINE-PROTEIN KINASE SRC (PTHR24418:SF53)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=12679|UniProtKB=P11473	VDR	Vitamin D3 receptor;VDR;PTN002515148;orthologs	VITAMIN D3 RECEPTOR (PTHR24082:SF38)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=6190|UniProtKB=P23458	JAK-1	Tyrosine-protein kinase JAK1;JAK1;PTN002521577;orthologs	TYROSINE-PROTEIN KINASE JAK1 (PTHR45807:SF5)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=5006|UniProtKB=P04035	HMGCR	3-hydroxy-3-methylglutaryl-coenzyme A reductase;HMGCR;PTN002471655;orthologs	3-HYDROXY-3-METHYLGLUTARYL-COENZYME A REDUCTASE (PTHR10572:SF24)	reductase(PC00198)	Homo sapiens
+HUMAN|HGNC=9053|UniProtKB=Q03405	PLAUR	Urokinase plasminogen activator surface receptor;PLAUR;PTN002472080;orthologs	UROKINASE PLASMINOGEN ACTIVATOR SURFACE RECEPTOR (PTHR10624:SF6)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6834|UniProtKB=P27338	MAO-B	Amine oxidase [flavin-containing] B;MAOB;PTN002535746;orthologs	AMINE OXIDASE [FLAVIN-CONTAINING] B (PTHR43563:SF1)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=6256|UniProtKB=P78508	KCNJ10	ATP-sensitive inward rectifier potassium channel 10;KCNJ10;PTN002482917;orthologs	ATP-SENSITIVE INWARD RECTIFIER POTASSIUM CHANNEL 10 (PTHR11767:SF21)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=12805|UniProtKB=P47989	XDH	Xanthine dehydrogenase_oxidase;XDH;PTN002484362;orthologs	XANTHINE DEHYDROGENASE_OXIDASE (PTHR11908:SF80)	oxidoreductase(PC00176)	Homo sapiens
+HUMAN|HGNC=85|UniProtKB=O00763	ACACB	Acetyl-CoA carboxylase 2;ACACB;PTN002497968;orthologs	ACETYL-COA CARBOXYLASE 2 (PTHR45728:SF1)		Homo sapiens
+HUMAN|HGNC=1863|UniProtKB=P23141	CES1	Liver carboxylesterase 1;CES1;PTN002480206;orthologs	LIVER CARBOXYLESTERASE 1-RELATED (PTHR11559:SF179)	esterase(PC00097)	Homo sapiens
+HUMAN|HGNC=4325|UniProtKB=O95838	GLP2R	Glucagon-like peptide 2 receptor;GLP2R;PTN002485774;orthologs	GLUCAGON-LIKE PEPTIDE 2 RECEPTOR (PTHR45620:SF23)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=29932|UniProtKB=Q13057	PPAT	Bifunctional coenzyme A synthase;COASY;PTN002473172;orthologs	BIFUNCTIONAL COENZYME A SYNTHASE-RELATED (PTHR10695:SF46)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=1956|UniProtKB=Q15822	CHRNA2	Neuronal acetylcholine receptor subunit alpha-2;CHRNA2;PTN002498463;orthologs	NEURONAL ACETYLCHOLINE RECEPTOR SUBUNIT ALPHA-2 (PTHR18945:SF757)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=6008|UniProtKB=P01589	IL2RA	Interleukin-2 receptor subunit alpha;IL2RA;PTN002471660;orthologs	INTERLEUKIN-2 RECEPTOR SUBUNIT ALPHA (PTHR10573:SF0)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6371|UniProtKB=P03952	KLKB1	Plasma kallikrein;KLKB1;PTN002548669;orthologs	PLASMA KALLIKREIN (PTHR24253:SF64)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=7029|UniProtKB=P08581	MET	Hepatocyte growth factor receptor;MET;PTN002521398;orthologs	HEPATOCYTE GROWTH FACTOR RECEPTOR (PTHR24416:SF483)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=24674|UniProtKB=Q8TES7	ALB	Fas-binding factor 1;FBF1;PTN002531171;orthologs	FAS-BINDING FACTOR 1 (PTHR33689:SF1)		Homo sapiens
+HUMAN|HGNC=288|UniProtKB=P13945	ADRB3	Beta-3 adrenergic receptor;ADRB3;PTN002517630;orthologs	BETA-3 ADRENERGIC RECEPTOR (PTHR24248:SF3)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=7463|UniProtKB=P48039	MTNR1A	Melatonin receptor type 1A;MTNR1A;PTN002540269;orthologs	MELATONIN RECEPTOR TYPE 1A (PTHR24228:SF53)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=3676|UniProtKB=P09038	FGF2	Fibroblast growth factor 2;FGF2;PTN002479523;orthologs	FIBROBLAST GROWTH FACTOR 2 (PTHR11486:SF83)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=341|UniProtKB=P21549	SPT	Alanine--glyoxylate aminotransferase;AGXT;PTN002501496;orthologs	ALANINE--GLYOXYLATE AMINOTRANSFERASE (PTHR21152:SF40)	transaminase(PC00216)	Homo sapiens
+HUMAN|HGNC=3942|UniProtKB=P42345	mTOR	Serine_threonine-protein kinase mTOR;MTOR;PTN002476698;orthologs	SERINE_THREONINE-PROTEIN KINASE MTOR (PTHR11139:SF9)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=2321|UniProtKB=P36551	COX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial;CPOX;PTN002473432;orthologs	OXYGEN-DEPENDENT COPROPORPHYRINOGEN-III OXIDASE, MITOCHONDRIAL (PTHR10755:SF0)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=11989|UniProtKB=P11388	TOP2	DNA topoisomerase 2-alpha;TOP2A;PTN002468618;orthologs	DNA TOPOISOMERASE 2-ALPHA (PTHR10169:SF61)	DNA metabolism protein(PC00009)	Homo sapiens
+HUMAN|HGNC=6623|UniProtKB=Q9Y5X9	LIPE	Endothelial lipase;LIPG;PTN002480892;orthologs	ENDOTHELIAL LIPASE (PTHR11610:SF13)	lipase(PC00143)	Homo sapiens
+HUMAN|HGNC=11608|UniProtKB=P21731	TBXA2R	Thromboxane A2 receptor;TBXA2R;PTN002484060;orthologs	THROMBOXANE A2 RECEPTOR (PTHR11866:SF5)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=6027|UniProtKB=P25025	CXCR2	C-X-C chemokine receptor type 2;CXCR2;PTN002471012;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 2 (PTHR10489:SF689)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=12441|UniProtKB=P04818	TYMS	Thymidylate synthase;TYMS;PTN002480093;orthologs	THYMIDYLATE SYNTHASE (PTHR11548:SF2)	methyltransferase(PC00155)	Homo sapiens
+HUMAN|HGNC=5465|UniProtKB=P08069	IGF1R	Insulin-like growth factor 1 receptor;IGF1R;PTN002521385;orthologs	INSULIN-LIKE GROWTH FACTOR 1 RECEPTOR (PTHR24416:SF106)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5440|UniProtKB=P38484	IFNGR2	Interferon gamma receptor 2;IFNGR2;PTN002500970;orthologs	INTERFERON GAMMA RECEPTOR 2 (PTHR20859:SF46)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6025|UniProtKB=P10145	IL8	Interleukin-8;CXCL8;PTN002468766;orthologs	INTERLEUKIN-8 (PTHR12015:SF200)	cytokine(PC00083)	Homo sapiens
+HUMAN|HGNC=9314|UniProtKB=Q08209	PPP3CA	Protein phosphatase 3 catalytic subunit alpha;PPP3CA;PTN002481533;orthologs	PROTEIN PHOSPHATASE 3 CATALYTIC SUBUNIT ALPHA (PTHR45673:SF5)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=10972|UniProtKB=Q8TCC7	SLC22A8	Organic anion transporter 3;SLC22A8;PTN002782106;orthologs	ORGANIC ANION TRANSPORTER 3 (PTHR24064:SF439)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=1777|UniProtKB=Q00534	CDK6	Cyclin-dependent kinase 6;CDK6;PTN002514107;orthologs	CYCLIN-DEPENDENT KINASE 6 (PTHR24056:SF130)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=5028|UniProtKB=P50135	HNMT	Histamine N-methyltransferase;HNMT;;orthologs			Homo sapiens
+HUMAN|HGNC=5434|UniProtKB=P01574	IFNB1	Interferon beta;IFNB1;PTN002481928;orthologs	INTERFERON BETA (PTHR11691:SF73)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=262|UniProtKB=P30542	ADORA1	Adenosine receptor A1;ADORA1;PTN002517551;orthologs	ADENOSINE RECEPTOR A1 (PTHR24246:SF1)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=3791|UniProtKB=P15328	FOLR1	Folate receptor alpha;FOLR1;PTN002471328;orthologs	FOLATE RECEPTOR ALPHA (PTHR10517:SF15)	membrane trafficking regulatory protein(PC00151)	Homo sapiens
+HUMAN|HGNC=7526|UniProtKB=P22033	MMUT	Methylmalonyl-CoA mutase, mitochondrial;MMUT;PTN002533536;orthologs	METHYLMALONYL-COA MUTASE, MITOCHONDRIAL (PTHR48101:SF4)	mutase(PC00160)	Homo sapiens
+HUMAN|HGNC=6001|UniProtKB=P60568	IL2	Interleukin-2;IL2;PTN009232676;orthologs	INTERLEUKIN-2 (PTHR48487:SF1)		Homo sapiens
+HUMAN|HGNC=2439|UniProtKB=Q99062	G-CSF-R	Granulocyte colony-stimulating factor receptor;CSF3R;PTN002507088;orthologs	GRANULOCYTE COLONY-STIMULATING FACTOR RECEPTOR (PTHR23036:SF103)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1399|UniProtKB=P54289	CACNA2D1	Voltage-dependent calcium channel subunit alpha-2_delta-1;CACNA2D1;PTN002468547;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL SUBUNIT ALPHA-2_DELTA-1 (PTHR10166:SF6)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=17734|UniProtKB=Q96RJ0	TAAR1	Trace amine-associated receptor 1;TAAR1;PTN002517666;orthologs	TRACE AMINE-ASSOCIATED RECEPTOR 1 (PTHR24249:SF415)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11990|UniProtKB=Q02880	TOP2B	DNA topoisomerase 2-beta;TOP2B;PTN002468620;orthologs	DNA TOPOISOMERASE 2-BETA (PTHR10169:SF36)	DNA metabolism protein(PC00009)	Homo sapiens
+HUMAN|HGNC=10593|UniProtKB=Q14524	SCN5A	Sodium channel protein type 5 subunit alpha;SCN5A;PTN002467431;orthologs	SODIUM CHANNEL PROTEIN TYPE 5 SUBUNIT ALPHA (PTHR45628:SF18)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=11119|UniProtKB=Q99835	SMO	Protein smoothened;SMO;PTN002477902;orthologs	PROTEIN SMOOTHENED (PTHR11309:SF35)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=644|UniProtKB=P10275	AR	Androgen receptor;AR;PTN002515277;orthologs	ANDROGEN RECEPTOR (PTHR48092:SF13)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=895|UniProtKB=P37288	V1AR	Vasopressin V1a receptor;AVPR1A;PTN002517430;orthologs	VASOPRESSIN V1A RECEPTOR (PTHR24241:SF17)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=186|UniProtKB=P00813	ADA	Adenosine deaminase;ADA;PTN002478726;orthologs	ADENOSINE DEAMINASE (PTHR11409:SF43)	deaminase(PC00088)	Homo sapiens
+HUMAN|HGNC=5286|UniProtKB=P08908	HTR1A	5-hydroxytryptamine receptor 1A;HTR1A;PTN002517594;orthologs	5-HYDROXYTRYPTAMINE RECEPTOR 1A (PTHR24247:SF20)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=2561|UniProtKB=P61073	CXCR4	C-X-C chemokine receptor type 4;CXCR4;PTN002470993;orthologs	C-X-C CHEMOKINE RECEPTOR TYPE 4 (PTHR10489:SF594)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=285|UniProtKB=P08588	ADRB1	Beta-1 adrenergic receptor;ADRB1;PTN002517628;orthologs	BETA-1 ADRENERGIC RECEPTOR (PTHR24248:SF54)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=9596|UniProtKB=P35408	PTGER2	Prostaglandin E2 receptor EP4 subtype;PTGER4;PTN002484067;orthologs	PROSTAGLANDIN E2 RECEPTOR EP4 SUBTYPE (PTHR11866:SF6)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=7406|UniProtKB=P02795	CES1	Metallothionein-2;MT2A;PTN002510981;orthologs	METALLOTHIONEIN-2 (PTHR23299:SF60)	defense/immunity protein(PC00090)	Homo sapiens
+HUMAN|HGNC=3002|UniProtKB=P16444	DPEP1	Dipeptidase 1;DPEP1;PTN002470778;orthologs	DIPEPTIDASE 1 (PTHR10443:SF38)	protease(PC00190)	Homo sapiens
+HUMAN|HGNC=6193|UniProtKB=P52333	JAK-3	Tyrosine-protein kinase JAK3;JAK3;PTN002521571;orthologs	TYROSINE-PROTEIN KINASE JAK3 (PTHR45807:SF3)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=264|UniProtKB=P29275	ADORA2B	Adenosine receptor A2b;ADORA2B;PTN002517553;orthologs	ADENOSINE RECEPTOR A2B (PTHR24246:SF18)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=3765|UniProtKB=P36888	FLT-3	Receptor-type tyrosine-protein kinase FLT3;FLT3;PTN002521312;orthologs	RECEPTOR-TYPE TYROSINE-PROTEIN KINASE FLT3 (PTHR24416:SF356)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1773|UniProtKB=P11802	CDK4	Cyclin-dependent kinase 4;CDK4;PTN002514106;orthologs	CYCLIN-DEPENDENT KINASE 4 (PTHR24056:SF129)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=10582|UniProtKB=Q9Y5Y9	SCN10A	Sodium channel protein type 10 subunit alpha;SCN10A;PTN002467429;orthologs	SODIUM CHANNEL PROTEIN TYPE 10 SUBUNIT ALPHA (PTHR45628:SF32)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=2594|UniProtKB=P11511	CYP19A1	Aromatase;CYP19A1;PTN002518056;orthologs	AROMATASE (PTHR24291:SF43)	oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=1960|UniProtKB=P36544	CHRNA7	Neuronal acetylcholine receptor subunit alpha-7;CHRNA7;PTN002498508;orthologs	NEURONAL ACETYLCHOLINE RECEPTOR SUBUNIT ALPHA-7 (PTHR18945:SF907)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=12524|UniProtKB=Q16739	UGCG	Ceramide glucosyltransferase;UGCG;PTN002489505;orthologs	CERAMIDE GLUCOSYLTRANSFERASE (PTHR12726:SF0)	glycosyltransferase(PC00111)	Homo sapiens
+HUMAN|HGNC=9792|UniProtKB=P51151	RAB9A	Ras-related protein Rab-9A;RAB9A;PTN002515005;orthologs	RAS-RELATED PROTEIN RAB-9A (PTHR47981:SF9)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=23663|UniProtKB=Q9BQB6	VKORC1	Vitamin K epoxide reductase complex subunit 1;VKORC1;PTN002494803;orthologs	VITAMIN K EPOXIDE REDUCTASE COMPLEX SUBUNIT 1 (PTHR14519:SF8)	oxidoreductase(PC00176)	Homo sapiens
+HUMAN|HGNC=10935|UniProtKB=Q05940	SLC18A2	Synaptic vesicular amine transporter;SLC18A2;PTN002512359;orthologs	SYNAPTIC VESICULAR AMINE TRANSPORTER (PTHR23506:SF30)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=3430|UniProtKB=P04626	HER2	Receptor tyrosine-protein kinase erbB-2;ERBB2;PTN002521386;orthologs	RECEPTOR TYROSINE-PROTEIN KINASE ERBB-2 (PTHR24416:SF137)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=10479|UniProtKB=P48443	RXRG	Retinoic acid receptor RXR-gamma;RXRG;PTN002515235;orthologs	RETINOIC ACID RECEPTOR RXR-GAMMA (PTHR24083:SF100)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=4419|UniProtKB=P01148	GNRH1	Progonadoliberin-1;GNRH1;PTN002471342;orthologs	PROGONADOLIBERIN-1 (PTHR10522:SF0)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=18124|UniProtKB=Q9H244	P2RY12	P2Y purinoceptor 12;P2RY12;PTN002517375;orthologs	P2Y PURINOCEPTOR 12 (PTHR24233:SF0)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11042|UniProtKB=P30531	SLC6A1	Sodium- and chloride-dependent GABA transporter 1;SLC6A1;PTN002480994;orthologs	SODIUM- AND CHLORIDE-DEPENDENT GABA TRANSPORTER 1 (PTHR11616:SF138)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=3689|UniProtKB=P21802	FGFR2	Fibroblast growth factor receptor 2;FGFR2;PTN002521278;orthologs	FIBROBLAST GROWTH FACTOR RECEPTOR 2 (PTHR24416:SF130)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2228|UniProtKB=P21964	COMT	Catechol O-methyltransferase;COMT;PTN002536616;orthologs	CATECHOL O-METHYLTRANSFERASE (PTHR43836:SF3)	methyltransferase(PC00155)	Homo sapiens
+HUMAN|HGNC=5147|UniProtKB=P32754	HPD	4-hydroxyphenylpyruvate dioxygenase;HPD;PTN002485379;orthologs	4-HYDROXYPHENYLPYRUVATE DIOXYGENASE (PTHR11959:SF12)	oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=14449|UniProtKB=Q9UHM6	MOP	Melanopsin;OPN4;PTN002517422;orthologs	MELANOPSIN (PTHR24240:SF72)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=8636|UniProtKB=P11498	PC	Pyruvate carboxylase, mitochondrial;PC;PTN002536380;orthologs	PYRUVATE CARBOXYLASE, MITOCHONDRIAL (PTHR43778:SF2)	ligase(PC00142)	Homo sapiens
+HUMAN|HGNC=4266|UniProtKB=Q02643	GHRHR	Growth hormone-releasing hormone receptor;GHRHR;PTN002485776;orthologs	GROWTH HORMONE-RELEASING HORMONE RECEPTOR (PTHR45620:SF14)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4037|UniProtKB=P06241	FYN	Tyrosine-protein kinase Fyn;FYN;PTN002521488;orthologs	TYROSINE-PROTEIN KINASE FYN (PTHR24418:SF44)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=2020|UniProtKB=P51788	CLC-2	Chloride channel protein 2;CLCN2;PTN002481865;orthologs	CHLORIDE CHANNEL PROTEIN 2 (PTHR45720:SF6)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=9958|UniProtKB=P00797	REN	Renin;REN;PTN002492001;orthologs	RENIN (PTHR47966:SF24)	aspartic protease(PC00053)	Homo sapiens
+HUMAN|HGNC=10937|UniProtKB=P41440	SLC19A1	Reduced folate transporter;SLC19A1;PTN002473109;orthologs	REDUCED FOLATE TRANSPORTER (PTHR10686:SF12)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=9594|UniProtKB=P43116	PTGER2	Prostaglandin E2 receptor EP2 subtype;PTGER2;PTN002484062;orthologs	PROSTAGLANDIN E2 RECEPTOR EP2 SUBTYPE (PTHR11866:SF8)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=5993|UniProtKB=P14778	IL1R1	Interleukin-1 receptor type 1;IL1R1;PTN002484221;orthologs	INTERLEUKIN-1 RECEPTOR TYPE 1 (PTHR11890:SF26)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4263|UniProtKB=P10912	GHR	Growth hormone receptor;GHR;PTN002507078;orthologs	GROWTH HORMONE RECEPTOR (PTHR23036:SF108)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1097|UniProtKB=P15056	BRAF	Serine_threonine-protein kinase B-raf;BRAF;PTN002541149;orthologs	SERINE_THREONINE-PROTEIN KINASE B-RAF (PTHR44329:SF240)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=1389|UniProtKB=Q00975	CACNA1B	Voltage-dependent N-type calcium channel subunit alpha-1B;CACNA1B;PTN002467490;orthologs	VOLTAGE-DEPENDENT N-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1B (PTHR45628:SF6)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=550|UniProtKB=Q16853	AOC3	Membrane primary amine oxidase;AOC3;PTN002472196;orthologs	MEMBRANE PRIMARY AMINE OXIDASE (PTHR10638:SF23)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=11782|UniProtKB=P07101	TH	Tyrosine 3-monooxygenase;TH;PTN002479349;orthologs	TYROSINE 3-MONOOXYGENASE (PTHR11473:SF18)	oxidoreductase(PC00176)	Homo sapiens
+HUMAN|HGNC=9606|UniProtKB=P01270	PTH	Parathyroid hormone;PTH;PTN002471446;orthologs	PARATHYROID HORMONE (PTHR10541:SF2)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=11730|UniProtKB=O14746	TERT	Telomerase reverse transcriptase;TERT;PTN002486077;orthologs	TELOMERASE REVERSE TRANSCRIPTASE (PTHR12066:SF0)	DNA metabolism protein(PC00009)	Homo sapiens
+HUMAN|HGNC=11048|UniProtKB=P23975	NET	Sodium-dependent noradrenaline transporter;SLC6A2;PTN002481015;orthologs	SODIUM-DEPENDENT NORADRENALINE TRANSPORTER (PTHR11616:SF320)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=9155|UniProtKB=P16233	PNLIP	Pancreatic triacylglycerol lipase;PNLIP;PTN002480906;orthologs	PANCREATIC TRIACYLGLYCEROL LIPASE (PTHR11610:SF147)	lipase(PC00143)	Homo sapiens
+HUMAN|HGNC=278|UniProtKB=P35368	ADRA1B	Alpha-1B adrenergic receptor;ADRA1B;PTN002517625;orthologs	ALPHA-1B ADRENERGIC RECEPTOR (PTHR24248:SF17)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=9600|UniProtKB=P43088	PTGFR	Prostaglandin F2-alpha receptor;PTGFR;PTN002484066;orthologs	PROSTAGLANDIN F2-ALPHA RECEPTOR (PTHR11866:SF4)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=2160|UniProtKB=P34972	CB2	Cannabinoid receptor 2;CNR2;PTN002503557;orthologs	CANNABINOID RECEPTOR 2 (PTHR22750:SF10)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=5381|UniProtKB=P14735	IDE	Insulin-degrading enzyme;IDE;PTN002536155;orthologs	INSULIN-DEGRADING ENZYME-RELATED (PTHR43690:SF18)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=10477|UniProtKB=P19793	RXRA	Retinoic acid receptor RXR-alpha;RXRA;PTN002515237;orthologs	RETINOIC ACID RECEPTOR RXR-ALPHA (PTHR24083:SF39)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=3180|UniProtKB=P24530	EDNRB	Endothelin receptor type B;EDNRB;PTN002517506;orthologs	ENDOTHELIN RECEPTOR TYPE B (PTHR46099:SF3)		Homo sapiens
+HUMAN|HGNC=3165|UniProtKB=P21453	S1PR1	Sphingosine 1-phosphate receptor 1;S1PR1;PTN002503539;orthologs	SPHINGOSINE 1-PHOSPHATE RECEPTOR 1 (PTHR22750:SF16)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=9681|UniProtKB=Q13332	R-PTP-sigma	Receptor-type tyrosine-protein phosphatase S;PTPRS;PTN002498772;orthologs	RECEPTOR-TYPE TYROSINE-PROTEIN PHOSPHATASE S (PTHR19134:SF542)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=30521|UniProtKB=Q96NT5	SLC46A1	Proton-coupled folate transporter;SLC46A1;PTN002512365;orthologs	PROTON-COUPLED FOLATE TRANSPORTER (PTHR23507:SF2)		Homo sapiens
+HUMAN|HGNC=6019|UniProtKB=P08887	IL6R	Interleukin-6 receptor subunit alpha;IL6R;PTN002507094;orthologs	INTERLEUKIN-6 RECEPTOR SUBUNIT ALPHA (PTHR23036:SF98)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11766|UniProtKB=P01137	TGFB1	Transforming growth factor beta-1 proprotein;TGFB1;PTN002483818;orthologs	TRANSFORMING GROWTH FACTOR BETA-1 PROPROTEIN (PTHR11848:SF125)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=8778|UniProtKB=Q14432	PDE3A	cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A;PDE3A;PTN002478180;orthologs	PHOSPHODIESTERASE (PTHR11347:SF104)	phosphodiesterase(PC00185)	Homo sapiens
+HUMAN|HGNC=280|UniProtKB=P25100	ADRA1D,ADRA1A	Alpha-1D adrenergic receptor;ADRA1D;PTN002517643;orthologs	ALPHA-1D ADRENERGIC RECEPTOR (PTHR24248:SF14)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=6720|UniProtKB=P02788	LTF	Lactotransferrin;LTF;PTN002479494;orthologs	LACTOTRANSFERRIN (PTHR11485:SF55)	transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=12716|UniProtKB=Q8NER1	TRPV1	Transient receptor potential cation channel subfamily V member 1;TRPV1;PTN002471809;orthologs	TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL SUBFAMILY V MEMBER 1 (PTHR10582:SF17)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=11132|UniProtKB=P60880	SNAP25	Synaptosomal-associated protein 25;SNAP25;PTN002499664;orthologs	SYNAPTOSOMAL-ASSOCIATED PROTEIN 25 (PTHR19305:SF5)	SNARE protein(PC00034)	Homo sapiens
+HUMAN|HGNC=2719|UniProtKB=P20711	DDC	Aromatic-L-amino-acid decarboxylase;DDC;PTN002485636;orthologs	AROMATIC-L-AMINO-ACID DECARBOXYLASE (PTHR11999:SF167)	decarboxylase(PC00089)	Homo sapiens
