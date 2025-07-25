@@ -40,9 +40,10 @@ pc_df = pc_df.set_index('Database')
 plot_df = pc_df.T
 
 fig,ax = plt.subplots()
-g = sns.clustermap(plot_df)
-plt.subplots_adjust(right=0.6,left=0.2)
-g.ax_cbar.set_position((0.1, .3, .03, .4))
-ax.tick_params(axis='x', rotation=45)
+g = sns.clustermap(plot_df,center=0,annot=True,fmt='.0f')
+g.ax_heatmap.set_xticklabels(g.ax_heatmap.get_xticklabels(), rotation=45, ha='right')
+plt.subplots_adjust(right=0.3,left=0.12,bottom=0.2)
+g.ax_cbar.set_position((0.05, .3, .03, .4))
+g.ax_heatmap.set_ylabel('PANTHER class')
 plt.savefig(os.path.join(rdir,'panther_pcs_perDB.png'),format='png',dpi=300)
 
